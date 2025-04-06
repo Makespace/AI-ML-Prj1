@@ -1,0 +1,110 @@
+Equipment
+Studio
+Key Information
+Trouble Ticket
+Report any issues here. 
+Please check the information below first.
+Injury Report
+Report minor injuries here.
+Call 999 if needed.
+Phones are next to both doors.
+First aid kit is at the sink.
+Checklist
+Switch off the power after you are done, wrap up the cables on the desk, and return the desk to the corner of the room.
+Unplug, close cameras and dismount cameras from their stand.
+Ensure 4x Cameras, 2 x microphones, 4 x cables and 1 x SSD card are returned to Studio Box
+Leave everything as you found it.
+If there is anything missing please email management@makespace.org .
+Hardware Setup
+Most of the hardware equipment is very basic to set up. In this section, I'll go through the different pieces of equipment available and how to set each piece of equipment up.
+ATEM Mini Pro
+Attach black cable to the wall socket. (All other necessary cables will be attached to the desk).
+Click the Liliput standby button. 
+Video Cameras x 4
+Each video camera needs to be plugged in, the cables are in the camera equipment box.
+The HDMI and power connector end of the cable needs to be plugged into the ATEM Mini Pro, the power connector and mini HDMI are plugged into the camera.
+The camera should then be switched on using the I/O button.
+Make sure the cameras are properly secured to their mounts.
+Make sure the power cables are in a safe position so that people will not be walking over them. 
+Rode Microphones x 2
+There are 2 rode portable microphones that can be used with the studio equipment
+In order to use the rode microphones
+Clip one microphone onto you
+Connect the other microphone to the microphone port of ATEM
+Microphones 1 and 2 will track cameras 1 and 2.
+Please ensure the microphones are charged for the next user.
+(Do no assume the microphones will be charged when you arrive.)
+
+Connecting you're laptop
+You can connect you laptop to the ATEM Mini Pro using an HMDI cable. This works in the same way as with a camera.
+Connect ATEM to Projector
+The ATEM has an output HDMI displayed above. There is an HDMI cable that sits in the back right hand corner of the classroom. If you would like to project you're recording to the classroom connect these together.
+Recording to SSD
+Recording to SSD is probably the easiest thing you can do on the ATEM. The following section will go through how to record to an SSD. 
+How to record
+How to record
+Connect a USB type 3 to ATEM (There is a compatible SSD card in Makespace.)
+Once you have finished recording please save your files elsewhere as the SSD could be wiped at any time.
+Once connected a green light will appear on the ATEM record light if the device is compatible. 
+To record simply click record. 
+To stop recording click Stop
+Files that are produced
+Plug SSD into a laptop
+The folder will be saved to SSD where specified in Software Control
+Folder contains:
+Audio Source files from 4 cameras and 2 mics (For post editing)
+Audio source file used by Program
+Video source file used by Program
+Video source file used by 4 cameras (for post editing)
+
+Streaming via ATEM
+Streaming via ATEM is quick to set up. However to stream you will need to first get set up with a youtube (or alternative) streaming account.
+Setup
+Connect your laptop to the ATEM.
+Open ATEM 
+Click to "Go live". (I am using Youtube as an example).
+Copy your stream key
+Go to ATEM studio on your laptop
+Select Youtube
+Paste your stream key
+Select your stream quality. (Lower stream quality will result in lower latency.)
+Click "On Air" on ATEM keyboard or ATEM software control.
+Recording or Streaming via OBS
+As well as recording using the ATEM you can also record to OBS. This gives several benefits which are beyond the remit of these instructions (in other words I'm not sure what they are). None the less.
+Get OBS from this website and follow set up instructions https://obsproject.com/download 
+Connect computer to ATEM
+Open OBS and navigate to settings > video 
+Open OBS and navigate to 
+settings > video 
+
+Navigate to 
+Settings > Output > Advanced > Recording
+Check that path is set to where you want files to be saved.
+“Recording Format”: mp4
+“Encoder”:  x264
+“Bit rate”: (Mine is about 5000 Macbook Air)
+“CPU Usage Preset”: very fast (If you get dropped frames whilst recording increase speed!)
+Adding Sources
+Return to OBS home 
+Click “+” on sources box
+Select “Video Capture Device”
+Name as you please
+Select “Blackmagic” from device dropdown
+Preset to 1920x1080
+Select “Audio Input Capture”
+Select Blackmagic Design
+
+Steam Settings
+Open Youtube in the browser
+Click to go live 
+Can be 24hrs to verify you are safe to go live on first use
+After that it is instant
+Copy “Stream key” (keep this private)
+Open Setting -> Stream in OBS
+Select Youtube
+Paste Stream key
+Please keep in mind that all the trainers at Makespace are volunteers. They, like all Makespace members, give their time to continually improve our community. Do not hesitate to ask for training, or indeed any questions, but please be patient as they make time in their schedules to run the practical assessments.
+
+Please contact Makespace Management or the owners for any info.
+This site uses cookies from Google to deliver its services and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies.
+LEARN MOREGOT IT
