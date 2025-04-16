@@ -1,0 +1,108 @@
+CNC Router Operation
+Setting up CNC equipment   
+Set up the CNC
+Create the Tool path 
+Cut the workpiece  
+Clean up   
+
+Secure workpiece to the bed
+Position the work on the bed
+
+Screw the work to the bed
+Use the screws which can be found bowl at the front of the  router bed.
+Measure the screw placement to ensure the screws are out of the tool path. 
+Ensure the screws are positioned so that the all material pieces will still be held securely even after the cut.
+Measure the thickness of the material
+Confirm it is consistent with your cut depths. 
+Cuts should not penetrate into the bed more than 0.5 mm 
+If necessary, modify the tool path file to be consistent with the actual depth of the material 
+
+
+
+
+Power
+Machine Setup
+Turn the Power on at mains socket on wall
+(Note that the Power to the cutting bit spindle is not powered at this point, it will be turned on just prior to cutting.)
+Ensure the Emergency stop is out and not activated. 
+The stop is on the front of the router case, next to the spindle speed control. It should be pulled out and free to move  
+
+Cooling - Confirm cooling water is flowing
+Above the spindle housing there are several tubes carrying water to to the spindle motor .
+The green rotor can be seen moving in a steady rotation when water is flowing. If the water is not flowing, do not continue and report this to maintenance?
+
+
+Setup
+When the power is turned on the pendant will boot. Once it is booted the screen will be flashing red
+
+Press the RESET button to activate the pendant and clear the previous job.
+
+
+
+
+Mounting the Cutter
+Move spindle to front of bed and high enough to be accessible 
+use "Y " 2 or 8  key to move to/from operator end of bed
+use "X "  4 or 6  key to move right/left side of bed
+use "Z"  1  or 9  key to move Up/down
+
+Select the tool (bit) as specified in the tool path file
+Confirm the tool diameter with calipers 
+Choose a collet from rack
+Use the Imperial sized collets for ⅛” (3.175mm)¼” (6.35mm) & ½” (12.7mm) cutters
+
+
+
+
+Mounting the Cutter
+Select the correct ER Collet
+Test the cutter in the selected collet.  
+It must be an easy press fit.  Do not force fit.
+Remove the cutter from the collet.
+Do NOT attempt to fit collet into the nut with the cutter in the collet!
+
+
+
+
+Mounting the Nut, Collet and Cutter
+Remove nut from the spindle (it should be loose and no tools are needed at this stage)
+Clip the collet into the nut from the reverse side of the nut
+Insert the tool to ⅓ of its length into the collet
+Place the collet, nut and tool on/into the spindle.  Finger tighten the nut.
+Turn spindle to confirm that the tool is centred and not bent. 
+Use the wrenches hanging on the wall to tighten the spindle nut 
+Tighten using single hand  to grip both wrenches
+
+Mounting the Cutting Tool into the Router Spindle
+Always clip the collet into the nut before inserting the cutter or attaching the nut to the spindle.
+Never attach the collet/nut without first clipping the collet into the nut.
+
+
+Failing to do this will result in the tool being off-center and may result in the cutter slipping out of the collet while operating.
+
+Setting the Origin  
+
+Set XY Origin
+Ensure the bed is clear of all objects and tools
+Position tool over the Origin for the workpiece using the pendant 
+use "Y " 2 and 8  key to move to/from operator end of bed
+use "X "  4 and 6  key to move right/left side of bed
+The Origin is where the tool will start when cutting the tool path
+Set  XY Origin by pressing XY -> 0  (clear XY axis to zero)
+Ok to confirm   ( OK button is below the 3) 
+The values of x and Y on the screen should read 0.00
+
+
+Set Z Origin
+Remove the sensor from the spindle housing 
+Place Sensor on workpiece directly below spindle and tool 
+Press <Advanced>  button (blue on left) on the pendant
+A new menu will appear 
+Select <Probe> on menu
+Confirm ok
+Probe will move down and contact surface (Z is now set) 
+Have your finger ready to press <pause > in case the probe doesn't retract 
+Probe will retract to safe height after it touches the surface of the sensor
+Return the sensor to the spindle housing
+Be careful to not snag the sensor wire on the spindle hood  
+The tool should be above the workpiece at the start position for the cut 

@@ -1,0 +1,45 @@
+SECTION 1: MDX 40 Model Mill Safety
+
+Personal Protective Equipment
+Eye protection and hearing protection are optional. A dust mask is recommended for irritating dust e.g. MDF
+Clothing, Hair and Jewellery
+Remove dangling clothing and jewellery. Tie back long hair
+Be careful fitting and removing milling bits
+The edges of milling bits are very sharp (cut hazard)
+After milling operations, the milling bit may be very hot (burn hazard)
+NEVER leave the Model Mill running unattended
+You must ALWAYS be within reach of the emergency cut-off button while it is running
+If you need a bathroom break, you can pause the operation (“View” button) for a short period
+1) MDX 40 Model Mill Safety
+
+NEVER put your hand inside the chamber when it is operating
+Manually-controlled spindle head movements are required for alignment, and are possible with the front cover raised
+For manual spindle head movement, ENSURE no part of your body is inside the milling machine chamber – PINCH & CUT HAZARD
+In an emergency, hit the big red Emergency Stop Switch
+This immediately shuts down the machine, and deletes the cutting job
+1) MDX 40 Model Mill Safety
+
+You can mill all types of wood and man-made boards and soft plastics and foams. 
+DO NOT cut metal, glass or ceramics
+Take care to match milling bits with collets
+We have 3,4,5 and 6mm collets, as well as 1/8” and ¼” collets
+Ensure the shank of the milling bit matches the collet – measure if in doubt
+Failure to do this will break the collet
+Only remove one collet at a time – it is easy to mix them up
+Take care to match Feeds and Speeds to Material
+Selecting the wrong feed rate and spindle speeds for the milling bit and material being cut can cause poor cutting performance, excessive tool wear or in the worst case tool fracture 
+1) MDX 40 Model Mill Safety
+
+Further essential material: 
+You will need to review this material to be able to answer the quiz questions:
+These websites discuss basic CNC Mill safety:
+https://www.multicam.com/6-unbreakable-safety-rules-for-cnc-machinery-safety/
+http://www.technologystudent.com/cam/cncman3.htm 
+The hazards of using the Model Mill are listed in the Makespace wiki which can be accessed via the equipment page. 
+
+1) MDX 40 Model Mill Safety
+
+1) Model Mill safety assessment
+Once you have reviewed all the material above, have a go at the CNC Model Mill Quiz in the Training Evaluation Section
+Before you book a face to face skill assessment you will need to score 100% 
+You can have as many attempts as you need

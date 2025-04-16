@@ -1,0 +1,96 @@
+Woodworking Handtools 
+Sharpening
+
+
+Sharpening and tool maintenance
+Sharpening is likely the most intimidating topic in using handtools. 
+Check any woodworking forum and will find lengthy topics that go into the minutia on every single process and detail
+The reality is that is that sharpening is actually very simple and is nothing more than two polished surfaces meeting on a edge. 
+It doesn’t reality matter how you get that edge but given Makespace is a shared space where people with different converge we put together this guide that we ask you to follow when sharpening the Makespace tools
+This guide purpose isn’t to be the ultimate guide to sharpening but simply a set of instructions on how to get the tools sharp so you can get back to woodworking
+
+Terminology
+No matter what tool you are sharpening you can break down the process into 3 steps
+Grinding - The first phase of sharpening which creates the geometry of the blade
+Honing - The second phase use to refine the edge you create with Grinding
+Polishing - The final stage in the process which aims to put a keen edge on the tool for fine working and clean cutting
+
+Blade geometry terminology
+Primary bevel - The starting point . Created during the grinding phase of sharpening. When you sharpen the tool many time of have damaged an edge you can start afresh by regrinding the primary bevel 
+Secondary bevel - The second stage. The whole purpose of a secondary is to reduce the amount of surface, and therefore of time, required to hone and polish an edge. This is small are at the edge of the blade that is a higher angle than the primary.
+Tertiary bevel - The final shape of the blade. Like the purpose of the tertiary is to reduce the amount of time you need to spend on polishing the secondary bevel. This is often done just 1 or 2 degrees higher than the secondary. Many woodworkers skip the tertiary bevel, instead they polish at the same angle as the secondary bevel
+Back bevel  - A small bevel on the otherwise flat back of plane blade. The wood only sees the first few molecules of the edge so this can be small and doe away with the need to flatten the rest of the back – a real plus. 
+
+
+Primary bevel
+Secondary bevel
+Tertiary
+bevel
+
+Plane blades shapes 
+If you are planing a board and the plane is set so that the corners of the plane iron are deeper than the surface of the wood you will leave small ridges which have to be removed at some point. 
+The solution to avoid the problem is to camber, or curve, the iron. Camber is simply an old English word for curve. 
+In order to get a smooth exit for the sides of the iron, so that you don't have ridges or splinters, you simply need to curve the iron slightly more than the thickest shaving you plan to take 
+
+Light camber
+Heavy camber
+Hard corners
+Rounded corners
+
+Establishing the primary bevel 
+In Makespace we use the Tormek (Note this requires separate training) equipped with the square edge jig to establish the primary bevel.
+Most edge tools are ground at 25 degrees
+However, by dropping this angle a few degrees you increase the number of sharpens that can be completed before the need to regrind
+Therefore for Makespace blades we aim for 23 degrees 
+You can set this angle on the Tormek using the anglemaster or simply rely on visual and the black marker trick 
+
+
+Honing the secondary bevel on chisels
+For the secondary bevel we use the DMT Diamond - Extra Fine stone. This is normally the middle stone on Makespace diamond stone hold
+Assemble the Veritas honing guide with the Standard head and the flat roller. 
+Set the angle on the jig to 30 degrees and slide it on to the guide to match half the width of the plane blade.
+Ensure the micro-bevel is set to the 12 o’clock position (shown at the 9 o’clock position)
+Place your fingers in the middle of the blade while applying light pressure 
+Roll the blade back and forth and count the number of strokes
+Feel the back of the blade for a wire edge
+Once you feel an uniform wire edge across the back of the blade, your honing is complete
+
+
+
+Hone the secondary bevel on plane blades
+For plane blades after you complete the previous step you will want to introduce a light camber to the blade. 
+In order to do this divide the blade into 5 zones, where 1 is the left edge, 3 is the centre and 5 is the right edge of the blade
+Move your fingers to position 2 (halfway between the edge and the centre) and apply light pressure
+Repeat the same number of strokes you did for the middle (3) plus 25%, Do the same for position 4. For narrow blades (eg. Number 4 or number 5 plane) you can skip this step. 
+Finally move fingers to position 1 and repeat the same number of strokes for the middle (3) plus 50%. Do the same for position 5 
+If this is done correctly you should see a slighter larger secondary bevel at the edges
+
+1
+3
+5
+2
+4
+
+Polishing the final edge 
+Use the 10,000 waterstone for this step, this stone will require soaking for about 5 minutes before using.
+Waterstones don’t remain flat so you will need to re-flatten the stone, before use, with the diamond plate that is stored with it 
+Rotate the micro bevel adjuster on the Veritas guide to the 9 o’clock position, this will increase the angle of sharpening by a few degrees
+Move the blade only backwards 5 times while applying pressure on the middle of the blade (position 3)
+If you are sharpening a cambered plane blade check next slide. 
+Otherwise your edge sharpening is now complete, but you will be left with a wire edge on the back of the blade that needs to be removed before using the tool
+
+Polishing the tertiary bevel on cambered blades 
+For cambered plane blades you will need to repeat the same procedure as before
+While applying pressure on either position 2 and 4 perform 7 strokes for both positions   
+Finally move your fingers to the corners (position 1 and 5) and perform about 10 strokes on each position
+If you have done this correctly you should see a light grey deposition across the width of the stone 
+
+
+Remove the wire edge
+For chisels you can remove the wire edge by laying the back flat on the 10,000 waterstone with the tip out of the stone.
+Bring the tip into the stone while keeping contact throughout the back of the chisel
+Repeat until you can no longer feel the wire edge, 10-20 strokes should suffice 
+For plane blades we use the ruler trick. See details here: https://youtu.be/nykVPKbUGTo
+Never use the ruler trick on chisels or any other tool that relies on the back of the blade for reference.  
+
+Sharpening chisels process from start to finish

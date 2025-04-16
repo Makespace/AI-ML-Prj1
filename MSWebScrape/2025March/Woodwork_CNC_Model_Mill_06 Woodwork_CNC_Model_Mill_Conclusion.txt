@@ -1,0 +1,14 @@
+In conclusion
+This training guide is a BASIC introduction to simple 2D milling
+PRACTICE using the Model Mill and related software as soon as possible after completing the training 
+Expect to commit at least 4 hours to practicing in order to ingrain the basics
+If in doubt, STOP and ask
+If something on the Model Mill breaks, or something appears unsafe, STOP working immediately and inform cncmodelmill@makespace.org
+Do not attempt to repair it yourself
+Enjoy!
+
+
+In conclusion
+If a milling bit breaks do not worry. Inform cncmodelmill@makespace.org
+If something on the Model Mill breaks, or something appears unsafe stop working immediately and inform cncmodelmill@makespace.org. Do not attempt to repair it yourself.
+Enjoy using the Model Mill!

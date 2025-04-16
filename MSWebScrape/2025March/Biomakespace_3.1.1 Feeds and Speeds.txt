@@ -1,0 +1,39 @@
+Feeds and Speeds
+Creating the Tool Path 
+https://equipment.makespace.org/cnc-router
+
+What are feeds and speeds? Why are they important?
+
+Milling machine tutorial - cutter selection, speeds and feeds
+Wikipedia - Speeds and feeds
+The phrase speeds and feeds (or feeds and speeds) refers to two separate velocities in machine tool practice, cutting speed and feed rate. They are often considered as a pair because of their combined effect on the cutting process. Each, however, can also be considered and analyzed in its own right.
+
+
+Cutting speed
+Cutting speed (also called surface speed or simply speed) is the speed difference (relative velocity) between the cutting tool and the surface of the workpiece it is operating on. It is expressed in units of distance along the workpiece surface per unit of time, typically surface feet per minute (sfm) or meters per minute (m/min). Feed rate (also often styled as a solid compound, feedrate, or called simply feed) is the relative velocity at which the cutter is advanced along the workpiece; its vector is perpendicular to the vector of cutting speed. 
+
+
+Spindle speed quick reference
+
+Feed rate
+Feed rate units depend on the motion of the tool and workpiece; when the workpiece rotates (e.g., in turning and boring), the units are almost always distance per spindle revolution (inches per revolution [in/rev or ipr] or millimeters per revolution [mm/rev]). When the workpiece does not rotate (e.g., in milling), the units are typically distance per time (inches per minute [in/min or ipm] or millimeters per minute [mm/min]), although distance per revolution or per cutter tooth are also sometimes used. 
+
+Feed rate quick reference
+
+Sample feed rates
+For working out feeds and speeds, recommend http://www.cnccookbook.com/CCGWizard.
+The feeds and speeds below have been tested on our machine. The 3mm cutters were single flute carbide. 2 flute HSS cutters may require different settings to avoid breakages.
+
+
+Examples 
+Polycarbonate: 300Hz 1600mm/min
+Foamed PVC (foamex): 
+6mm diameter, 10mm deep pass depth, spindle 400Hz (24krpm), feed 9000mm/min.
+3mm diameter, 3mm deep pass depth, 400Hz (24krpm), 9000mm/min.
+Polyurethane foam:
+6mm diameter, full depth pass (30mm+), 400Hz (24krpm), 9000mm/min.
+3mm diameter, 6mm deep pass depth, 400Hz (24krpm), 9000mm/min.
+Acetal (Delrin):
+6mm Cutter, 2mm deep pass depth, spindle 150 - 180Hz, feed 3000mm/min.
+1/8th or 3mm cutter, 1.5 - 2mm deep pass depth, spindle 130 - 160Hz, feed 2-3000mm/min.
+

@@ -1,0 +1,14 @@
+Burn Hazard, Nozzles at 200°C, Build Plate at 100°C; Machine moves autonomously, Pinch Hazard; Prolonged exposure to ABS fumes is harmful
+DO NOT
+Stick your hand in machine when it is running
+Move printhead by hand when machine is on
+Try to move the print bed by hand
+Touch the print head when the nozzles are hot
+Remove the Glass Plate
+
+
+If in doubt: switch off the printer
+The only thing you will lose/damage is your print.
+RED EQUIPMENT: Not to be used without completing online training and practical assessment
+No PPE Required
+Ultimaker 2+ Safety

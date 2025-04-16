@@ -1,0 +1,374 @@
+Bambu Lab X1
+Training
+
+What is covered in this course
+
+Health and Safety with the X1 series
+Limitations of this training
+Preparing and sending prints to the printer
+Loading filament
+Start and remove a print
+Troubleshooting, Failed print detection
+Etiquette and misc. Rules
+Multi-coloured printing
+
+Hardware overview Bambu Lab X1
+AMS - Automatic Material System
+Touchscreen control panel
+Door Handle
+Print Chamber
+Poop collection box
+Spool holder for side loading filament
+Power Switch
+(on back)
+
+Differences from the Ultimaker 2+
+Ultimaker 2+
+BambuLabs X1c
+Filament diameter
+2.85mm
+1.75mm
+Filament spool size
+Any standard 1kg or 750g spool
+Standard 750g spools or compact 1kg spools
+Build Volume
+223 x 223 x 205 mm 
+223 x 223 x 305 mm (extended model)
+256 × 256 × 256 mm
+Bed type
+Heated glass plate
+Heated flexible steel build plate with coating.
+Nozzle size
+0.4mm
+0.4mm
+Auto bed levelling
+No
+Yes
+Multi colour capable
+No
+Yes
+Failed print detection
+No
+Yes
+Print Speed (single colour)
+Slower
+Faster
+
+Health and Safety
+Bed and Nozzle are burn hazards
+	Check temps on display prior to touching them
+Print head and bed can move autonomously (pinch hazard)
+	Check status of printer before reaching into printer
+	Off switch is on back right corner of printer
+Some filaments emit toxic fumes when printed
+	Keep door closed when printing
+
+
+Limitations of this training
+The printer is new to Makespace. We will expand and roll-out capabilities and training with time.
+You might be asked to renew your training as things are updated.
+Don’ts:
+Don’t use the AMS to print TPU or filament with additives like carbon fiber
+What you currently can do:
+Print PLA, ABS, ASA, PC, Nylon (PA), PETG or TPU (using Makespace filament or your own filament)
+Use the AMS for PLA, ABS, ASA, PC, Nylon (PA) or PETG filament
+Side load TPU filament or filaments with additives like carbon fiber
+Use a variety of build plates
+
+Prepare and send prints to the printer
+High level overview
+Open Bambu Studio
+Connect with printer
+Synchronize with AMS (optional)
+Slice part(s)
+Send sliced plate or multiple plates to printer
+
+Important notes
+You don’t need a Bambu account.
+The printer is in LAN mode. Files sent to the printer never leave the MakeSpace network.
+You can only send prints to the printer inside the MakeSpace WiFi or from the 3D printing computer at MakeSpace.
+
+Preparing prints (walkthrough)
+https://bambulab.com/en/download/studio
+Download Bambu Studio
+Go to ‘Device’
+Select correct MS printer
+Enter access code when prompted(see front of printer)
+You are ready to go
+https://github.com/bambulab/BambuStudio/releases
+
+Preparing prints (walkthrough)
+
+Ensure the correct plate is selected (see next slides)
+
+Build plates
+A variety of magnetic build plates are available.
+The Textured PEI is a good go-to default but leaves a textured surface.
+The following plates must be kept glue free: 
+Textured PEI
+High Temperature and Smooth PEI when print PLA
+Otherwise a thin layer of glue stick is needed to ensure first layer adhesion and safe removal without tearing the coating.
+To clean plates use only plastic scraper, water and soap.
+Inspect the bed before printing.
+Check type before using
+
+
+Smooth PEI plate
+Good for: 
+PLA, ABS, PETG
+Has to be used with Glue-Stick
+Except for PLA
+Will tear PEI sheet otherwise
+Build plates
+
+Build plates
+Cool plate
+Good for: 
+PLA
+Needs glue stick
+
+Build plates
+Engineering plate
+Good for: 
+PETG, ABS, TPU, Nylon (PA), PC
+Recommended for PC
+Needs glue stick
+
+Build plates
+High temperature plate
+Good for: 
+PLA, PETG, ABS, TPU, PC
+Recommended for PC
+Needs glue stick
+
+Preparing prints (walkthrough)
+
+Resync filament
+
+Preparing prints (walkthrough)
+Ensure list of filaments line up with what is actually loaded
+
+Preparing prints (walkthrough)
+
+Select Objects menu
+
+Preparing prints (walkthrough)
+
+Choose filament for model 
+(you can use the keyboard numbers)
+
+Preparing prints (walkthrough)
+
+Click slice plate
+
+Preparing prints (walkthrough)
+Slice the print
+Make note of the total filament usage in grams. This is what you need to pay for.
+Use the total of both “model” and “flushed” filament. 
+
+Preparing prints (walkthrough)
+You have multiple options for sending your print to the printer
+Send a single slice plate directly (MS WiFi or from MS computer)
+Send multiple sliced plates directly (MS WiFi or from MS computer)
+Export gcode (open and send from MS computer)
+Save project (slice and send from MS computer)
+
+CTRL/CMD + S
+
+Loading filament (AMS)
+The AMS sits on the printer. Filament in it can be autonomously loaded by the printer.
+Bambu Lab spools are detected automatically
+A print can include every material that is loaded in the AMS if they have similar properties. The slicer will let you know what isn’t possible.
+The lid of the AMS is held closed by two latches (circled in top image)
+There is no harm in leaving spools you don’t need in the AMS.
+
+(Un) Loading Filament
+If the filament you want to remove is loaded all the way to the nozzle you need to unload it using the display.
+Nozzle loaded with the green filament
+Nozzle empty
+
+Loading Filament (AMS)
+Check that the filament is not loaded in the nozzle
+Pull the filament out of the AMS mechanism
+Secure the end in the spool
+Push the grey lever forward
+Insert new filament
+Once AMS start moving let go of filament
+Close AMS
+
+If you need to clip the filament before inserting it due to it being damaged, make a straight cut. The filament end doesn’t have to be pointy for the X1.
+Push here to load filament
+
+Loading Filament
+If the AMS doesn’t auto-detect a Bambu Lab spool type, power-cycle the machine.
+
+If you load a non-Bambu spool, or side-load filament, you can set the filament properties after loading by tapping the “Pencil” icon (or in Bambu Studio).
+
+
+Side-Loading Filament
+TPU and other filament that is not compatible with the AMS can be used by hanging a spool on the side of the printer.
+The end of the filament must be inserted in to the guide tube and manually fed down to the extruder by hand.
+Use the “Load” menu item to forward the filament to the nozzle.
+Once filament is loaded, the filament can be configured in Bambu Studio or on the front panel of the printer using the “Pencil” icon (see previous slide).
+You must unload side-loaded filament when a print is complete following the instructions at  “(Un) Loading Filament“. Please remove side-loaded spools when they are no longer in use and put them away.
+
+Start and remove prints
+Before printing
+Check that the filament in the slots you are using matches what the printer thinks it is.
+Check the display if components are too hot to touch
+Empty the bed(this includes the purge and calibration lines on the edge)
+Empty the poop chute
+Ensure correct bed is inserted
+Ensure bed is aligned correctly
+Only start prints from the printer display
+
+Start and remove prints
+After printing
+Check the display if components are too hot to touch
+Remove the bed from the printer
+Empty the bed(this includes the purge and calibration lines on the edge)
+Empty the poop chute
+Pay for your print using existing filament options on the sumup.
+
+Troubleshooting (1)
+Slicer doesn’t want to send the print to the printer
+ensure printer is connected in device tab
+restart slicer
+Make space on the SD card by deleting print files on the printer
+Printer doesn’t want to recognize filament
+power cycle the printer
+Set filament type manually after loading
+Its printing in the wrong colour
+When you start the print on the printer you can select which filament to use
+It will not let me change the filament
+Follow the steps in “(Un) Loading Filament” to remove the previous filament
+
+Troubleshooting (2)
+I see this message on the printer:
+
+
+
+
+
+
+The last person had printed from side loaded filament. Unload that filament by following the instructions in “(Un) Loading Filament” 
+
+Failed Print Detection
+The printer can detect problems and pause the print job.
+A message is shown on the printer’s touchscreen.
+You are given the option to stop the print job if it looks unrecoverable or resume if you think it looks ok.
+See appendix 2 for how you can cancel part of a multipart print.
+
+FAQ
+How do I make my print go super fast?
+Once the print has started (after purge, calibration etc.) you can select ludicrous mode. Note that this increases the chance of print failures.
+Can I use my own filament?
+Yes. Currently only ABS, PLA and TPU are permitted. Not all spools fit into the AMS. If your spool does not fit into the AMS you may be able to use it by side loading. Note that cardboard spool might not work in the AMS. You can find rims to print that help with cardboard spools. TPU must never be used in the AMS and must be side-loaded.
+Why is my print taking so long to start.
+The printer levels the bed and calibrates the filament flow before each print. You can disable this when starting the print if you like.
+If the previous print was at a higher temperature is can take a while for the bed to cool down to the right temperature.  Opening the door can help. Make sure to close it as soon as the print starts and never leave it open unattended.
+
+FAQ
+What does this message mean?
+You are printing with a low temp. Filament.This is a default message that can be ignored.
+How do I make it go ludicrously fast?
+On the display: Settings > Temperature/Axis > 100% > Ludicrous (160%)
+Note that increasing the speed beyond 100% will increase the likelihood of print failures and can reduce print quality.
+
+Etiquette
+Treat other people’s work with care and respect.
+If you remove someone else’s print from the printer, do so carefully and place it in the completed prints box.
+If you find the printer has paused because it detected a problem, use your judgment as to whether the print is recoverable.
+If it is then resume the print.
+If not then cancel the print and clean up the print bed.
+In either case you should contact the member to let them know.
+
+
+Misc. Rules
+One printer per member across both Ultimakers and Bambu
+Leave your name and contact information when printing
+Keep the printer in LAN mode at all times
+Report problems to the owners using a trouble ticket
+Keep it “safe for work” - no weapons, sex toys etc.
+Always keep the printer and AMS closed when you are not interacting with it.
+
+Appendix 1: Multi coloured printing
+Using the AMS, the Bambu printers are capable of multi coloured printing.
+You can use BambuStudio to assign different channels in the AMS to 
+This video shows how:
+
+
+Appendix 1: Multi coloured printing
+To ensure that colours do not mix, sufficient flushing is required.
+You can alter the flushing volumes in BambuStudio
+The banding on the model below was caused by insufficient flushing.
+
+
+Appendix 1: Multi coloured printing - waste
+Multi-coloured prints can produce a lot of waste. For example this 35g model of a dragon produced 250g of waste. There are various strategies to help reduce waste. If you need multiple copies of the same model then printing them all at the same time can save time and reduce waste material. You could print 4 of these dragons simultaneously and produce the same amount of waste.
+To reduce waste you can flush to infill and/or supports:a
+Or you can flush to an object:
+(that object will be random colours)
+
+
+Appendix 2: Recovering from partially failed prints
+If you are printing multiple parts and one of them fails mid print you can cancel just the failed part and allow the rest of the print to continue.
+
+Appendix 2: Recovering from partially failed prints
+
+On the home screen press the skip button.
+
+
+On the left hand side of the screen touch the area where the failed part is
+On the right side of the screen touch the part(s) that you want to cancel. It will go red to show that it will be skipped.
+
+Appendix 2: Recovering from partially failed prints
+
+
+Press the skip objects button
+Confirm your choice in the popup
+The rest of your print will now continue to print
+
+Appendix 3: Using another material for support interfaces
+
+
+The AMS allows us to print multiple materials so long as they have roughly compatible melting points but some materials that can print together don’t adhere well to each other. We can use these properties to make supports that are very easy to remove and leave a very clean finish.
+To reduce the number of filament changes required (faster prints) we can only use the special material for the part of the support that touches the print (the interface layers).
+BambuLabs make some dedicated support materials that work on this principal but you can achieve the same results using ordinary filaments. For example PLA makes a good support material for PETG and vice versa.
+
+Appendix 3: Using another material for support interfaces
+
+
+In these notes I will show how to use PETG as support interface for PLA. If you use the dedicated BambuLabs support material then most of these settings will be done for you.
+Ensure that you have PLA and PETG loaded in the AMS and synced to BambuStudio.
+Enable supports.
+Select PLA as your support/raft base
+Select PETG as your support/raft interface
+
+Appendix 3: Using another material for support interfaces
+
+
+5. Set Top Z distance to 0 (zero)
+6. Set Bottom Z distance to 0 (zero)
+7. Set Top interface spacing to 0 (zero)
+
+Appendix 3: Using another material for support interfaces
+
+
+8. Disable Flush into objects supports
+
+
+9. In the flushing volumes window change the flush volumes as follows:
+Support Material -> Main Material = 600
+Main Material -> Support Material = 200
+
+Appendix 3: Using another material for support interfaces
+
+
+You can now slice your print.
+Check in the preview that the interface layers are in the correct material.
+If you are happy with the preview, you can print as normal.
+
+Useful links
+Nameplate Designer
+SVG to Solid - turn 2D svg files such as logos into 3D printable models

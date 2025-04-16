@@ -1,0 +1,93 @@
+Pfaff industrial sewing machine 
+Makespace training
+
+Contents
+Components
+Threading
+Winding the bobbin
+Sewing
+Troubleshooting
+Routine maintenance
+
+Overview and use
+Industrial sewing machine, model: Pfaff 34-705/03 AL
+
+Recommended for heavy duty sewing such as denim and thin-medium thickness leather. 
+Works best with thicker thread, such as the Gutermann ‘Extra strong’ polyester thread. 
+Can only sew a straight forward stitch (no zig zag or back stitching) of lengths 0 -5mm.
+As it is currently set up, the Pfaff machine will not work well with thin thread or light fabrics, as used in standard dressmaking. Please the Janome sewing machine for this.
+This training deck contains covers the basics of using the machine. You can find a video of threading of basic threading and operation on this youtube video: https://youtu.be/tCfrJ6XEuqI 
+
+
+Caution: Needle
+
+Machine overview
+
+Threading the machine - top
+The machine can be threaded following the red line in the picture.
+The thread must go around the tension spring between the two metal plated following the red arrows.
+Once at the bottom, the thread must go through the needle in the direction shown by the bottom arrow.
+Make sure about 20cm of thread are left past the needle. 
+Rotate the machine pulley by hand towards you slowly to make sure you get the thread below.
+Needle threading direction
+20cm 
+
+Threading the machine - bobbin
+The bobbin is at the bottom of the machine. 
+Only use metal bobbins on this machine.
+Tilt the machine away from you to reveal its underside
+Take out the bobbin holder from the left side.
+Insert the threaded bobbin with the thread hanging over the top to the right  
+Pull the thread through the slit in the bobbin holder over to the left opening.
+
+Threading the machine - bobbin tension
+Check the bobbin tension: 
+You should be able to pull the thread through without great force, but the thread should not unwind when just dangled and not pulled. 
+If the tension is too low (thread unwinds when dangling the bobbin), your thread is too thin for the setup. Please use a thicker thread or the Janome machine.
+If the tension is too high (thread difficult to pull through), your thread is too thick for the setup. If you want to adjust the tension, turn the bobbin screw very slightly ccw (an ⅛ of a turn at a time), but please put it back to how it was set after you are done. If you are not sure, ask for help before making any changes.
+
+Winding the bobbin
+You wind the bobbin on the right side of the machine. 
+Thread the bobbin as shown in the images. 
+Disengage the needle
+Push the bobbin threader forward
+Push the foot pedal to run the machine and wind the bobbin
+When done. Return (2) and (3) to their original positions for sewing.
+1)
+2)
+Hold wheel stationary
+x
+3)
+
+Operating the machine - sewing
+Raise the foot to place your material.
+Once your material is positioned, lower the foot. 
+Turn on the machine from the electric switch on the underside of the desk.
+Press the foot paddle to start sewing. Let the machine feed the material, do not pull or push the material. 
+CAUTION: it goes it really fast if you press hard, start gently!
+
+Trouble-shooting
+Skipped stitches: usually because the tension needs adjusting or the needle is not sharp enough
+If the foot is pressing too much, you can adjust foot pressure (see image)
+
+Top view of machine
+Turn to adjust foot pressure
+X
+
+Routine maintenance (maintainer’s responsibility)	
+Regularly clear threads out of the bobbin area.
+Use fine machine oil, oil sparingly (1-2 drops) where x is marked on the pictures. Iol once a year. If used heavily, oil twice a year. 
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x

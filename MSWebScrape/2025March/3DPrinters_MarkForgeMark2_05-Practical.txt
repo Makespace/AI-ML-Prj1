@@ -1,0 +1,18 @@
+The practical
+What to expect and what to prepare
+
+Before the practical
+Choose an e-mail address for you eiger.io account
+Don’t create an eiger.io account yet!You can’t be in multiple organisations on eiger.io with the same e-mail.You will be added to the Makespace organisation during the practical.
+During the practical we send an invite to said e-mail address and then you can create an account with access to the printer.
+If you already have an account on eiger.io, you need to either use a different e-mail for your Makespace eiger.io account or delete your existing one.
+
+At the practical
+Get added to the eiger.io Makespace organisation
+Create a print job and send it to the queue(we’ll have simple STLs ready to use)
+Print and remove the print from the printer
+
+Bring:
+An e-mail address
+Means to access your emails, log in to eiger.io and use it(Chrome browser and WiFi required)
+

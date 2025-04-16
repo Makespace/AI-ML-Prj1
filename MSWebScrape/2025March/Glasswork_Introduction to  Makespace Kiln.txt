@@ -1,0 +1,58 @@
+Introduction to 
+Makespace Kiln
+
+What is in this?
+What is a Kiln and what it’s used for
+Basic Information
+Cutting Glass
+Firing Schedules
+Kiln Programs -  what they are, what they do and how to set one up
+Health and Safety
+
+What is the Kiln?
+A kiln is a insulated chamber, that produces temperatures to alter the product inside it.
+The kiln works by slowly heating up items inside the kiln, with a max temperature of 1050°C.
+This is a slow process that happens over hours so can be time consuming.
+For this reason this is a RED piece of equipment.
+Ours is a Paragon SC2BW Kiln which can be used for glass work and metal clay.
+
+
+
+Basic Information
+There are many different kinds glass rated by their COE (Coefficient of Expansion) but most are not suitable for using in the kiln. The higher the COE is lower the melting temperature. We use COE 90/96 glass for the kiln and 104 for the hot torch.
+
+The melting point for COE 96 glass is between 716C and 815C depending on the type glass, after effects wanted and additions. 
+
+The ideal thickness for glass fusing is 6mm and most sheets of glass are 2,3 or 6mm thick. It’s best to check the thickness of your glass before you use it. One square piece of 3mm glass would shrink in at the edges and it would no longer be exactly square, while three layers would become rounded and bigger as the glass pushes outwards.
+
+
+
+Cutting Glass
+
+Kiln Programs
+
+
+There are Five single speed programs (SPd) and Four pre-programmed multi-staged Programs (Pr).
+
+
+SPd1=111°C per Hour
+SPd2=277°C per Hour
+SPd3=555°C per Hour
+SPd4=833°C per Hour
+SPd5=Full Power
+Pr1 is for bead annealing
+Pr2 is for a full fuse
+Pr3 is for a basic slump
+Pr4 is for freeze and fuse
+
+How to Programme the Kiln
+If you change a program please reset it after.
+
+Health and Safety
+When cutting glass always wear safety glasses.
+FPP3 or P3 masks should be worn when using glass power, kiln wash or cleaning the kiln after use.
+No Food or Drink on the glass work table.
+Wash your hands after handling the glass or powders.
+Do not touch the kiln with bare hands when it is on, use heat resistance gloves if necessary.
+Unplug the kiln after use and before cleaning.
+Tie back Long Hair, remove long jewellery and don’t wear loose clothing 

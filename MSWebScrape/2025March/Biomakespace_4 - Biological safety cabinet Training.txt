@@ -1,0 +1,149 @@
+Biological Safety Cabinet
+Preparation, Switch on, Use and switch off
+
+Includes information on best practice use of CO2 incubators to grow cells of animal/primate/human origin
+
+Personal Protective Equipment
+Long sleeved lab coat
+gloves 
+Tuck the labcoat sleeve into the clove to avoid contamination from skin flora. 
+Some operators routinely use two pair of gloves (required when working with pathogens) 
+
+How do Class II safety cabinets work
+The cabinet has
+
+A front opening with carefully maintained continuous inward airflow.
+HEPA-filtered, vertical, unidirectional airflow within the work area.
+HEPA-filtered exhaust air to the room or the exhaust connected to an external extract system.
+.
+Image from www.labogene.com
+Further reading (not required for passing the quiz):More detailed descriptions of how biological safety cabinets work – check out the following website: https://www.labogene.com/Biological-Safety-Cabinets
+Biomakespace Walker Safety Cabinet air flow
+
+
+To remove the front panel of the laminar flow cabinet, 
+hold the handle and turn the 4 knobs anti-clockwise (2 on the right hand side of the panel and 2 on the left hand side of the panel)
+Hold both handles and slide downwards to remove the panel.
+Place the panel securely on its side (narrow side) on the left hand side of the cabinet
+
+Open the front of the Biological Safety Cabinet
+Right handle
+
+Check the key is in “Normal position. If not, turn from “Off” to “Normal” . Notice the POWER ON light
+Press the ON/OFF button
+
+
+
+
+Switch on the Biological Safety Cabinet
+Switch the cabinet on before you start working and leave the cabinet switched on for a few minutes after use so as to purge the work zone of any contaminants
+
+
+
+
+
+3. An alarm will sound till the downflow air and In flow air Lights change to GREEN “SAFE” 
+4. Press button to switch on lights (UV does not work, lights only)
+Press button to switch socket on (if you need electrical point)
+
+What if the alarm keeps sounding?
+In case the alarm keeps sounding after you turned the key, check that the extractor fan power is switched on 
+
+The power switch and a transformer for the extractor fan are located high up to the left of the door, above the circuit breaker cabinet
+
+Make sure the switch is pressed downwards
+
+
+Door of the lab
+If the alarm keeps beeping and the airflow lights do not turn green, the cabinet cannot be used for sterile working. Put a “out of action” note on the cabinet, and submit a Trouble ticket 
+
+Using the Biological Safety Cabinet
+
+Do not obstruct any of the air grilles in the front or back of the work zone
+
+Decontaminate the work zone with cleaning agent before use with 70% ethanol
+
+A few tips on working safe and sterile in the cabinet
+
+
+Wipe off each item you need for your procedures before placing it inside cabinet.
+Work from “clean” to “dirty” – segregate the contaminated from the sterile material. For example: left: clean area- middle: working area – right: waste area (tips/liquid)
+Move slowly and sideways as to not disturb the airflow when working in the safety cabinet.
+Do not use the cabinet as a storage area. Keeping unnecessary items in the cabinet can affect cabinet airflow and containment
+Image from  Esco Scientific
+
+Finishing your activities
+When you finished your activities, make sure you clear out all equipment, waste and samples from the cabinet. Follow the waste management rules.
+
+Clean/decontaminate the inside of the cabinet with 70% and paper towels
+
+Leave the cabinet switched on a few minutes after use so as to purge the work zone of any contaminants
+
+Do not leave anything in the cabinet after using it. If you require the use of the cabinet for longer times (e.g over night) for your experiment, make sure you have notified the lab users that you intend to use the cabinet for a prolonged time, book the cabinet for the additional time, add a note with your name and contact details on the cabinet and drop a message in the lab channel
+
+Leave the key in “Normal” position
+ 
+Press the ON/OFF button
+
+
+
+
+Switch off the Biological Safety Cabinet
+Press button to switch lights OFF
+Press button to switch socket OFF
+
+
+To put the front panel back onto the laminar flow cabinet, 
+Take the panel by both handles and place it into the front opening of the cabinet - with the black arrow pointing upwards on the right hand side of the panel 
+hold the handle and turn the 4 knobs clockwise (2 on the right hand side of the panel and 2 on the left hand side of the panel)
+
+
+Close the front of the Biological Safety Cabinet
+Right handle
+
+To create optimal growth conditions for mammalian cells, scientists use CO2 incubators.
+CO2 incubators are sealed, climate-controlled boxes used in life science laboratories to grow biological cell cultures. They are required to maintain the same conditions as inside the human body.
+7.4 pH neutral
+98.6°F (37°C)
+> 90% relative humidity (moisture)
+Incubators need to be very clean (ideally sterile) environments so cells grown in the incubator do not get contaminated, which results in failed experiments and the need to throw the cells away and start all over again.
+
+
+Growing (culturing) cells 
+
+C02 Incubators
+The Biomakespace labs have two Sanyo CO2 incubators.
+Located in the middle lab, next to the Bio safety cabinet
+Members with approved projects that involve growth of mammalian cells can use the incubators to grow the cells
+
+If you see any issues with the CO2 levels ( too high or too low); contact bio-committee@makespace.org
+
+Using C02 Incubators
+Cleanliness is critical for preventing contamination of cells of human/primate origin.  
+The following best practice should be observed
+Always wear lab coat and gloves over the cuffs of the labcoat to avoid skin flora entering the incubator.
+Make sure that there is nobody else moving around close to the incubator
+Always limit the time the incubator door is open
+Immediately close the incubator doors when you take cells out or put cells in. 
+
+
+Using C02 Incubators - maintaining humidity
+Steps to fill or replace the water in the humidifying pan 
+Lift the front side of the humidifying pan cover as shown in fig 1
+Pull out the pan towards you (See fig 2)
+Dispose of the water that is in the pan and wash the pan with mild detergent. Then rinse the pan with distilled water. Wipe the pan with with a soft cloth and 70% alcohol for disinfection.
+Wipe off the bottom of the chamber completely
+Warm about 3 liters sterile, distilled water to 37 degrees, Place the pan under the pan cover and pour the warm sterile distilled water into into the pan. See figure 3
+Push the pan into its correct position and replace the cover over the pan. Close the inner and outer door
+Check that the water level alarm lamp on the control panel is off
+When the water level alarm lamp blinks, replace the water in the pan following the instructions above
+
+Recap of the training
+We have covered:
+How class II biological safety cabinets work
+What PPE equipment you need before using the cabinet
+How to switch the cabinet on and off
+Best practice use of the cabinet
+How to decontaminate the cabinet
+How to use the CO2 incubators and top up/replace the water in the humidifying pan
+

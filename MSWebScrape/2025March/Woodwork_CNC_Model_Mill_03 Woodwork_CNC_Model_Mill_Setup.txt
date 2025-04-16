@@ -1,0 +1,24 @@
+SECTION 2: Setting up the Model Mill
+
+2) Setting up the Model Mill: SCOPE
+Before you start:
+Consider materials and tools
+Watch the videos cited in the Resources slide below
+Set-up Tasks:
+Switch Model Mill On (& Off)
+Emergency Stop & View button
+Install Milling bit in spindle head
+Mount Work piece on table
+Set spindle head X, Y and Z coordinates
+Level surface of work piece
+You are now ready to cut
+
+2) Setting up the Model Mill: Resources
+Read the PDF “Roland MDX 40A Model Mill: SET-UP GUIDE, on the Makespace wiki:
+Please watch the following videos:
+In preparation
+Roland online support page at:
+https://www.rolanddga.com/support/products/milling/modela-mdx-40-3d-milling-machine
+
+
+

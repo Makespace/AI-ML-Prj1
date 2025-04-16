@@ -1,0 +1,24 @@
+Circular Saw Induction Training
+Equipment Usage
+
+Circular Saw
+Training 5: Bevel Cuts
+
+Bevel Cuts
+The final cut you will cover in training is a bevel cut
+In a circular saw context this is a cut made with the saw set at an angle to its own base plate, 
+This is different to a mitre, which is where the saw is simply pushed along a pencil line at a non-90° angle to the workpiece
+Note that tilting the bed of the band saw is usually a more accurate and safer method of producing a bevel.
+Bevel Cut
+Mitre Cut
+
+Setting the Bevel Angle
+To set a bevel angle, release the bevel setting screw and pivot the base plate to the desired angle
+The built-in scale is a good indicator of the set angle, but if it’s really important check yourself with a protractor for accuracy
+Once happy, tighten the screw to lock the angle
+Note - when finished with the saw always return to 90° for the next user
+
+The Cut
+The actual process of cutting on the bevel is no different to a regular rip or crosscut
+The regular alignment notch at the front of the saw will no longer work. An alternative notch is provided for 45° bevels, but for other angles you will have to rely only on sighting the blade
+Bevel cuts also tend to ‘show up’ small mistakes caused by a wandering blade compared to regular cuts, so use of the guide rail is highly recommended

@@ -1,0 +1,13 @@
+Practical Assessment
+
+What you will do
+Slice a simple model using Cura on makespace computer
+Feel free to try this at home beforehand
+Print model (maximum of 10 minute print time) in PLA
+Load and unload filament
+Remove print from bed
+Place filament into storage
+Weigh your print (paying is on the house for this one ^^)
+
+You can bring a model-file (STL) you want to print for a project to discuss slicing settings, design considerations etc. with the trainer! This is not mandatory.
+

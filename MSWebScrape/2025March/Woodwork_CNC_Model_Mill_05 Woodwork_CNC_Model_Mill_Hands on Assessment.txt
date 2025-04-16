@@ -1,0 +1,5 @@
+Induction Assessment Test
+When you have successfully completed the quizzes you will need to demonstrate you can use the Model Mill safely in a Live Induction session with a trainer
+You are expected to be familiar with the terms and concepts in the PDF documents, videos and web-pages cited above
+During your Live Induction session, the trainer will demonstrate how to set up the Model Mill, Cut a simple 2D shape with Vectric V-Carve Pro, and clean up the Model Mill after use
+You will be asked to demonstrate familiarity with the process both verbally, and by conducting the same procedure yourself

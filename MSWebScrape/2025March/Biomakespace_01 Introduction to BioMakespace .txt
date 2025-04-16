@@ -1,0 +1,248 @@
+Introduction to 
+BioMakespace
+
+What is BioMakespace? 
+Who uses BioMakespace?
+What equipment is available in BioMakespace?
+Orientation with the labs, kitchen & bathroom facilities
+Who has responsibility for safety at BioMakespace?
+What are red, orange and green equipment classifications?
+Planning activities and projects in BioMakespace
+Which activities are not permitted?
+Personal protective equipment (PPE)
+COVID-19 safety measures
+Which organisms can be handled in the biolabs?
+How BioMakespace volunteers help you stay safe
+
+In this section, we will cover:
+
+Welcome! BioMakespace is the biology lab of Makespace, and is a community based, open access biology and prototyping space, located at the Cambridge Biomedical Campus.
+We offer two key things:
+We provide a supportive, safe environment for discovery and innovation, through our licensed labs and equipment.
+We’ve created a community of scientists, engineers, technologists, entrepreneurs, teachers, artists and members of the public who want to work and learn together at the boundary between engineering and biology.
+
+BioMakespace is open to all Makespace members: whether you want to learn about the biology for the first time in years, or are working on an early-stage startup and in need of some lab space.
+What is BioMakespace?
+
+BioMakespace is used by lots of different types of people, such as:
+Commercial / Start-up
+Needs flexible lab space and equipment
+Ability to retain own IP
+
+Out-of-hours and lone working options
+Learner / Hobbyist
+Wants to learn more biology
+Needs to collaborate with other people
+Attend free or low-cost workshops and classes
+
+Project member
+Has an idea that needs lab space and equipment
+Wants to find other people with different skills
+
+Needs assistance with finding grant funding
+Volunteer
+Wants to help others and contribute to the community
+Needs to develop new skills of interest
+ 
+Be exposed to new technology and ideas
+
+Who uses BioMakespace?
+
+Biomaker Challenge Teams 
+Members often like to form teams to apply for project grants in local competitions, like this annual challenge.
+Cambridge Metagenomics Challenge / PuntSeq
+The PuntSeq project team operates from Biomakespace and specialises in sequencing micro-organisms living in local water samples using the Oxford Nanopore MinION sequencer, and runs occasional teaching workshops & challenges for new members. 
+Electrophysiology
+Integrating low-cost electrophysiology with cell culture.
+We do a lot of different things - these are some of our favourite examples:
+Biology Club
+A regular, eclectic series of group talks on subjects ranging from ‘Meet Biomakespaces from around the world’ to ‘Launching your first medical device’. 
+Events & clubs at BioMakespace
+Build It For BioMakespace
+Great for those with an engineering, electronics or computational background, we team biologists in small groups with hardware designers to produce low-cost devices that we or our partner overseas labs need.
+
+We provide 24/7 licensed facilities for experimentation at the edge between biology and engineering.
+
+Our facilities include: 
+A molecular & microbiology/tissue culture  lab (bio labs)
+A maker lab with 3D printers, soldering, etc.
+Room temperature, 4°C, -20°C and -80°C storage,
+And lots of specialist equipment, e.g. autoclave, PCR, electrophoresis, Oxford Nanopore MinION sequencer. 
+What can I find in BioMakespace?
+
+Our equipment helps us to grow organisms and provide for their care, to extract cellular and subcellular structures and molecules, and to experimentally measure their properties.
+
+A general inventory of our equipment can be seen here.
+We’ve detailed some of our most regularly used pieces of equipment on the next slide, with a short explanation of what these do.
+
+If you want to a) check whether we have something you need for your experiments, or b) if you’d like to propose a new piece of equipment, get in touch by email with directors@makespace.org.
+
+What equipment do you have?
+
+Autoclave: controlled sterilization for growth media and waste disposal
+Shakers & incubators (temperature controlled, CO2 controlled): growing cells in solution and on plates
+Centrifuges: separation of components in solution based on density
+PCR thermocyclers: amplifying DNA, altering of DNA
+Gel electrophoresis equipment: separating DNA fragments by size
+UV transilluminator: visualizing DNA
+UV/VIS spectrophotometer (NanoDrop): measuring DNA concentration
+Water baths and hot blocks: incubation at different temperatures
+MinION sequencing device & laptop: reading nucleic acid (DNA, RNA) sequence
+Fridges; -20’C and -80’C freezers: storing solutions/reagents
+Safety equipment: such as lab coats, glasses; lab benches for ~6 working in pairs.
+Commonly used equipment
+
+BioMakespace is a Containment level 1 (BSL-1) lab, that is registered as a genetic modification (GM) centre.
+This means that we can work with:
+Non-pathogenic microbes (e.g. yeast, non-pathogenic bacteria, algae.)
+Well-established cell culture lines (non-human tissue.)
+GM materials with no or insubstantial risk to health or the environment.
+
+We do not work with: 
+Pathogens (organisms that cause disease.)
+Human cell lines (except low-risk, well-characterised with exceptional approval) or human tissues. Contact bio-committee@makespace.org to discuss what is allowed.
+GMOs that carry a substantial risk to health or the environment.
+
+What organisms can you work with?
+
+
+
+No outdoor coats or personal bags in the Main and small biology labs
+
+Leave them in the ideaSpace kitchen or the Maker lab
+
+
+
+
+
+
+Main Biology Lab
+Small biology/Tissue Culture Lab
+Maker/prototype Lab
+Lab orientation
+
+A note on chemical handling:
+We do not at present have a fume hood in the labs, which limits our handling of chemicals that need aerosol extraction and filtering.Ask bio-committee@makespace.org if you’re concerned about whether or not a planned use can be accommodated.
+Flammable substances storage
+Flammable substances and solvents such as ethanol must be stored in the designated grey cabinet in the main biology lab.
+
+
+
+Kitchen: in general, this belongs to Ideaspace. However, we can use the space and have our own supplies in a separate cupboard; please do not consume food and drink from other places. Wash up after yourself and leave it better than you found it! In particular, make sure anything from our cupboard is returned.
+
+
+
+
+
+Bathrooms: male on Level 1, female and disabled on Level 2, and there is another set in the foyer area. Bear in mind that an access card is required to enter and leave Level 2 after 10pm.
+
+
+The BioMakespace kitchen cupboard
+Other facilities orientation
+
+You are responsible for your own safety
+You are responsible for safety of your visitors and guests 
+Your actions affect the safety of those around you in the Makespace
+
+The safety rules exist so that everyone can use and enjoy Makespace safely
+
+
+
+Who is responsible for safety?
+
+Lab doors
+The doors on the 3 labs can be opened with your access card. These doors are fire doors and should be kept closed. Having controlled access is a key part of our biosecurity measures, GM containment protocol and COSHH requirements. 
+ 
+The only reason doors can be propped open is for temporary ease of access e.g. for a few minutes for moving items in and out of the labs where it is difficult to safely hold the item and open the door. In addition, they can be propped open temporarily during Biomakespace biolabs tours to help maintain social distancing/ventilation,
+ 
+If it is necessary to prop open the door, you should stay in attendance, there are other building users - who should not be wandering in & out of our labs. 
+ 
+When you’ve propped open the door, you are responsible for closing them again. Lab users are also responsible for ensuring that the doors have been closed before they leave, especially if they are the only person in the labs. When you find a door propped open without a specific reason -as listed above - please close the door(s) and notify bio.committee@makespace.org immediately with the date/time you found the door propped open. 
+
+
+
+Our equipment is classified using a traffic-light system, to indicate how much training is needed before it can be operated. This is based on safety.
+
+RED: High risk of personal injury or moderate or higher risk of damage to equipment from untrained use
+NOT TO BE USED unless you have passed training for this equipment.
+BioMakespace labs and certain equipment are considered as red equipment and need additional safety training to access
+ORANGE: Low to moderate risk of personal injury
+Training optional, but you must feel confident in the use of the device and have read the related wiki page.
+GREEN: Low to moderate risk of personal injury
+No formal safety training offered.
+What are equipment classifications?
+
+Think about the potential impacts before you start any activity. 
+Check your workspace and environment - ensure it is organised and clean.
+Make sure you have the right equipment and it is fit for purpose. 
+Only use Red equipment you have been trained to use by Makespace.
+Make others around you aware of what you are about to do, if needed.
+Alert others if you see anything which looks unsafe.
+Follow the instructions of the directors or other competent people.
+Keep fire escape routes and exit doors clear at all times. If you find an escape route obstructed, please get it cleared as quickly as possible. 
+
+THINK: Are you planning working on a project? You must not work on your project in the biolabs until it has been risk assessed and you have received the confirmation from the Biosafety team that your project has been approved.
+
+
+
+Planning activities in BioMakespace
+
+We have a project approval process that needs to be followed by any member who intends to carry out their own independent work using BioMakespace:
+
+Decide on your project outline - who is involved, what resources do you need?
+Optional: informally discuss your idea with us at projects@makespace.org 
+Complete your Project Proposal Form and any relevant Risk Assessment, COSHH, and GM forms.
+Email your project application to bio-committee@makespace.org 
+Respond to any queries from the Safety team & improve your proposal. (Please allow sufficient time for 4&5 - expect a few weeks for sign-off at busy times or for complex proposals.)
+Receive sign-off, and start work!
+
+Planning projects in BioMakespace
+
+There are a limited number of activities which are prohibited in BioMakespace:
+Smoking
+Drinking and eating in the labs (allowed in maker lab and kitchen)
+Using your own electrical equipment without testing (seek approval from management@makespace.org)
+Carrying out experiments in the labs without approved project proposal.
+Work with very hazardous chemicals (e.g. concentrated sulfuric acid.)
+Work requiring containment facilities above BSL-1.
+Most forms of medical experimentation.
+
+If you’re not sure if what you want to do is allowed, please get in touch with bio-committee@makespace.org and check our Safety Policies.
+Activities prohibited in BioMakespace
+
+Personal Protective Clothing should form part of safety protocols for all activities in the space - please wear it if required! We have safety goggles, gloves and lab coats.
+You can find lab coats in the main biology lab - cupboard to left of door when entering the lab
+You can find gloves of different sizes in all 3 labs by the doors (*)
+You can find safety goggles in the 3 labs in holders by the door
+Wear shoes with closed toes
+
+Wash hands on leaving the lab! Facilities are provided in the main biology lab and tissue culture lab and alcohol sanitiser is available in the prototype/maker lab.
+
+Stocks of gloves can be found on high shelves to left of sink in main lab and to right of biosafety cabinet in middle lab
+
+Personal Protective Equipment (PPE)
+
+Please follow these temporary restrictions until further notice:
+Do not enter the BioMakespace if you have COVID-19 symptoms or have had contact with someone who has them.
+Guests and visitors are not allowed.
+Keep to the maximum number of people allowed per lab (3 in main biolab; 1 in the tissue culture lab and 1 in the prototype/Maker lab).
+Keep a 2m distance from fellow members.
+Wear a face mask.
+Use the hand sanitiser and wash your hands regularly.
+Clean equipment and other surfaces before and after use.
+Clean any PPE you use before and after use.
+Do not prepare food or drinks in the ideaSpace kitchen.
+COVID-19 safety measures
+
+Assistance with and advice on completing risk assessments followed by review and approval of project proposals
+Offering advice on any (bio)safety-related questions via email (bio-committee@makespace.org) or the Safety channel at https://chat.biomake.space
+Keeping BioMakespace stocked with important safety equipment like gloves, tip disposal jars, lab coats, safety glasses.
+Writing and updating our safety policies.
+Offering safety training tailored to particular projects and workshops.
+Undertaking training ourselves to make sure we are up to date with the latest legislation and best practices.
+Dealing with legal requirements, regulations and insurance.
+Liaising with the University Safety Office and Facilities Management.
+We are not here to clean up after members but we are here to help if you are unsure. If you get stuck, don’t leave a situation expecting someone to deal with it - get in touch and ask!
+ 
+
+How BioMakespace Volunteers can help you

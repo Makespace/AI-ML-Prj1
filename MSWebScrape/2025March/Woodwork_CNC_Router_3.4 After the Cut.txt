@@ -1,0 +1,39 @@
+CNC Router Operation
+After the Cut
+Clean up
+Create the Tool path 
+Cut the workpiece  
+Clean Up
+https://equipment.makespace.org/cnc-router
+
+After the Cut
+Ensure the cut has finished and the  spindle has stopped moving 
+
+Raise spindle Z+ <⑨ key>
+
+Stop the spindle 
+Press the Stop button on the spindle speed control
+
+Move Spindle away from work piece with X and Y
+Remove work 
+Remove tool
+Use wrenches 
+Nut to move counter clockwise 
+Remove collet and tool
+Replace nut, finger tighten (loose)
+Remove tool and replace collet in wall rack  
+
+Clean Up 
+Clean up all dust on and beneath the hood
+Use the shop vac which can be found underneath the bench near the band saw
+Sweep the floor around the CNC
+Turn off Extractor and close vents to the CNC router
+
+Return the hood to the back of the bed  (X and Y) 
+Use "Y " 2 and 8  key to move to/from operator end of bed
+Use "X "  4 and 6  key to move right/left side of bed
+
+Press the Emergency stop on the front of the CNC router 
+
+Turn off power at mains on wall 
+

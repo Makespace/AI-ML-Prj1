@@ -1,0 +1,191 @@
+Hand Router Training
+Hand Router Training
+
+Personal Protective Equipment
+Risk of flying debris; Eye protection REQUIRED
+Loud noise; Ear protection REQUIRED
+Dust hazard; Dust dust mask recommended at all times and REQUIRED when cutting MDF or Irritant Wood 
+Tangle hazard; Long hair MUST be tied back
+Tangle hazard; No loose or dangling clothing
+
+Safety Precautions
+Caution: Sharp cutter
+Inform others in the workshop that they should also use PPE
+The power cord should be attached only when you are ready to make a cut and MUST be disconnected before letting go of the machine.
+
+The router and bits are stored on the shelves under the side bench in its case.
+How to use a router
+
+The Festool Chip Extractor is REQUIRED
+This tool MUST always be used with the Festool chip extractor.
+Use of this machine without the extractor could cause a hazardous situation.
+The power cord for the tool should be plugged in to outlet on the extractor. 
+Set the main switch on the extractor to AUTO, when the tool is started the extractor will start automatically. 
+The hose diameter switch (top left) should be set to the size of the hose in use (usually 32mm)
+The AC (filter auto clean) setting should be in the middle.
+The power switch (lower right) should normally be set to the maximum.
+If the extractor beeps then the bag needs to be emptied.
+There is a bag in the pre-separator and another in the body of the machine.
+Power outlet
+Main switch
+Chip extractor stored by the Band Saw
+
+Overhead Dust Extraction
+When doing anything which generates dust or chips, including any machine tool which requires chip extraction or hand sanding, the overhead dust extractors MUST be used.
+This removes harmful dust from the air which would otherwise be breathed in by anyone in the secure workshop.
+The remote controller for the overhead extractors lives in a pocket on the power sockets hanging over the workbench.
+Press the ON/SPEED button once, check that both extractors start.
+Remember to switch them off when you are finished.
+If the sign on the extractors indicates that the filters need changing, please change them and update the sign. There is no one to do this for you except other members.
+
+Makespace’s hand plunge router features:
+¼ inch and 8mm collets
+Collection of cutting bits
+Excellent dust collection
+Stopper block with 3 adjustable depth settings for multiple pass cuts for deep grooves
+0.1mm fine adjustment of cutting depth
+Straight edge guide
+Track Guide
+Features
+
+You can cut all types of wood and man made boards and soft plastics with the router. Do not cut metal, glass or ceramics
+Use only ¼ inch or 8mm shank bits. You can use your own in addition to those available in the Makespace
+Hand router Safety
+
+The controls
+Clamp for straight guide / track adaptor
+Dust port
+Power switch
+Power switch latch
+Power switch latch
+Power cable socket
+Depth stopper block
+Depth stopper post clamp
+Depth stopper fine adjuster
+Plunge locking knob / handle
+Depth stopper post
+Depth scale
+Speed selector
+
+Secure a workpiece to the bench with 2 clamps. 
+Secure the workpiece
+Secure the workpiece
+
+Select a bit for the job you want to do
+Makespace router bits.
+Select a cutting bit
+
+To insert a bit:
+Enure the router is not plugged in
+Undo the collet and ensure the clamp and taper (particularly the slots) are clean
+Insert a bit into the collet
+Some cutters have an arrow head pointing to a line which shows how far they should be inserted into the collet, if there is no mark then ensure the shank protrudes 5-10mm from the collet top
+Press the spindle lock button and tighten the collet using the spanner. Do not overtighten.
+Insert the bit
+5-10mm
+
+Set the cutting speed
+Set the cutting speed as follows.
+Larger diameter cutters require slower cutting speeds
+Speed selector
+Material
+Cutter diameter [mm]
+3 - 14
+15 - 25
+26 - 35
+Hardwood
+6 - 4
+5 - 3
+3 - 1
+Softwood
+6 - 5
+6 - 3
+4 - 1
+Chipboard
+6 - 5
+6 - 3
+4 - 2
+Plastic
+6 - 4
+5 - 3
+2 - 1
+
+Set the depth of  the cut (round over)
+Plunge the body of the router so that the bit protrudes as far as you want it to
+For round overs use a straight edge to align the bit
+Lock it to this depth with the locking knob
+
+Stopper post
+Stopper 
+Drop the stopper post onto the stopper and clamp it to ensure the cut cannot be deeper
+
+Clamp
+
+Set the depth of  the cut (plunge cuts)
+Plunge the body of the router so that the bit touches the surface of the workpiece.
+Lock it to this depth with the locking knob.
+Drop the stopper post onto the stopper and clamp it.
+Move the depth indicator so that it reads zero.
+
+Unclamp the stopper post and lift it so that the depth scale shows the desired depth of cut (10mm in this picture).
+For a precise cut, make a test cut, plunge the router as far as it will go.
+Measure the actual depth of cut.
+Turn the fine adjuster to compensate for any error and repeat until the correct depth is obtained.
+
+
+Make the cut
+Put on safety glasses and ear defenders and a dust mask for MDF or irritant wood
+Attach the dust extractor and set it to auto.
+Ensure power cord and dust hose cannot interfere with the cut.
+Plug in
+Ensure the workpiece is to the left of the router so that you are not “climb cutting”
+Start up the router away from the workpiece
+Move in and cut the workpiece. 
+Move out and stop the router immediately.
+Unplug
+
+
+Never put the router down while it is running, the power switch latch makes this possible, you MUST ensure the machine is stopped at the end of the before putting it down.
+
+Dust Collection
+The Festool dust extractor should always be used.
+When using large cutters, the top of the collection hood can be removed.
+Carefully push the top from underneath and remove.
+Ensure you replace it when you are finished.
+
+
+
+Dust Collection for round overs
+When cutting chamfers or round overs the chip deflector can be attached for improved dust collection.
+Remove the base ring and replace it with the chip deflector.
+Ensure that you have sufficient clearance for the chip deflector, for thin workpieces you will need to clamp the workpiece over the edge of the bench.
+Take care when rounding corners, the deflector will rotate but it may help to turn the router around the corner.
+Replace the base ring when you have finished.
+
+
+
+Accessories
+The edge guide and track adaptor attach to the router using two rods.
+Attach the rods to the router and clamp using the two screws
+
+Edge Guide
+The edge guide attaches to the two rods.
+Slide the edge guide onto the rods and clamp using the two screws.
+Take care to maintain pressure against the edge of the workpiece to ensure the cut does not deviate towards the edge.
+
+Track Adaptor
+The track adaptor also attaches to the two rods and clamps using two screws.
+Two grub screws control the tightness of the adaptor on the track, adjust them if necessary to avoid any “play”.
+Lower the support on the back of the router to support the side of the base not on the track.
+
+How to use a router
+
+
+Instructable on how to use a router
+	This shows a palm router but the same principles apply
+
+How to Use a Router step by step (video)
+
+How to Use a Handheld Router (video)
+
+Complete Routing is in the Makespace library. It is a clear and comprehensive guide to routing

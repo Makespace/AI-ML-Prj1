@@ -1,0 +1,198 @@
+Formlab Form 3B
+Preparation, Set-up, and Operation
+
+
+Safety Precautions
+Gloves required: Resin may cause skin irritation or an allergic skin reaction.
+ENVIRONMENTAL HAZARD: Uncured photopolymer resin is hazardous to aquatic life.
+WARNING: The laser beam is harmful to the eyes. Avoid direct contact.
+DANGER: Isopropyl alcohol is a flammable chemical.
+
+Fire Safety
+DANGER: Isopropyl alcohol isa flammable chemical. Vapour can build up and cause a fire
+In case of fire use:
+Fire blanket
+Carbon dioxide extinguisher
+
+Water spray is not recommended in case fire is caused by an electrical fault
+
+Printer Overview
+Print volume is 14.5 × 14.5 × 18.5 cm
+Resin Cartridge
+Status light
+Cover
+Build Platform
+Resin Tank
+Touchscreen
+Status light
+Leveling disc
+
+General workflow
+Print: Prepare the FORM file in PreForm, upload and start the print, and then monitor the print progress on Dashboard.
+Wash: Use Form Wash or the Finish Kit to rinse the remaining liquid resin from printed parts’ surfaces.
+Dry: Allow isopropyl alcohol (IPA) to fully evaporate after washing.
+(Optional) Cure to improve hardness of print
+
+1.
+2.
+3.
+4.
+
+Not damaging the printer
+
+Don’t drop or scratch the resin tank
+Don’t use any (sharp) tools on the build platform other than the removal tool
+Only use removal tool
+Very sensitive film. Do not touch!
+
+Resin Safety
+ Resin areas:
+Cartridge release opening and valve
+Build plate and print will be covered in resin
+Tank is filled with resin
+Always wear gloves when you might touch resin or IPA
+Swap to clean gloves when they become contaminated
+Immediately clean up any spills
+Report any spills inside the printer to the maintainers (trouble ticket)
+ 
+
+Before printing: leveling printer
+If necessary, the touch screen prompts use of the leveling disc. 
+Follow the on-screen instructions to adjust the feet under the printer.
+Insert the round leveling disc under the designated corner. Push until the leveling disc clicks onto the foot.
+Rotate the tool clockwise to raise and counter-clockwise to lower the height of the printer.
+Adjust the feet until the touch screen indicates the printer is level.
+
+Preparing to print
+If you need to change the materials, there are multiple steps. Right now clear and jewelry wax resins are available.
+
+When you change the resin cartridge, it is important that you also change the resin tank to ensure they stay paired and materials do not become contaminated.
+
+
+
+When you remove the tank, make sure it goes into its own labelled box in the cupboard under the printer.
+ALWAYS CHANGE BOTH RESIN CARTRIDGE AND TANK
+
+Preparing to Print
+Check the printer’s materials inventory to ensure you have enough resin for your print
+Change the cartridge and tank if necessary.
+
+Caution: The resin tank is paired with the resin cartridge. ALWAYS CHANGE BOTH!
+
+Removing a cartridge
+Close the printer cover.
+The resin cartridge is located at the back of the printer and can be accessed from the top.
+Close the vent cap on the top-right corner of the cartridge.
+Pull the cartridge straight up and clear the printer body. The carry handle is at the top-centre of the back edge of the cartridge.
+Make sure the cartridge is clean and place it in the rack in the back of the cupboard under the printer.
+
+
+Inserting a cartridge
+Close the printer cover.
+Shake the cartridge before each print to ensure the resin is mixed thoroughly.
+If the cartridge is new, remove the orange protective valve cover from the bottom of the cartridge. 
+Push down on the cartridge handle until the top of the cartridge is level with the printer. A sensor detects the resin cartridge, and the status light illuminates.
+Press open the vent cap, so that the resin tank fills correctly.
+
+
+Resin tank removal
+Remove the build platform to avoid dripping resin in the printer
+Hold the side walls of the resin tank.
+Gently pull the resin tank away from the printer (A.) and then move upward (B.)
+Place removed tank in its labelled storage box
+Ensure lid is secure
+Store boxed tank in cupboard under the printer
+A. Pull
+B. Lift
+
+Resin tank insertion
+Resin tank needs to connect to contacts in order to be used (green arrow)
+Resin tank spout for dripping resins should slot into designed slot (red arrow)
+Avoid contaminating the underside of the resin tank with fingerprints or liquid resin.
+
+Inserting build platform
+Raise the platform lock.
+Align the build platform with the platform carrier.
+Push the build platform onto the platform carrier. A sensor detects the build platform, and the status light illuminates.
+Lower the platform lock to secure the build platform.
+
+
+Starting Your Print
+Install PreForm software from https://formlabs.com/uk/software/
+Upload your model
+(Auto)orientate model
+(Auto)generate supports
+(Optional) Replace cartridge and resin tank. Shake cartridge before
+Send to print queue using the app
+Confirm job on the printer screen
+Step 4
+Step 6
+You do not have to supervise printing but leaving contact details is advised in case other members want to inform you about issues with printer e.g. tank not being filled
+
+Formlabs dashboard
+Information such as name, email, print render and print history is recorded by Formlabs dashboard and is shared with other users
+You can see if the printer is currently used and expected print completion time from home
+Caution: Please start print only when you are at the MakeSpace - it is necessary to check that the printer is empty, in a right condition and resin is well-mixed
+
+Finishing Your Print
+To remove print:
+Let the print drip - the cleaner it is, the more resin we can reuse
+Take out build platform and slot into wash station
+Insert build platform into holder 
+Use dedicated tool for removal
+Return build platform to storage(do not reinsert in printer)
+Pay for your print
+Caution: The removal tool has a sharp edge, always scrape away from yourself.
+
+Finishing Your Print: Washing and Curing
+
+Here’s a quick video on the process of finishing your print using the automated washing and curing stations:
+
+https://youtu.be/xf9oBcTzMFo?t=205
+
+
+Caution: ALWAYS use gloves when handling unprocessed prints, and change your gloves if you touch the resin
+Do not leave the wash station unattended while your print is washed so isopropanol is not left open to the air
+ 
+ 
+Turn on extractor fan above the printer when using wash station. This reduces isopropyl alcohol vapor concentration in the space
+ 
+
+If you find other members’ completed prints:
+If you want to use the printer, make sure the print is complete
+Put existing print into wash station and set correct wash time
+You are responsible for completing washing cycle
+Only remove prints from build platform if no empty build platform is available
+
+Cleaning After a Failed Print
+A failed print may leave small, partially-cured pieces of resin floating in the tank or hard cured resin stuck to the film in the base of the tank. Inspect the tank after every print. Remove debris after a failed print.
+
+Sharp and metal tools can damage the film in the resin tank and affect print quality. Do not use sharp or metal tools in the resin tank. Use only the tank tool to clean the inside of the resin tank.
+If in doubt, contact printer maintainers for assistance - cleaning spilled resin in printer or replacing tanks. Same applies if you find printer in bad condition.
+Tank tool
+
+Paying for your print
+Read the volume of material used from preForm
+Payment is via the pay stations, the Form3 materials are listed under the 3D Printers tab
+The material cost also covers other consumables like limited lifetime of resin tanks and IPA for wash station
+Expect upwards of 5x print cost compared to Ultimakers.
+
+Maintainer only operations
+Introduction of new resins
+Introduction of new tanks
+raise a trouble ticket if the printer warns that a tank is near its end of life
+You are not permitted to bring in your own resin cartridges or tanks
+Changing any settings on the printer
+
+Raise a trouble ticket if you think settings should be changed
+Reach out via email if you are interested in resins we don’t have
+
+Preparation for practical
+Install preForm in your laptop or other accessible device
+Decide what email you want to use
+Optional: prepare a model you want to print using preForm before practical
+ 
+
+If you want to get a general feel how to use the printer, watch this:
+https://www.youtube.com/watch?v=45wbtu8ZHD8
+

@@ -1,0 +1,221 @@
+Bandsaw
+Training 1: Starting and finishing work
+
+
+Personal Protective Equipment
+Goggles are required.
+Non safety glasses are usually made from brittle material and may not protect you from flying shrapnel.
+Other people working in the workshop space should also have eye protection if you are using this equipment.
+Dust is hazardous so it is a good idea to wear a face mask, particularly for MDF and other especially toxic dusts.
+Hearing protection is optional, but may be used if you are working for more than a few minutes.
+
+Setting up to use the bandsaw
+Once you’ve got your PPE ready, and let others in the workshop know what you’re doing, follow these steps to set up the work area.
+Check that the bandsaw is turned off at the wall socket: we’ll turn it on when ready to make a cut.
+Check that the bandsaw table is clear and clean.
+Make sure that the chip and dust extraction are on (see following slides)
+
+Power switch on wall
+
+Chip Extraction
+Use of the chip extraction system is required for this equipment.
+Make sure the blast shutter for all equipment being used is open and that all other blast shutters are closed.
+Switch on the extraction system by pressing the green button, if the machine does not start check that the red stop button is not latched, twist ¼ turn to release it if necessary.
+Remember to switch off when you are finished and if the bag is full please empty it.
+There is no one to clear up after you except other members.
+
+
+Overhead Dust Extraction
+When doing anything which generates dust or chips, including any machine tool which requires chip extraction or hand sanding, the overhead dust extractors MUST be used.
+This removes harmful dust from the air which would otherwise be breathed in by anyone in the secure workshop.
+The remote controller for the overhead extractors lives in a pocket on the power sockets hanging over the workbench.
+Press the ON/SPEED button once, check that both extractors start.
+Remember to switch them off when you are finished.
+If the sign on the extractors indicates that the filters need changing, please change them and update the sign. There is no one to do this for you except other members.
+
+Inspect the bandsaw
+You’ll want to see that the bandsaw table is clean before starting, as even small chips will deflect your work and give you a wobbly edge.
+Next, we’ll check the bandsaw is set-up properly.
+Some of these things can be adjusted by any user to get the saw working nicely but some adjustments should be left to the owners.
+Keep the owners informed if you do find a problem, as this helps Makespace keep an eye on whether the bandsaw is working optimally.
+
+Inspecting the blade
+Are the teeth facing down?
+Is the blade in the right position?
+Blade sharpness can be checked visually, the blades are very sharp when new and can cut easily so be wary of touching them to test.
+
+Inspecting the rollers and guides
+The rollers guide the blade, helping to keep your cuts straight and true.
+They should not be controlling the blade position but instead take the load as the blade deflects when cutting.
+The side rollers should be “just” not quite touching the blades, equally on either side, and be positioned about 1-2 mm from the deepest part of the of the blade gullets (see next slide).
+The rear roller should be as close as possible to the back of the blade without touching when idle.
+Adjust the top guides if needed. Only maintainers can adjust the bottom guides
+Top
+guides
+Bottom
+guides
+
+(underneath)
+As close as possible
+1-2mm from the gullet
+
+Anatomy of a saw blade
+For the accompanying image you can see the various parts that make up the cutting edge of a blade.
+The standard blade installed on the makespace bandsaw is a 1/2inch (~13mm) wide and has a pitch of 6 Tooth per inch (TPI) 
+The width affects the minimum radius you can cut
+The TPI affects the min and max thickness of material you can cut
+The ideal range for any bandsaw is to have between 3 and 10 teeth on the material that is being cut.
+Users aren’t allowed to change the blade installed
+
+
+
+
+Inspecting the blade guard
+The blade guard can be raised and lowered using a simple handwheel adjustment
+The blade guard does two things:
+Minimises the exposed blade for safety
+Positions the blade roller guides as close to your cut as possible for accuracy
+Check that you can raise and lower the guard freely using the handwheel: The blade should stay in position while this happens, if it is moving around then the blade might be broken!
+Side view			Front view
+       High		Low			(good)
+Handwheel
+
+Check blade angle, is the table flat?
+Place a try square or engineer’s square against the side of the blade and the table.
+The straight edges of the square should align with both the blade and table.
+The bandsaw is capable of very precise cuts and it should be left with the table flat and horizontal between uses.
+If they’re not aligned, or you want to cut at an angle, the next slides will show you how.
+
+Set-up the table
+The bandsaw table can be tilted and is the first thing to check and set-up before use.
+We leave the table flat in-between use but it is a good idea to verify how flat it is before making your first cut.
+It’s best not to assume that it is definitely flat!
+The table can be set precisely for making joints.
+Angling the table can save large amounts of wood removal by filing or sanding, and save time on the lathe.
+
+
+
+Set-up the table: how to adjust the angle
+The table rests on the backstop (B on right) when flat, please tell the owners if it needs adjusting.
+To adjust the table, loosen the handle D to unlock the table, then adjust the angle using the nut C.
+When you’ve set the angle you want, tighten the handle D and make sure the table is nice and secure.
+
+
+
+Bandsaw
+How to measure and mark-out your work
+
+Cut basics: what is kerf?
+“Kerf” is the width of the cut
+What is kerf and how wide it really is, is a little bit more subtle than first meets the eye.
+Understanding kerf lets you properly predict the sizes of your cuts: With the Startrite 403 bandsaw it is possible to cut exactly to your final dimensions, if you understand kerf well.
+This is not required information for using the bandsaw but it will improve the quality of your work.
+FENCE
+SAW
+Cutting action
+KERF
+
+Anatomy of a saw blade
+The kerf is determined by two things: The width of the blade teeth, and their “set” or “tooth set”.
+The “set” is where the teeth are angled outwards, usually on both sides in a special pattern.
+This means the cut width, the kerf, is wider than the blade gage which is good because the cut needs to be wide enough for the blade to pass through!
+Narrow set makes for a finer cut but a less efficient sawing action.
+
+
+Stress relief, warping, and blade drift
+Almost all materials carry internal strain
+Cutting them creates strain and also relieves pre-existing strain
+This means that almost all materials will twist and bend when you cut them with the bandsaw
+Thin materials will bend more, so cutting thin sections can be tricky: with practice and good techniques some of this can be predicted and compensated!
+Notice that even the thick part bends slightly...
+Saw blade(from above)
+Directionof cut
+
+Blade drift (advanced)
+When cutting materials, especially wood, they will usually bend at least slightly.
+This is usually a small effect.
+However, this means that the bandsaw will appear to not cut exactly straight cuts!
+This is called blade drift.
+Because both parts of your cut will bend, even straight material will push away from a cutting fence or guide: the blade appears to drift sideways during the cut!
+Mastering this is an advanced skill.
+Directionof cut
+Blade appears to drift outwards!
+Fence or cutting guide
+
+Bandsaw
+Training 2: Cutting
+
+Straight cut with rip fence
+
+Straight cut with a rip fence
+Don’t rip cut thicker than 50mm. Cuts above this will likely not be straight
+Move the fence to the desired position
+If you want to make a deeper cut remove the lower part of the fence 
+Lock the fence, with the fence flat against the table and straight in line with the blade
+Measure the distance to the blade and adjust if needed
+Check that the table supports your workpiece properly and safely
+
+Making the straight cut with the rip fence
+Double-check your measurements
+Check the fence is secure
+Have the pusher within reach or already in your hand
+Switch on the bandsaw
+Push the work towards the blade using the push stick if required
+Let the blade do the work, you shouldn’t need to apply force to make it cut.
+Rip Fence
+
+Tips for good results with the rip fence
+Consider making a test cut to check your setup, with the same material if possible.
+It’s easy to measure from the fence to the flat side of the blade but remember your cut will be slightly narrower than this.
+Adjust the blade guide to show the minimum amount of blade possible, it is safer and gives a straighter cut.
+Don’t apply sideways pressure, check by watching the blade for sideways flexing.
+
+Angled cut with the mitre fence
+
+Setting up an angled cut with the mitre fence
+The fence engages a T slot in the table
+Slot the fence into place
+Select the angle you wish to cut. The scale on the fence can be used as a rough guide
+Move your workpiece to align it with where you want the blade to cut
+Check that the table supports your workpiece properly and safely
+
+Making an angled cut with the guide
+Double-check your measurements
+Check the guide is secure
+Switch on the bandsaw
+Hold the workpiece against the fence with both hands
+Let the blade do the work, you shouldn’t need to apply force to make it cut
+
+Freehand cutting
+
+Setting up for a freehand cut
+Remove any guide or fence if you are not using it. Push the rip fence to the edge of the table
+Clean the table of any chips, these can get under your work making your cut uneven.
+Check you workpiece can be properly supported by the table
+Check you can easily maneuver the workpiece
+Have a pusher ready within easy reach
+
+Making a freehand cut
+Double-check your measurements
+Switch on the bandsaw
+Push the work towards the blade
+To go around a corner, rotate the workpiece as you push it forwards
+Watch the blade deflection to see if you are cutting straight into the blade
+Listen to the blade to hear if it is binding
+Do not try to withdraw from the cut whilst running. Stop the machine and then back out of the cut
+
+Tips for freehand cutting with a bandsaw
+Take several goes at a tight curve. Do not back out of a cut with blade running
+Make sure you can hold the workpiece easily and flat to the table. If your piece is not flat on the table, the blade will try to kick it out of your hands, and throw it at another workshop user! Use a jig to support it.
+To ensure the bottom of your cut is clean, you can support it by using a sacrificial support piece underneath.
+
+
+Recap of the training
+We have covered:
+How to set-up and inspect the bandsaw
+Cleaning and resetting the bandsaw after use
+Safety while operating the saw
+Setting the table at an angle
+Straight cutting with the fence
+Angled cutting with the guide
+Freehand cutting

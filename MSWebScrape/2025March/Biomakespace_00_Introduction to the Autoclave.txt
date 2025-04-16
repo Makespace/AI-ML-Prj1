@@ -1,0 +1,73 @@
+Introducing: the Autoclave
+
+Notice
+The online Autoclave training is one of the three essential training modules that all members who want to use the biolabs need to complete. This will then be followed by a practical assessment.
+Please check that you have already completed the following online training modules: 
+Safety Training Part I - essential to be able to operate as a general member of BioMakespace, and to attend workshops, clubs and teaching sessions safely. 
+Safety Training Part II - essential if you want to use the biolabs
+When you have completed all three online training modules, please contact bio-safety@makespace.org to arrange an in-person practical assessment that will test your understanding of the health & safety, biological and chemical waste procedures and safe use of the autoclave.
+
+What this training includes
+This training will allow you to sterilize media, reagents and instruments, as well as to dispose of biological waste by operating the autoclave safely. 
+
+It focuses on safe use of the autoclave; we don’t cover specialist techniques and applications. 
+
+Learning objectives: 
+You will be able to dispose of biological waste by operating the autoclave safely by yourself.
+You will able to identify media, reagents and instruments suitable for sterilization, and operate the autoclave to achieve this safely.
+3
+
+What is an autoclave?
+An autoclave is a pressure chamber used to carry out industrial processes requiring elevated temperature and pressure different from ambient air pressure. Autoclaves are used in medical applications and biological laboratories to perform sterilization. 
+Many autoclaves sterilize equipment and supplies by subjecting them to pressurized saturated steam at 121 °C (249 °F) for around 15–20 minutes, depending on the size of the load and the contents.
+At BioMakespace, we use our autoclave for two main purposes:
+Sterilizing media, reagents and instruments for sterile working; 
+Sterilizing Containment Level 1 biological waste (which may include Class 1 GM organisms) so that it can be discarded.
+4
+
+The Biomakespace Autoclave
+We have a Boxer 200/40LR benchtop autoclave. 
+This has a capacity of 40 litres, has a round chamber and is front loading.
+It is located in a wheeled trolley in the Middle Lab (Room 101).
+
+
+
+What risks are there when autoclaving?
+The next few slides explain the risks that we need to mitigate when using the autoclave. 
+You don’t need to memorise this content in detail, but please read over it so that you understand why you need to follow the instructions for using the autoclave, and the motivations behind these instructions.It might also prove helpful if you need to cover some of this information in your project risk assessment.
+Note: Solvents, corrosives, bleach and other harmful chemical materials (incl teratogens, mutagens, carcinogens) MUST NOT BE AUTOCLAVED. Disposal of these items is through the chemical hazardous waste streams. 
+
+
+
+Risks associated with use of autoclave
+Exposure to steam under pressure when opening the autoclave after a cycle. 
+Injury caused by the autoclave door opening violently as a result of high pressure within the machine. 
+The explosive hazards associated with the sterilization of fluids in sealed glass bottles. 
+Chemical hazards from autoclaving incompatible materials (e.g. Virkon can give off sulphur dioxide, bleach gives off corrosive chemicals.)
+Violent ejection of material under pressure.
+Exposure to hazardous substances as a result of incomplete sterilisation; or failure of the system 
+Inadvertent pressurisation of the drainage line.
+Exposure to hazardous substances whilst unloading due to shattered glassware or split bags.
+Risks of injury during manual handling, or burns, cuts or grazes when loading and unloading. 
+If more details needed, please refer to the risk assessment (BM_RA0011 - Autoclave) for using the autoclave. 
+
+Safe loading and unloading procedure
+The autoclave door could open violently under pressure: extreme caution should be taken when opening the door after a cycle has finished, stand to the side of the autoclave, keeping out of the direct line of the door to avoid injury from steam 
+
+Inhalation of hazardous media can happen when bags or bottles break during the cycle and the biological material within becomes a vapour in the presence of high pressures and temperatures.
+
+The autoclave should be opened with this in mind, a check must take place to confirm that the autoclave has returned to normal atmospheric pressure before it is opened via the pressure gauge on the front of the device.
+
+
+Manual handling and PPE
+Manual Handling
+You must not lift heavy loads out or in of an autoclave.
+Mechanical aids such as trolleys should be used as much as is reasonably practicable. 
+Care must be taken when removing items in case of spillage or the item falling and causing injury to the staff member; especially if they are from an unknown load. 
+
+Personal protective equipment (PPE) must be worn at all times when loading and unloading the autoclave:
+heat proof gloves
+suitable non-slip, closed toe footwear
+a lab coat
+safety goggles when unloading the autoclave due to the release of steam.
+

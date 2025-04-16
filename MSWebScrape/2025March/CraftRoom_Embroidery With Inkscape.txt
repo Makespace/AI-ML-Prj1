@@ -1,0 +1,113 @@
+Brother PR680W 6 Needle
+Embroidery Machine
+Embroidery With Inkscape
+
+
+Introduction
+In this presentation we will walk through the process of embroidering a tee shirt from artwork created in inkscape.
+We will cover the following steps:
+Installation of Inkscape
+Installation of the Inkstitch extension
+Copying an svg design file
+Making modifications to the file
+Exporting the design to the Brother stitch format
+Stitching the design
+
+Installing inkscape
+Inkscape is an open source vector image editor, it is a native SVG file editor.
+Go to https://inkscape.org 
+Select DOWNLOAD/Current Version from the menu
+Select the binary for your platform.
+Follow the instructions to install the application.
+Run the application before installing Inkstitch.
+
+Installing Inkstitch
+Inkstitch is an open-source machine embroidery design platform based on Inkscape.
+Go to https://inkstitch.org
+Click on the Install Ink/Stitch button
+Download the binary for your platform
+Follow the instructions to install
+Restart Inkscape
+
+
+Download The Initial Design
+Download the initial design file from HERE (Right click and select Download Linked File As…)
+In Inkscape select File/Open… from the menu, navigate to the folder where you saved the download and open the file makespace_your_name.svg
+You should see the Makespace logo with the text “Your Name” in black underneath
+Select Object/Layers and Objects… from the menu
+The Layers and Objects view should appear at the right
+Click the eye icon on the Logo s object, you will see that the Logo m object has been clipped (there are no areas of orange which overlap with and are covered by areas of green) as in the lower image
+If you have overlapping objects in your design then one will be stitched over the other, it is best to cut all objects so they do not overlap.
+
+
+Edit The Design
+Select File/Save As… from the menu and save the modified file under a new name.
+Select the text tool from the toolbar on the left
+Click on the text “Your Name”
+Press Ctrl-A on Windows or Command-A on the Mac to select the whole text
+Type your own name
+Select the whole text again
+Click on the black swatch in the bottom left corner of the screen to set the fill to black and shift click on the red cross swatch to set no stroke
+Next select Path/Object to Path from the menu
+Finally click Shift-Ctrl-G on Windows or Shift-Command-G on Mac to ungroup the letter paths
+
+Test The Design
+Press Ctrl-A on Windows or Command-A on Mac to select all objects
+Select Extensions/InkStitch/Params from the menu
+You will then see a simulation of how the design will be stitched (be patient it may take some time).
+Flatten the design into a single layer with no groups
+Cut overlapping shapes otherwise both shapes will be stitched one over the other
+If you enable stroke as well as fill on a shape you will get a separate running stitch outline as well as a stitched fill of the shape
+Adjacent areas of the same colour will take longer to stitch it is better to merge such shapes in Inkscape
+Use primary colours (from the pallet) rather than swatch colours
+
+Export The Design
+Select File/Save a Copy… from the menu
+Select the Inkstitch: Brother Embroidery Format (.pes) format
+Save the file
+Copy the file to a USB memory stick
+
+Load The Design
+Insert the USB memory stick into the slot labelled USB1 on the side of the screen on the Embroidery Machine
+Tap on the USB1 icon on the screen on the Embroidery Machine
+Navigate to the file on your memory stick and tap on the file’s icon to select it, then tap Set.
+
+Select The Frame
+The screen shows which frames are big enough to accomodate the design.
+At the top of the image you can see that the very smallest frame is greyed out, any of the others will fit.
+Select the smallest frame which will fit.
+Loosen the thumb screws and adjust the frame support arms to the correct size for the frame you are using.
+
+Edit The Design
+If you are embroidering onto a small piece of fabric then there is no need to edit the design, but if you are using a tee shirt you will need to invert the design so you can fit the shirt onto the machine.
+Simple edits like rotating or small adjustments to size can be done on the machine, other changes are best done in Inkscape.
+To invert the design click Rotate
+On the next screen click 90 twice
+
+Load The Fabric
+If you are embroidering onto a tee shirt, draw a cross in pencil or tailor’s chalk where the centre of the design should sit.
+Place the hoop of the frame on the table.
+Lay the backing material over the hoop.
+Place the fabric on top of that
+When using a shirt 
+Place the neck of the shirt towards you so the open end of the shirt can slip over the machine head
+Lay only the front of the shirt on top of the backing
+Ensure the alignment cross lines up with the marks on the frame
+Make sure both layers are flat and free of creases
+Push the frame into the hoop so that the backing and fabric are held tightly, like a drum skin.
+Clip the frame onto the machine (see the training video for more details)
+
+Check The Thread Colours
+The machine will show which colours it needs on which needles.
+If the colours you need are not on the machine then re-thread the indicated needles with the correct colours.
+See the training video for details of how to thread the machine
+If the correct colours are on the machine but on different needles, tap on 
+Tap on each colour on the left and then tap on the needle number which should be used on the right
+When finished, tap OK
+
+Unlock and Run
+Make a final check that everything is correct
+Tap the red Lock icon at the lower left of the screen, the start button will then change from red to green
+Press the start button and watch something wonderful emerge!
+When the machine is finished it will display a prompt and you can remove your embroidery.
+If you need to stop the machine while it is running, push the start button again.

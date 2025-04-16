@@ -1,0 +1,191 @@
+Materials for the Laser Cutters
+2020-08-29
+
+In this session
+Buying and storing laser cutter material at Makespace
+Which materials can/cannot be used in the Makespace laser cutters
+Material suppliers
+
+Makespace Stock
+
+Using Makespace Stock
+Makespace aims to keep a stock of laser cutter material:
+3 mm acrylic, in various colours
+Laser plywood, mostly 3 mm
+No guarantees are made about the availability of material!
+But feel free to let lasercutter@makespace.org know if stocks are running low
+Material from the stock shelves must be paid for with one of the iZettles
+Find the right entry in the Laser Cutter section
+You can buy full or half sheets
+Make a half sheet by carefully cutting a full sheet in half on the laser cutter
+The scraps box contains small offcuts which are free to use
+
+Storing Materials
+If it fits, store material you have bought in your box
+There are also cupboards in the corridor for storing larger sheet stock
+The cupboards become cluttered, and are periodically purged
+If your stock isn’t labelled, then you can’t be told that it’s happening!
+Before placing anything in the cupboard, you must:
+Put your full name on it
+Write on the date of when you stored it
+Write on the date of when you expect to use it by
+Provide an email address/phone number so you can be notified before it’s thrown away!
+Please don’t buy a sheet until you have a use for it!
+
+Approved/Banned Materials
+
+Why it matters
+Toxic fumes can pose a hazard to people in the space
+Some materials may have properties which make them unsuitable for cutting:
+Tendency to catch fire
+Excessive or hard-to-remove residue
+Thick smoke which clogs the filtration system
+
+All materials must be explicitly approved before use
+A list is available on the wiki: http://wiki.makespace.org/Equipment/Laser_Cutter#Can_I_cut_it.3F
+
+A note before going through the material list
+If you are ever unsure about what materials are safe to cut, contact lasercutter@makespace.org 
+or post on the makespace google group.
+
+Approved Plastics
+Acrylic/Perspex
+Approved and is part of Makespace purchasable stock.
+Easy to cut and relatively cheap.
+Brittle, so may not be suitable for mechanical parts
+
+White Delrin/Acetyl
+A bit harder but still safe to cut.
+Not stocked by Makespace
+Go slow and make sure filters are working properly. 
+Much stronger so therefore can be used for gears, pulleys etc.
+A bit more expensive
+
+Polypropylene
+Safe to cut. Go slow and please clean the bed thoroughly afterwards.
+Not stocked at Makespace
+Makespace lasers can cut up to 2 mm, your mileage may vary using thicker material.
+Slight fire risk. Please make sure to consult Laser Cutter Safety course content.
+The cut quality isn’t great.
+Mechanically and financially similar to Acetyl.
+
+
+Tentative Plastics
+Silicone
+It has been tried with very limited success
+A millimetre or two perhaps, anything else chars and doesn't cut.
+
+GPPS / Polystyrene / HIPS
+In thin solid sheet form: maybe
+Ask owner to help. NO FOAM (it's highly flammable) - see next slide
+
+
+?
+
+Banned Plastics
+PVC/Vinyl
+Banned
+Produces chlorine when cut.
+Coloured/Black Delrin/Acetal
+Banned
+Colouring can be toxic
+Teflon and Nylon
+Banned
+Produce toxic fumes when cut.
+Polythene/polyethylene
+Banned
+Consult an owner
+Lexan/Polycarbonate
+Banned
+Consult an owner
+Foam
+Foams can be flammable (even if the bulk material is safe to cut)
+
+Approved Natural Materials
+All solid woods
+Absolutely.
+All wood’s all cut/etch differently so check your power and speed first.
+This can happen even within the same piece of wood.
+For example, tree rings are different in terms of their hardness.
+Plywood: 
+Yes if it is "laser ply".
+This is stocked by Makespace
+Untreated Leather
+Yes, but please ensure it is not treated 
+Stains/waxes/preservatives can contain unknown chemicals which could be vaporised and become a health and safety risk.
+Paper, Cardboard, Card Stock, Tissue
+Yes these are all possible.
+Fire risk is high if the incorrect settings are used.
+Low power and high speed is recommended to avoid this.
+Be on alert and ensure you remind yourself of the Laser Cutter Safety course content.
+Stone/Slate
+Yes. Only possible to engrave and even then may not be visible
+Uneven surface may make focussing the laser difficult, resulting in poor quality engraving.
+
+
+Tentative Natural Materials
+Cork
+Yes, but the edge will likely have a badly charred effect
+It also won't cut very deeply
+An option would be to lightly cut your design, mirrored on the back of your workpiece as a template. Then use a scalpel to finish the cut by hand.
+?
+
+Banned Natural Materials
+Regular Plywood
+Banned.
+The plywood supplied by B&Q, Wickes, Homebase etc uses potentially toxic glue to laminate the wood together.
+Additionally the gluing quality will be poor (thick and uneven layers). Making it very inconsistent to cut.
+
+MDF
+Banned
+Unfortunately it clogs up the air filters and also smells pretty bad.
+If MDF is something you are interested in, we would suggest the CNC Router
+
+LaserMDF
+There is a product known as LaserMDF, this is also banned
+It still produces 50% the debris of MDF which still too much.
+ 
+Treated Leather/Bi-cast Leather
+As mentioned earlier, treated leather may release toxic chemicals when cut with a laser, often formaldehyde.
+Bi-cast leather (or pu leather/bycast leather/bi-cast leather) may contain vinyl, which releases Chlorine when cut.
+
+Tentative Other Materials
+Metal
+The Makespace lasers can’t cut metal at any thickness.
+However it is possible to engrave them if they have anodising, oxide layer or other surface treatment.
+ 
+Glass
+It is possible to engrave but consult with a Makespace laser trainer or owner before you do
+Need to go slow.
+It can create glass particles so:
+Let the system vent thoroughly before opening lid.
+When touching the work afterwards, be careful about sharp shards and glass particles.
+Please clean up afterwards, with care.
+It can also spoil the mirror and lens in the laser head if hot glass particles get deposited on them.
+
+?
+
+Banned Other Materials
+Fiberglass
+Banned.
+This is bound together with unknown resins so may release toxic fumes if cut.
+Carbon Fibre
+Banned
+Similar to fibreglass, unknown composition.
+
+
+Anything not explicitly mentioned is banned until approved by lasercutter@makespace.org!
+This is important to keep everyone safe and the machines in good working order ☺
+
+Material Suppliers
+
+Suggestions for buying materials
+Makespace buys from Kitronik - https://kitronik.co.uk/
+Engineering Design & Plastics in Cherry Hinton - https://www.edplastics.co.uk/
+Large selection of coloured acrylic
+Often have cheap offcuts
+Local, located on Cherry Hinton High Street
+
+Know what you’re buying!
+Stick to the approved materials
+For anything new, send an MSDS to lasercutter@makespace.org to get approval

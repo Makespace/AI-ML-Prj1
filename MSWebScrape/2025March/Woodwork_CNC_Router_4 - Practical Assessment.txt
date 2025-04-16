@@ -1,0 +1,12 @@
+Practical Assessment
+
+What you will do
+Select a cutting tool
+Create a tool path (.tap) 
+Secure the workpiece to bed
+Run the cut
+Remove workpiece from bed
+Return the cutting tools and  Clean the equipment
+
+
+You can should bring a model-file (dxf) you want to cut for a project. 

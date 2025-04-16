@@ -1,0 +1,252 @@
+Domino Joiner
+Online Training 
+
+Personal Protective Equipment
+Risk of flying debris; Eye protection REQUIRED
+Loud noise; Ear protection REQUIRED
+Dust hazard; Dust dust mask recommended at all times and REQUIRED when cutting MDF or Irritant Wood 
+
+Safety Precautions
+Caution: Sharp blade
+Inform others in the workshop that they should also use PPE
+The power cord should be attached only when you are ready to make a cut and MUST be disconnected before letting go of the machine.
+
+Prepare space to use the Domino Joiner
+Prepare a clear area in which to work
+Place all of your workpieces close to hand
+Prepare clamps or stops to prevent your workpiece from moving while cutting
+Remove the Domino Joiner, power cord and any accessories you need from the Systainer and place them on the bench
+
+Domino Joiner Features
+Depth stop
+Dust extractor outlet
+Plug-It power cord
+Fence: Check this is present
+Cutter recess
+Power switch
+Slide
+Alignment window
+Width adjustment
+
+Checks Before First Use
+With the power cord disconnected:
+Hold the fence handle in one hand and the body of the machine in the other, push the body towards the fence to expose the cutter.
+Check that the cutter fitted is the size you need, if not then change it as described below..
+Check that the cutter is not damaged and that there are no debris.
+CAUTION the cutter is sharp.
+Check that the plunge action is free and smooth.
+Inspect the power cord to ensure that it is not damaged.
+Keep the equipment owners informed if you do find a problem, as this helps Makespace keep an eye on whether the equipment is working optimally. Please fill out a trouble ticket or email maintenance@makespace.org with any concerns.
+With power disconnected
+Check the size
+and condition
+ of the cutter
+
+Check for debris.
+
+Machine Settings
+The following settings should be checked before each set of cuts:
+The size of the cutter fitted, this determines the thickness of domino which will be required.
+The depth of plunge, this determines the length of domino which will be required.
+The width of cut, this determines the width of the mortice which will be cut and the tightness of the joint.
+The angle of the fence, which depends upon what type of joint is being cut.
+The height of the fence, this determines the vertical position of the cut and is usually half the thickness of the material being joined.
+
+Changing the Cutter
+Disconnect the power cord.
+Using the 8mm spanner included in the kit, gently lift the fence body release lever (do not use excessive force) and slide off the motor housing.
+Press and hold the spindle lock button while loosening the cutter (turn anti-clockwise). This can be stiff and the cutter is sharp, take care.
+Insert the new cutter by hand.
+Hold the spindle lock and tighten with the spanner, do not over tighten.
+Replace the motor body, press until the latch clicks.
+Fence Body Release Lever
+Spindle Lock
+Cutter
+Caution: The cutting bit is sharp and may be stiff to remove.
+
+Setting the Depth of Cut
+In most cases the depth of cut should be half the length of domino to be used.
+If one workpiece cannot accommodate this then the depth of cut on the two sides must sum to at least the length of domino.
+Press in the Depth Adjust Lock.
+Select the desired depth of cut (in mm) using the Depth Adjust Lever.
+Release the Depth Adjust Lock. 
+Depth Adjust Lock
+Depth
+Depth Adjust Lever
+
+Setting the Width of Cut
+The width of the slot can be increased to allow some side-to-side flexibility in positioning. This may be helpful when multiple mortices are being cut in a single piece.
+Start the machine.
+Turn the width dial to the desired setting, the machine MUST be running when changing the width setting.
+DO NOT plunge the machine while adjusting, this can bend or break the cutter.
+Stop the machine.
+Standard Width
++6mm
++10mm
+
+Setting the Fence Angle
+The fence angle should be set to
+0° for a mortice on the face of a piece.
+90° for a mortice on the edge or end of a piece.
+45° for a mortice on a mitre joint.
+Loosen the Locking Lever.
+Adjust the fence to the desired angle (there are detents at 22.5°, 45°, 67.5° and 90°.
+Tighten the Locking Lever.
+Fence
+Gauge Pointer
+Detent Stops
+Locking Lever
+
+Setting the Fence Height
+When cutting in the edge or end of a workpiece the Fence Height determines the distance of the centre of the mortice from the reference surface. Normally this should be the centre of the piece.
+Loosen the Locking Lever.
+Adjust the fence to the desired height, use the Height Gauge or the Board Thickness Gauge (see next slide) to set the desired height.
+Tighten the Locking Lever.
+Locking Lever
+Board Thickness Gauge
+Height Gauge
+
+Selecting the Correct Fence Height
+The Board Thickness Gauge is just a stop which limits how far the Fence can fall, you can see that when the Board Thickness Gauge is set to 20 and the Fence is allowed to fall to it, that the Height Gauge shows 10.
+
+The Board Thickness Gauge is just a convenience to set the Fence Height to half the thickness of a board. Use one or the other as convenient.
+
+When using the Height Gauge you may find it easier to set the Fence Angle to 0° and rest the machine on its face plate, set the height, tighten the Locking Lever and then reset the Fence Angle.
+
+Using the Base Support
+The Base Support provides additional support when cutting into thin stock.
+Set the Fence Angle to zero and stand the machine on the fence.
+Fit the Base Support to the sole plate and tighten the two thumb screws. Do not over tighten.
+Set the Fence Angle to 90 and place the machine against the workpiece as shown.
+
+Domino Joiner Safety
+The Domino Joiner MUST always be used with the Festool dust extractor.
+Use of this machine without the extractor could cause a hazardous situation.
+The connector on the dust hose fits over the extraction port on the Domino Joiner.
+The power MUST be disconnected before changing the cutter.
+The machine MUST be running, but the machine MUST NOT be plunged while changing the mortice width setting.
+N.B. This is counter intuitive.
+
+The Festool Chip Extractor is REQUIRED
+This tool MUST always be used with the Festool chip extractor.
+Use of this machine without the extractor could cause a hazardous situation.
+The power cord for the tool should be plugged in to outlet on the extractor. 
+Set the main switch on the extractor to AUTO, when the tool is started the extractor will start automatically. 
+The hose diameter switch (top left) should be set to the size of the hose in use (usually 32mm)
+The AC (filter auto clean) setting should be in the middle.
+The power switch (lower right) should normally be set to the maximum.
+If the extractor beeps then the bag needs to be emptied.
+There is a bag in the pre-separator and another in the body of the machine.
+Power outlet
+Main switch
+Chip extractor stored by the Band Saw
+
+Overhead Dust Extraction
+When doing anything which generates dust or chips, including any machine tool which requires chip extraction or hand sanding, the overhead dust extractors MUST be used.
+This removes harmful dust from the air which would otherwise be breathed in by anyone in the secure workshop.
+The remote controller for the overhead extractors lives in a pocket on the power sockets hanging over the workbench.
+Press the ON/SPEED button once, check that both extractors start.
+Remember to switch them off when you are finished.
+If the sign on the extractors indicates that the filters need changing, please change them and update the sign. There is no one to do this for you except other members.
+
+Work Holding
+It is necessary to press firmly with the Domino Joiner against the workpiece, so the work will move unless it is held in place.
+Do not attempt to hold the workpiece yourself
+When the workpiece is tall and thin it is best held in a vice or clamped to the edge of the bench.
+When cutting an edge joint a stop or bench dogs can be used.
+The sole plate is 10mm from the centreline of the cutter. If the workpiece is less than 20mm thick it needs to overhang the edge of the bench otherwise the sole plate rests on the bench and the fence is not in contact with the reference surface, the cut will be in the wrong place.
+
+Safe Operation
+The faceplate of the machine MUST be pressed against the workpiece before starting and after stopping the machine.
+The Festool extractor MUST be connected, powered on and set to AUTO BEFORE starting the cut, it will start when the Domino starts.
+When plunging the machine you MUST use a steady smooth motion.
+Each plunge should take between 2 and 5 seconds to complete, plunging too rapidly wears the cutter and could cause it to break.
+The machine MUST be stopped before removing it from the workpiece.
+16 second video demonstration
+
+Hold the machine firmly in both hands, with your primary hand on the body of the machine so the power switch can be operated with your thumb, and your secondary hand on the handle on the fence.
+Press firmly against the workpiece while plunging the cutter.
+DO NOT allow the fingers of your secondary hand to fall below the fence.
+When cutting into a tall but thin workpiece, fit the Base Support Bracket.
+
+Domino Joiner safety: Additional checks & tips
+DO NOT place your fingers here
+
+Turning On and Off
+Insert the Plug-It power cord, noting the orientation of the Keyway, and turn ¼ turn to lock.
+Plug the power cord into the outlet on the extractor and set the main switch to AUTO.
+Put on PPE and attach the extractor hose BEFORE starting the machine.
+Push the Power Switch down and forward to turn on.
+The extractor will start automatically
+Press the Power Switch down to turn off.
+The extractor will stop after a few seconds.
+
+End to Face 90° Joint (e.g. rail to post joint)
+Place the boards together as desired.
+Draw a line along the position of the centre line of the Domino (or Dominos).
+It is not necessary to use a square to draw these marks but it is easier until you are familiar with the process.
+Set aside the horizontal board and turn the vertical board so the face to be cut is towards you.
+Set the fence to 90°, place the joiner onto the edge of the  board, aligning the cursor with the mark.
+The face of the fence rests against the two surfaces we drew the mark across which ensures those 2 faces will be flush.
+Cut the mortice and repeat for the other board.
+Dry fit to test, then glue each face and mortice and clamp.
+58sec Video Demonstration
+Optional clamp to ensure alignment
+Mark along centreline of Domino
+Mark visible
+Mark aligned with cursor
+
+Edge Joining Boards (e.g. for a Table Top)
+Lay out the boards as desired.
+Place a straight edge across the whole top.
+Draw lines across each join and the outer edge. Mark both sides of each join with a unique letter.
+Carry the mark over to the edge on each side, when trimming the finished board use the edge marks to avoid cutting into the dominos.
+Set the fence to 90°, place the joiner onto the edge of the first board, aligning the cursor with the mark.
+Cut the mortice and repeat for each mark.
+Dry fit to test, then glue each edge and mortice and clamp, do not over tighten the clamps, the dominos will give you good alignment but do not guarantee a flat result, follow the usual guidelines for a flat panel.
+Mark visible
+Mark aligned with cursor
+
+End to End Mitre Joint
+Place the boards together as desired.
+Draw a line along the position of the centre line of the Domino (or Dominos) on the inside of the joint.
+Place the first board with the line on the top.
+Set the fence to 45°, place the joiner onto the edge of the  board, aligning the cursor with the mark.
+Consider reducing the Fence Height to move the Domino towards the inside of the board. This gives you a greater thickness of board to cut into.
+Consider the depth of cut, be careful not to burst through the board.
+
+End to Face Joint
+Mark the position of the centre line of the domino.
+Mark a perpendicular line at 90° to the centre line, crossing where the centre of the domino should be.
+Mark a line parallel to the centre line offset by 10mm apart.
+Align the base of the sole plate along the parallel line with the centreline scribed on the sole plate touching the perpendicular line
+If the reflection of the perpendicular forms a straight line with the perpendicular itself, you know you are straight.
+When starting the machine check that it does not move, press on the fence handle and adjust if necessary.
+Cut the mortice in the end of the other piece as before.
+Centre line of Domino
+Perpendicular
+Parallel offset 10mm
+Centre line
+Reflection of perpendicular
+
+Sizing Tips
+The hole cut is the shape of two circles joined by parallel tangents.
+The centre separation of the two circles is always 15mm.
+The total width of the hole is the cutter diameter (5mm cutter illustrated)
+The total length of the hole is 15mm + cutter dia.
+The sole plate is 10mm from the centre line of cut.
+When cutting into a flat surface, mark a line parallel to the required centre line 10mm apart (Base), and a line orthogonal to the midpoint of the cut (Centre).
+Align the base of the sole plate along the Base line with the centreline scribed on the sole plate touching the Centre line
+Base
+Centre
+
+Resources
+Festool supplemental user’s manual
+Festool Demonstration Video (10½ minutes)
+The following video is 38 minutes long, but covers everything you need to know to cut right angle joint types.
+New Brit Workshop Video (38 minutes)
+Demonstration for a corner joint begins at time 11:51
+Demonstration of an end to face joint begins at time 23:26. 
+Makespace Risk Assessment
+
+

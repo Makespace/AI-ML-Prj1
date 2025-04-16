@@ -1,0 +1,214 @@
+Biological safety
+
+Use of biological materials in BioMakespace
+Responsibility for the biological safety of activities in biolabs
+Types of organisms permitted in the BioMakespace
+Genetically modified organisms and materials (GMOs and GMMs)
+Risk assessments
+Laboratory rules and setup
+Personal hygiene
+Handling precautions for work with naked DNA
+Health considerations
+Disinfection and disinfection procedures
+Discard jars
+Preventing injuries from sharps 
+Microbiological safety cabinet
+
+This section will cover:
+
+Biological materials include Genetically Modified Organisms (GMO), Genetically modified microorganisms (GMM) and other biological material e.g. microorganisms, cell cultures, parasites, human or animal tissue/cells including saliva/urine or plant material which give rise to a risk of infection, allergy or toxicity or are potentially hazardous to health.
+
+This training covers the key points from BMS-14 and outlines the precautions to be taken when working with microorganisms, and carrying out genetic modification (GM) or tissue culture work in order to ensure that Biomakespace is compliant with  statutory requirements.
+
+The COSHH Regulations are the principal Regulations covering work involving biological hazards, and we have drawn on these widely recognised standards when writing our safety policies. There are also additional requirements for working with GMOs and GMMs, which are covered in more detail in BioMakespace policy BMS22.
+What are biological materials?
+
+Responsibilities for safe working with biological materials 
+
+The Directors have overall responsibility for the biological safety of activities in Biomakespace and the safety of members and visitors. 
+
+A designated Biological Safety officer (BSO) is appointed with responsibility for adherence to the rules, guidelines and Standard Operating Procedures (SOPs). The BSO(s) advise on risk assessments and co-ordinate the notification procedures.The current BSOs are: Dr Jenny Molloy; Mr Roger Mason; ; Email: bio-committee@makespace.org 
+
+The Biological Safety Committee consists of the Directors, the BSOs, other volunteers and an external expert with experience in biological safety.This committee has years of combined experience in biological lab safety and they are the ones that need to approve your project. You can reach out to them to ask for advice and guidance at any time, including in advance of submitting a project proposal.
+
+
+
+Who has safety responsibilities
+organisationally at BioMakespace?
+
+You need to make full use of all measures put in place by BioMakespace to control and minimise the risk of exposure to biological agents. You will:
+Complete training related to safe working with and disposal of biological material.
+Complete risk assessments and protocols, and list organisms/material planned for use before work commences. These must be submitted for peer review by the Biosafety Committee before the work starts.
+Work within risk assessments and agreed protocols/work method statements.
+Wear personal protective equipment as appropriate for the task and as instructed; follow the laboratory rules.
+Practice a high standard of personal hygiene.
+Adhere to the biological waste management procedures of BioMakespace. 
+Report promptly to the Biological Safety officer any defect discovered in any control measure supplied.
+What safety responsibilities do you have?
+
+Types of organisms allowed in BioMakespace
+
+Micro-organisms
+Using only organisms from the Microbiology in Schools Advisory Committee (MiSAC) list of suitable micro-organisms is encouraged.
+The use of all microorganisms requires a risk assessment, but especially those that are not listed as safe for schools.
+Biomakespace operates as a Containment Level 1 Laboratory. Therefore, no microorganisms in Hazard Group 2 or above of the The Approved List of Biological Agents (Advisory Committee on Dangerous Pathogens) is permitted in the Biomakespace.
+Cell Culture
+The risk from any cell line should be considered in terms of the likelihood of contamination and the ability of the cell line to support growth. 
+Our general policy is that no primary cell cultures or human and primate cell lines can be used in the space.
+However, exceptionally and following a detailed risk assessment, well characterised or authenticated finite or continuous cell lines of human or primate origin may be used when:
+There is low risk of endogenous infection with a biological agent presenting no apparent harm to laboratory workers
+The cell line has been tested for the most serious pathogens and this has been documented.
+Approval is given by the Biological Safety Officer(s).
+Permitted Organisms
+
+BioMakespace is a registered GM centre (level 1), so you may use genetically modified organisms in the space.
+Information about GMOs must be included in your risk assessment, as we have a legal responsibility to maintain records of any workers who use GM materials for 10 years.Biomakespace does not permit projects generating GMOs that have a greater potential to cause harm to human health or the environment than the equivalent non-modified organism.
+You must not bring any GM materials into the space unless they have been approved, and you must use the appropriate waste disposal route for these organisms. For more information, see BMS22.
+Genetically modified organisms & materials(GMOs & GMMS)
+
+Risk assessments and safe working procedures
+
+No work, with any biological agent or genetically modified organism (GMO), shall be carried out until a suitable and sufficient risk assessment has been made. 
+The person(s) directly involved in the work and safety representatives should participate in the risk assessment process.
+The risk assessment is subject to annual review to ensure it remains suitable and sufficient and is in line with HSE guidance.
+
+We realise this process may be new to you, so please don’t hesitate to contact the safety officers for help and guidance. 
+
+To give you a clear idea of what an approved risk assessment looks like, and for an example of the language used and risks considered, here is an example from a past event we have run at BioMakespace.
+Risk assessments
+
+The laboratory door should be closed when work is in progress.
+
+Laboratory coats or gowns must be worn in the laboratory and removed when leaving the laboratory. Coats may be worn when moving between the two biological labs only if required due to carrying biological materials or waste for autoclaving
+
+Please hang/place your laboratory coat in the designated area provided. Potentially contaminated laboratory coats must never be taken home.
+The Safety Officer will periodically arrange laundering of lab coat and arrange ad hoc laundering as required e.g. following an accidental spill.
+
+It is BMS policy that gloves are worn when work is in progress to protect workers against chemical or biological contaminants and to prevent contamination from GM work. If gloves are not worn, there should be a risk assessment authorised by the safety officer which approves that decision. 
+Gloves must be removed when leaving the lab. It is permitted to keep one glove on while moving biological materials or waste for autoclaving between the two biology labs only, ensuring that doors are opened with your ungloved hand. 
+Gloves must not be worn to open doors or touch communal equipment such as phones.
+
+Laboratory rules and setup
+
+
+Mouth pipetting must not take place. Automatic or mechanical pipetting devices are provided and must be used.
+
+All operations must be performed so as to minimise the production of aerosols.
+
+Bench tops must be cleaned after use.
+
+Used laboratory glassware and other materials awaiting disinfection must be stored in a safe manner.
+Laboratory rules and setup
+
+Biomakespace has a Class II microbiological safety cabinet. This cabinet is open fronted and has two flows of air: 1) an inward flow of air, and 2) the workspace is flushed with a unidirectional (so-called laminar) HEPA filtered downward airflow. 
+
+The inward airflow protects the worker by minimising the escape of any airborne particulate contamination generated within the cabinet. The downward airflow gives protection to the work materials, minimising contamination during manipulations. 
+
+If you need to use the microbiological safety cabinet for your experiments/activities, you need to do the separate online Microbiological Safety Cabinet Training, and then a practical training where you show that you can operate the cabinet safely. (This can be scheduled in combination with your Safety Training Part II assessment and autoclave training assessment.)
+Microbiological safety cabinet
+
+Basic but very effective ways of avoiding the spread of infection or contamination from containment laboratories are the routine washing of the hands and the wearing of laboratory coats. 
+
+Wash your hands before leaving the laboratory or area, as appropriate, or ASAP when contamination is suspected whilst working.
+
+Avoid potential contamination of keyboards, telephones, door handles or outside surfaces by removing gloves and washing hands before touching them. 
+
+Paper towels are available for drying your hands. Cloth towels must not be used (as these are not disposable and may retain contaminants.)  
+
+
+Good personal hygiene
+
+Many experimental protocols include extraction of DNA from microorganisms, generating ‘naked DNA’ that is not associated with other protective molecules (e.g. lipids, proteins). 
+
+The DNA is extracted for various reasons such as characterisation on gels or subsequent manipulation in genetic modification work. 
+
+The risks associated with handling naked DNA are generally regarded as low since the only occasion DNA is likely to gain access to the body is when the skin is punctured and the material effectively injected (sharps injury). Therefore, of prime importance in the control of exposure is the avoidance of using “sharps” in DNA-related manipulative procedures. 
+
+The Use of DNA in your experiments must be discussed in your Project proposal, COSHH, GM document and risk assessments.
+Handling precautions for naked DNA
+
+No chronic poisons, carcinogens, mutagens or potent acute toxins will be used in the space without consideration of health surveillance as part of the risk assessment and use of chemicals in these categories  will be avoided wherever possible.
+
+Many chemicals and biological organisms or materials can be sensitizers or allergens. All users of the lab must report concerns about health conditions e.g. allergic reactions, asthma, that may be connected to their work at Biomakespace to the BSOs so appropriate steps can be taken to identify the source of the problem and address it. Immediately discontinue any work which you believe is negatively affecting your health.
+
+You should be aware that work with certain biological or chemical agents may potentially affect your health or that of developing embryos. Biomakespace advises caution in using the lab while pregnant or breastfeeding. Anyone who is pregnant or breastfeeding is advised to report to the Biological Safety Officer so that a personal risk assessment can be performed and the appropriateness of health surveillance considered/reconsidered. 
+
+Key health considerations
+
+Disinfection procedures
+
+Disinfection is a process used to reduce the number of microorganisms to an acceptable level. A particular agent is used to destroy the viability of the microorganisms but it does not necessarily kill or remove ALL of them. Disinfection should not be confused with sterilisation which is where the process renders an object free from all living organisms. 
+
+Biomakespace users must routinely use chemical disinfection to decontaminate surfaces and equipment. 
+
+If a new disinfectant is brought into the space, it should be approved by the BSOs to confirm that the particular disinfectant (and working concentration) is suitable for the intended purpose. Never assume that the disinfectant is active in a particular application without validation. 
+
+Whether concentrated or diluted, disinfectants must be handled so as avoid splashing, and goggles and gloves should be worn. Many disinfectants have toxic properties and some are also highly corrosive causing damage if they come into contact with skin or eyes. 
+
+Disinfection
+
+CHEMGENE HLD4 is the main disinfectant used at BioMakespace.It is stocked for use in all of our biolabs. This is because it has a wide spectrum of activity, is suitability for use in most applications and has low toxicity to users.Precautions for CHEMGENE HLD4 use: 
+The mixture contains Quaternary Ammonium Compounds, Benzyl-c12-14 (Even-numbered)-alkyldimethyl, Chloride. Concentrated or 1:10 dilutions may be an irritant. 
+IF ON SKIN: Gently wash with plenty of soap and water. 
+IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. 
+Concentrated solutions are harmful to aquatic life. Dilute solutions can be disposed of to drain.
+70% Ethanol 
+Use only at 70% volume concentration (v/v) as a disinfectant. Higher and lower dilutions are not effective. Only use this on essentially ‘clean’ items.
+Disinfection in BioMakespace
+
+Unopened CHEMGENE HLD4L concentrate has a shelf life of three years, factory diluted product has a shelf life of two years and customer diluted of three months, so please only use CHEMGENE dated within this range. From dilution chart:
+For discard jars: dilute to 1:10 (10%). To make ready-to-use solution, dilute 100mL of concentrated product in 1L of tap water.
+For soaking and spillages: dilute to 1:20 (5%). To make ready-to-use solution, dilute 50 ml of concentrated product in 1 litre of tap water.
+ 
+For general disinfection of floors and walls: dilute at 1:100 (1%). To make ready-to-use solution, dilute 10mL of concentrated product in 1L of tap water.
+
+CHEMGENE shelf life and dilutions
+
+A discard jar is a container of disinfectant into which contaminated items are placed for disinfection. The discard jar should be approximately half full of disinfectant to allow for displacement when items are added. 
+Items placed in discard jars must be completely submerged in the disinfectant. 
+If liquid waste is to be added to the disinfectant (eg aspiration) then the initial concentration should be proportionately increased to ensure the final concentration after additional waste liquids are added does not drop below the effective disinfection concentration (5% CHEMGENE HLD4)
+Items must remain in the disinfectant for at least the manufacturer’s recommended contact time and preferably overnight before disposal.
+The disinfectant can then be washed down a designated sink through a sieve or colander. There is a suitable sink in each of the main biolabs. The disinfected solids go in the clear autoclave bins (note that in principle these items are no longer contaminated and could be disposed of in general waste but it is building policy that all waste that was biologically contaminated, even if it is disinfected or autoclaved in-house, is disposed of in yellow “tiger stripe” bags for incineration. To avoid confusion we process everything through a single pathway of clear bags > autoclave > tiger bag > yellow bin). 
+Label all discard jars with a date and time.
+Discard jars
+
+Application
+Solution
+Directions
+Clean items
+70% Ethanol 
+Use only at 70% v/v as a disinfectant (higher and lower dilutions are not effective) and only on essentially "clean" items.
+Hard surfaces, benches, floors etc.
+1% CHEMGENE HLD4
+Spray, leave surface wet for 10 min and wipe dry with paper towel.
+Safety cabinets
+1% CHEMGENE HLD4, followed by 70% alcohol
+Spray, leave surface wet for 10 min and wipe dry with paper towel. Then spray and wipe dry with alcohol.
+Discard jars, plastic tissue culture flasks, glassware
+5% CHEMGENE HLD4 at final concentration
+Leave immersed in solution for at least 10 min before draining to sink. Start with discard jar half full with 10% solution of CHEMGENE
+Containment Level 1 bacteria in culture broth
+5% CHEMGENE HLD4 at final concentration
+Leave solution for at least one hour before disposing to sink.
+
+Containment Level 1 tissue culture medium or other buffered system
+5% CHEMGENE HLD4 at final concentration
+Leave solution for at least one hour  before disposing to sink.
+
+Spillage of liquids containing microorganisms.
+5% CHEMGENE HLD4 
+Cover spill with 5% CHEMGENE HLD4, leave solution for at least one hour before mopping up with paper towels. Treat area with 1% CHEMGENE HLD4 for 10 mins and wipe dry.
+Contaminated clothing 
+1% CHEMGENE HLD4
+Use only where autoclaving is not possible/appropriate. Soak for one hour then launder as usual.
+Reference examples - Disinfection
+
+Preventing injuries from sharps 
+
+The use of sharps and glass items should be avoided wherever possible. Examples of accidents and suggestions for their prevention include: 
+Glass injuries sustained while inserting pipettes within pipetting aids or Pasteur pipettes into teats; attaching or removing glass to or from rubber or plastic tubing; removing “frozen” stoppers from glass bottles; breaking glass tubing; handling or washing up broken glassware. These injuries may be largely avoided by instruction in correct technique and by ensuring glassware is in good condition (without chips or cracks) before use. Broken or chipped glassware should be thrown away. Plastic alternatives should be used wherever possible. 
+Cuts from scalpel, razor or other blades, sustained while cutting plastic tubes or tubing; opening packages; scraping off adhesive labels. These injuries frequently occur because of misuse of scalpel or razor blades, which are not designed for any of these tasks. The correct tool should be chosen for the job in hand; easily peeled-off labels are available and avoid the need for scraping. 
+Cuts sustained while changing scalpel blades or because of inappropriate disposal. These injuries may be prevented by use of the correct techniques. Please ask us for training if you must use these and are not confident in the use of scalpel blades. 
+Needlestick injuries occur because of accidental injection or incorrect disposal. Please ask us for training if you must use these and are not confident in the use of syringes and needles. Needles must not be resheathed unless a specific risk assessment has determined that this is the safer alternative.
+
+Prevention of injuries using sharps

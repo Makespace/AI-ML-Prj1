@@ -1,0 +1,21 @@
+DO NOT
+Don’t drop or scratch the resin tank
+Don’t use any sharp tools on the build platform other than the removal tool
+Don’t contaminate the underside of the resin tank
+Don’t leave the wash station open
+Don't cross-contaminate resins
+
+Always
+Use Nitrile gloves when working or preparing on the bench
+Put on new gloves if they touch resin
+Use the Build Platform Holder when removing your print
+Scrape away from yourself when using the removal tool
+Cover resin from UV light when not in use
+
+If in doubt: switch off the printer
+The only thing you will lose/damage is your print
+Inform maintainers about issues
+Resin causes skin irritation. Isopropyl alcohol is a flammable. Laser beam is harmful to the eyes. Removal tool is sharp
+RED EQUIPMENT: Not to be used without completing online training and practical assessment
+Nitrile gloves required when handling prints or printer parts
+Formlabs Form 3B Safety

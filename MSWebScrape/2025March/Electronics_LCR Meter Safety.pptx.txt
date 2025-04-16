@@ -1,0 +1,13 @@
+DO
+Visually inspect the charger before use to check for faults.
+Switch the unit off after use and charge. 
+DO NOT
+Use the unit when charging. 
+Connect voltage sources e.g. charged capacitors. 
+Drop the or damage the unit / probes. 
+Attempt to swap the lithium ion battery (report faults).
+If in doubt: switch off the unit
+Report dangerous faults to the group and Management and label the item ‘Faulty: Do not use’. 
+Electric shock hazard from charger
+GREEN EQUIPMENT: Low risk of personal injury. Understand safe operation & read the risk assessments. 
+LCR Meter Safety

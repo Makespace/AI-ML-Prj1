@@ -1,0 +1,113 @@
+Glass flamework Equipment and instructions
+Makespace
+This training enables you to use the torch and kiln (annealing only)
+
+Torch Setup
+The Makespace lampwork equipment consists of a Hothead torch fed by propane gas.
+
+
+
+Kiln set up
+We have a small Paragon Kiln with a bead door. It can be used both for annealing and for fusing glass, however this training will only address annealing. Fusing is not part of this training, and if you would like to do glass fusing you must do the separate training.
+
+Annealing
+Annealing is the process of slowly cooling your glass work so that it is durable.
+Kiln annealing involved slowly raising the glass object to a temperature to just beyond it’s stress point and holding it there for period of time to remove any pressure inside the object before allowing it to cool down very slowly.
+Beads can also be annealed by cooling them very slowly in an insulative material such as vermiculite.
+Beads that are not annealed often break during cooling and, if they do survive, are much more prone to thermal and mechanical shock than annealed beads.
+Unannealed beads usually break when they are cooled
+
+Annealing in the Kiln
+How to anneal beads in the kiln.
+If someone elses cooled glass creation is in the kiln, very carefully remove it and place it to the side for them to collect.
+Wearing a dust mask, sheep powdered kiln paper out of kiln
+Cut and place new kiln paper in kiln prior to use. This protects the kiln from potential damage. Eg. glass sticking to it.
+Switch kiln on and navigate to program 1: Annealing
+Place out “kiln is on, HOT” sign
+Write a note saying the time after which other kiln users can remove your creation
+Do not touch any part of the kiln except the control panel and bead door handle, as it gets hot.
+
+Toolbox and useful equipment
+The glasswork toolbox is located on the shelf under the metal work bench. It contains the following equipment used in lampwork:
+Lighter: for lighting the torch
+Mandrels: metal skewers on around which to make beads
+Marver: graphite paddle used for shaping glass
+Metal tweezers: used for shaping glass by pinching
+Dental scaler: used for raking patterns into beads
+Other equipment:
+Rod/ mandrel holders which are used to organise your workspace
+Jar of bead release (plaster-like solution in which mandrels are dipped to allow their later removal)
+Jar of Vermiculite (for annealing beads if you don’t want to use the kiln)
+Kiln paper (in top draw of filing cabinet)
+
+What can I make?
+ The lampwork equipment can be used for making small glass objects. These are generally divided into two categories: 
+“On Mandrel”- things that are made around a mandrel (ie. the finished item has a hole in the middle of it)- usually beads
+“Off Mandrel” - things that are not made on a mandrel, but rather are made on the end of a glass cane, and removed at the end: eg. marbles, small glass animals, pendants
+On Mandrel					Off Mandrel
+
+Which glass should I use?
+The set up we have operates at a relatively low temperature (compared to other set-ups) and is suitable for “soft glass” (as opposed to Borosilicate glass- a “hard glass”requiring higher working temperature).
+Glass is sold in rods (or canes), in a wide array of colours.
+CoE 104 is the most widely available (more on next slide)
+
+Coefficient of Thermal Expansion (CoE) 
+Glass rods are sold in a variety of different Coefficient of Expansion (CoE) including 104 (most commonly available), CoE 96, CoE 90 etc.
+CoE measures the fractional change in size per degree change in temperature at a constant pressure. Glass expands when it gets hot and contracts when it cools, which results in a change in density. Lower coefficients describe lower propensity for change in size.
+It is important to stick to one CoE within a project. If you mix glass of different CoE, they will contract to varying proportions, causing your work to crack. The only exception is that frit of a higher CoE usually doesn’t cause this problem if it is not encased. 
+CoE 104 is a good place to start
+
+Other Materials
+A wide array of materials can be used to decorate your glass creations including:
+Stringers: very thin glass rods used to make lines or dots
+“Frit”: tiny, glass pieces which can be pressed onto your molten work and melted in for a speckled effect (wear a mask!)
+Enamel: powdered glass (wear a mask!)
+Mica (wear a mask!)
+Goldstone/bluestone
+Pre-make Millefiori/ Murrani (small pieces of glass rod with a pattern inside- like rock candy)
+Gold/silver leaf
+Frit		           enamel	mica          goldstone stringers    Millefiore      gold leaf	
+
+How to make a bead
+Cut kiln paper and place in kiln (prevents glass from sticking to kiln)
+Turn on kiln, select program 1 (annealing)
+Dip mandrels in kiln release (two coats for easy removal)
+Fill water bucket
+Arrange workspace (lighter, marver, tweezers, mandrel stand etc.) - be mindful that you should never have to reach/lean in front of torch
+Turn on makespace extractor fan
+Make sure you are wearing all necessary PPE.
+Open gas canister safety cabinet, attached gas hose to torch, turn on gas at canister, turn on gas at torch, light torch.
+Heat your glass rod starting in the “warming area” (see picture) to prevent thermal shock which can splinter the glass. Once it is hot, bring the rod to the “sweet spot” of the flame and create a “gather” (glob of glass)
+Once you have a gather, start to wrap it around your mandrel.
+Once you are happy with the size of your bead, place your glass can hot end away from you, on your rod stand.
+Holding your mandrell parallel to the ground, melt your bead in the sweet spot to shape it, continually turning the mandrel.
+At this point you can add decoration
+When your bead is complete, turn off the torch and place the bead in the kiln or vermiculite
+Write a note saying when other users can remove your creation from the kiln
+
+Maintenance
+Over time the torch hose can build up soot, which is dangerous and results in “muddy” beads.
+To mitigate this, when you are finished making beads, turn the gas off at the bottle and allow the remaining gas in the hose to burn off at the torch, before turning the torch off.
+The gas bottle needs to be replaced when it has run out- inform the glass bench owners if it runs out
+
+FAQ
+Why did my bead crack?
+Mixing glass of different CoE
+Improperly annealed
+Not placed in kiln vermiculite fast enough
+Bead not kept hot throughout making
+Why is my bead “muddy” looking
+Did not burn off fuel left in hose prior to use
+Held glass to close to the torch
+Some glasses are more susceptible to burning than others- trial and error
+Why did my glass rod splinter?
+Introducing glass rod into hot part of flame too quickly caused thermal shock
+Some canes of glass have bubbles which can cause them to splinter more frequently
+Why won’t my bead come off the mandrel?
+Bead release layer was two thin (consider doing two coats, or soaking beads off bandrelss in water)
+
+Rules
+Never remove someone else's project from the kiln if there is a chance it has not cooled- this is both dangerous and could cause their project to break through preventing complete annealing
+Always leave a note with your name, contact details and the time at which your project can be safely removed
+Never change programs on the kiln (or if you do, be certain that you have changed them back before you leave).
+Report any damage to the glass equipment to the glass makers immediately and place a note saying “Do not use, Glass Owners have been informed of issue”.

@@ -1,0 +1,98 @@
+PCB Stencil Printer
+Online Training
+
+Scope
+These online materials are designed to get you ready to operate the Makespace PCB stencil printer and familiarise yourself with the basic operating procedure.
+No prior knowledge of how to use the PCB stencil printer is assumed.
+If you already know how to use a PCB stencil printer, this material has been designed to get you up to speed with use of the Makespace system quickly. 
+This guide covers what all PCB stencil printer users need to know in Makespace. For those who need it, some ad hoc in-person training may be available. 
+Contact: electronics-owners@makespace.org 
+
+
+Learning Objectives
+This is training for the Makespace PCB stencil printer covering:
+What the PCB stencil printer is used for 
+How to use the PCB stencil printer safely
+Cleaning up
+
+PCB Stencil Printer Uses
+The PCB stencil printer is used to deposit solder paste onto a PCB through a stencil, normally made from a perforated steel sheet. 
+Its main function is to help solder paste deposition and transfer an accurate amount of solder paste to an accurate position on the bare PCB. The stencil printer can be used to precisely align the stencil with the metal pads on the PCB. 
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Poisoning
+
+
+
+
+Use lead-free solder paste.
+Wear safety gloves and goggles when handling solder paste and also cleaning solvents. 
+Always wash your hands with soap and water after handling solder.
+Report any health problems from soldering to Management. 
+Physical injury
+
+The equipment is heavy. Always test the weight before carrying heavy objects & get help if needed.
+
+Mounting the PCB to the stencil printer
+Use the magnetic mounting studs to hold your PCB securely
+Ensure the grub screws don't protrude above the surface of your PCB
+Adding fiducial holes to the PCB makes this much easier
+Size the holes to match the mounting studs
+A minimum of 3 fiducial holes is required and they should be widely spaced at far corners
+
+Mounting the stencil in the stencil printer
+Mount the stencil in the stencil holder arm
+Loosen the screws on the stencil holder
+Slip the stencil between the aluminium and black plastic
+Tighten the screws to clamp down on the edges of the stencil
+Put some tension on the stencil to hold it flat
+
+Mounting the stencil in the stencil printer
+Lower the stencil holder arm over the PCB
+Align the stencil and PCB
+Make coarse adjustments by moving the magnetic mounting studs
+Make fine adjustments using the thumbscrews (two on the stencil arm for Y direction, two on the base for X direction and angle adjustments)
+
+Aligning the stencil and the PCB
+When the stencil and PCB are perfectly aligned you will only see the tinned pads and should not see any solder mask
+Very misaligned
+Almost aligned
+Aligned
+
+Applying solder paste using the stencil printer
+Put some solder paste across the full width of one end of the stencil, then use the metal squeegee to draw the paste across the stencil
+
+The recommended technique is to squeegee the paste in two passes:
+The first is at a shallow angle to press paste down into all the apertures
+The second is at a steeper angle to clear paste from the stencil surface
+Applying solder paste using the stencil printer
+Stencil
+PCB
+Paste
+Squeegee
+First pass at shallow angle
+Second pass at steep angle
+
+Applying solder paste using the stencil printer
+
+Inspect the solder paste to check that:
+All SMD pads have paste
+No non-SMD pads have paste
+Paste is correctly aligned to the pads
+There is no paste between pins, especially on fine-pitch leaded parts
+The microscope can be useful for checking paste on small or fine-pitch pins
+
+Placing SMD parts
+
+Use tweezers to place SMD parts on the paste
+Gently place parts on top of the paste
+Pressing parts down into the paste can cause the paste to bulge outwards causing bridging
+Parts which sit on top of the paste can move slightly during reflow.  This is a good thing, surface tension will tend to make the parts align perfectly to their pads.
+Be sure that parts are correctly oriented - check the datasheet for polarity or pin 1 markings
+The microscope can be used to check placement for small or fine-pitch parts
+
+Cleaning up
+Clean the metal squeegee after use with a cleaning wipe (by the laser cutters) and any other parts that have become contaminated with solder.   
+

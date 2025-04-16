@@ -1,0 +1,96 @@
+Brother PR680W 6 Needle
+Embroidery Machine
+Preparation, Set-up, and Operation
+
+
+Safety Precautions
+Caution: Sharp needles
+The PR680W is a computer controlled 6 needle embroidery machine.
+
+
+Safety Considerations
+The PR680W is a computer controlled machine, which is network connected.
+The machine has needles which are sharp and which are capable of running at high speed (up to 1,000 stitches per minute).
+DO NOT place any part of your body close to the needles or attempt to change a needle, for any reason, unless the power has been switched off on the machine and the E Stop.
+DO NOT use bent or damaged needles.
+ONLY “Garment Weight” fabric should be used with this machine, generally this will be no more than 1.2mm thick.
+DO NOT use fabric frames other than those provided by Makespace
+When the machine is in operation keep your hands clear of the needle bar case and all moving parts.
+DO NOT leave the machine unattended while it is operating.
+
+Daily Maintenance
+The machine requires lubrication once per day of operation.
+There is a sign off sheet next to the machine to record this.
+Before using the machine, check the sheet. If the machine has not yet been lubricated that day:
+Apply a single drop of lubricant to the hook
+Sign the sheet to record the fact that this has been done.
+To see a video on the machine of how to lubricate the hook, press:
+
+
+Lubricating the Hook
+Touch
+Touch 
+Open the hook cover and remove the bobbin case (fig. 1)
+Touch
+The race moves to the correct position for oiling
+Apply 1 drop of oil at position 2 (fig. 2)
+Touch
+The race returns to its original position
+Insert the bobbin case and close the cover (fig. 3)
+fig. 1
+fig. 3
+fig. 2
+
+Lubricating the Hook 1
+Touch
+Touch 
+Open the hook cover and remove the bobbin case
+Touch
+The race moves to the correct position for oiling
+
+
+Lubricating the Hook 2
+Apply 1 drop of oil at position 2 in the picture
+Touch
+The race returns to its original position
+
+Lubricating the Hook 3
+Insert the bobbin case
+Close the cover
+
+Threading Up
+Top Threads
+
+There are six top threads, which are guided from the spools at the top through their respective needles at the business end of the machine via numbered channels. Brother has a very clear and nicely illustrated guide here. 
+
+Each thread path is numbered. Take care to follow the numbered path, watching for holes and plates on the way, as these will require you to thread the thread through the holes, and to take the thread right-to-left under the plate. If in doubt, the thread generally is guided from right to left and if wound, wound clockwise.
+Bottom Thread
+
+The bottom thread comes from a pre-wound bobbin, which is in the casing described in the section about Lubricating the Hook. It will need replacing when empty.  Brother has a precise guide here, but it is broadly identical to any other sewing machine.
+
+The bobbin fits into the bobbin case with the thread winding clockwise. The loose end of the thread is pulled back and under the tension plate and out through the oval hole in the bobbin case. The bobbin case is reinstalled (see Lubricating the Hook) with the loose end of the thread inside the bobbin “box” when the cover is closed. The machine will pick up the bottom thread automatically.
+
+Materials for Embroidering
+While you can broadly embroider on any fabric, embroidery threads are held under tension. How fabrics behave when perforated with threads under tension informs your choice of materials, and your approach to stabilising them prior to sewing. This may require a little research and experimentation before embarking on any large projects. In brief, your choices are:
+
+
+
+
+
+Stretchy, lightweight, and knit materials (such as t-shirt fabric, spandex or fleece) will pucker and wrinkle when embroidered unless they are robustly stabilised prior to sewing. As embroidery literally adds more thread to your fabric, lightweight or stretchy fabrics are better suited to smaller or less dense designs. 
+You may need to use an iron-on backing to cover the back of stitches on a close-fitting garment to avoid vexation while wearing.
+Dense, woven, and non-stretch materials (such as canvas, denim, or felt) are less likely to wrinkle when embroidered, and only need gentle support with a lightweight stabiliser prior to sewing. Materials of this kind can usually take dense, larger designs with ease. Some garment-weight leathers and lightweight linens will also only need gentle support despite being slightly stretchy or loose. Embroidered patches use materials in this category, and ideally an iron-on backing to give a smooth finish to the reverse.
+
+Stabilisers
+Stabilisers form the basis of your embroidery. They are a non-woven, non-stretch backing made from “wet-laid” fibres, held together by binding agents. You apply the stabiliser underneath the fabric to the area you will be embroidering. Some stabilisers benefit from being lightly glued in place with spray-on fabric adhesive, some are self-adhering, and some just need clamping in place with the embroidery frame. MakeSpace will have some basics in stock, but don’t be afraid to shop around and try out samples. These are the three main types:
+Cut-away stabiliser. This stays on most of the design after sewing to provide permanent support, and you only cut away the excess around the outside. This is used for stretchy materials that see a lot of wear and washing. It is very forgiving and easy to use.
+Use for: jersey, fleece, flannel, spandex, sportswear, tshirts, sweatshirts, baby wear.
+Tear-away stabiliser. This is removed (torn away) nearly entirely from the back of the work, remaining only on the stitches. This is used for materials that don’t stretch, only need light support, or where the back will be visible.
+Use for: denim, canvas, corduroy, most garment-weight leather, tote bags, tea towels, caps, aprons.
+Water-soluble stabiliser. This dissolves entirely in water. It is used for applications where the design is dense enough to be self-supporting, and the backing must be completely invisible. Cut away as much excess as possible prior to washing away to avoid mess.
+Use for: mesh, making free-standing lace, other inventive applications.
+
+After you Finish
+Clean up your work area.
+Switch off the machine.
+Replace any tools, threads, or materials in their correct place. (Note: the thread hook hangs up on the pinboard behind the machine. Do not remove this tool from the craft room.)

@@ -1,0 +1,58 @@
+Biological Safety cabinet
+Introduction
+
+What is a Biological safety cabinet (BSC)?
+Safety cabinets are purpose built cabinets that include a fully enclosed ventilated workspace that protect the users from any potentially harmful specimen and protects reagents and specimens from being contaminated by unclean air from environment (and people)
+They are also called biological, biohazard, microbiological safety cabinets
+These units are standard in clinical and research labs all over the world
+BioMakespace has a Walker class II safety cabinet
+Definition of specimen: A small sample of something– cells, organism, plasma, tissue, that represents a whole, used for testing or experimentation
+
+
+What do you use biological safety cabinets for?
+They  allow the user to carry out experimental tasks safely and under sterile conditions
+There are 3 classes of safety cabinets. The difference is what protection they provide and which organisms you can work with 
+
+Class
+Protects user from harmful agents within the cabinet
+Protects reagents/specimens from contamination from environment
+Protects environment from contaminants contained in the cabinet
+Biosafety levels (BSL)
+I
+✚
+−
+✚
+1,2,3. - low to moderate risk biological agents
+II
+✚
+✚
+✚
+1,2,3 - low to moderate risk biological agents
+III glovebox
+✚
+✚
+✚
+4 – high risk biological agents
+
+How do Class II safety cabinets work
+The cabinet has
+
+A front opening with carefully maintained continuous inward airflow.
+HEPA-filtered, vertical, unidirectional airflow within the work area.
+HEPA-filtered exhaust air to the room or the exhaust connected to an external extract system.
+.
+Image from www.labogene.com
+Further reading (not required for passing the quiz):More detailed descriptions of how biological safety cabinets work – check out the following website: https://www.labogene.com/Biological-Safety-Cabinets
+Biomakespace Walker Safety Cabinet air flow
+
+When to use a biological safety cabinet
+When you are working with specimens and sterile reagents 
+
+BSCs should not confused with laminar flow hood which only protect the material being worked with and are not suitable for work with infectious or toxic material.
+BSCs should not be confused with conventional fume hoods that do not filter microorganisms. 
+Note: the safety cabinet can not be used for harmful chemicals. When using chemicals, you need to use a fume hood with appropriate filters. Fumehoods are designed to remove chemical fumes and aerosols from the work area.
+
+
+
+
+

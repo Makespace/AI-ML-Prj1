@@ -1,0 +1,12 @@
+DO NOT
+Stick your hand in machine when it is running
+Move printhead by hand when machine is on
+Try to move the print bed up and down by hand
+Touch the print head when the nozzles are hot
+
+If in doubt: switch off the printer
+The only thing you will lose/damage is your print.
+Burn Hazard, Nozzles at 200°C; Machine moves autonomously, Pinch Hazard, Removal Tool is sharp
+RED EQUIPMENT: Not to be used without completing online training and practical assessment
+No PPE Required
+Bambulabs X1C Safety

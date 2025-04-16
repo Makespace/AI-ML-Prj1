@@ -1,0 +1,225 @@
+Plunge Saw
+Preparation, Set-up, and Operation
+
+
+Personal Protective Equipment
+Risk of flying debris; Eye protection REQUIRED
+Loud noise; Ear protection REQUIRED
+Dust hazard; Dust dust mask recommended at all times and REQUIRED when cutting MDF or Irritant Wood 
+Tangle hazard; Long hair MUST be tied back
+Tangle hazard; No loose or dangling clothing
+
+Safety Precautions
+Caution: Sharp blade
+Inform others in the workshop that they should also use PPE
+The power cord should be attached only when you are ready to make a cut and MUST be disconnected before letting go of the machine.
+
+Circular Saw Cutting Direction
+With a handheld circular saw, the blade rotation is always aligned so that teeth on the forward, cutting side exit the work upwards, towards the user. 
+This may seem counter-intuitive, but ensures that the cutting action tends to pulls the saw down against the work, rather than throwing it upwards if it catches
+
+Kerf
+Like all saws, a circular saw does not simply cut the wood apart like a knife, but instead scrapes out material to form a narrow slot
+The width of this slot is known as the kerf, typically about 2.2mm with this saw 
+Not accounting for kerf width when marking out material can result in significant errors
+Kerf
+
+Tearout
+Where blade teeth exit the workpiece, they can sometimes catch small fragments either side of the cut, often called ‘tearout’
+This is not dangerous but can make a mess of your work
+Since the teeth of a circular saw blade always exit the work upwards, this tearout will be worst on the top surface of a board. So if your material has a ‘nice’ side, always position this on the bottom. 
+Tearout can be further controlled by slowing down the rate you push the saw through the wood (feed rate) or by placing a sacrificial board or masking tape along the cut line
+
+
+Plunge Saw safety: Inspection
+Ensure the saw is not plugged in
+Firstly inspect the power cable for cuts, nicks, kinks or frayed ends.
+Move on to checking the main plastic housing for any cracks, loose screws etc.
+Next check that the saw plunges freely and returns home properly, set the depth stop to maximum for this check.
+Check the blade has all its teeth, is clean, properly secured and rotates freely
+Ensure the riving knife is in place and emerges behind the blade when the saw is plunged.
+If there are any problems do not use the saw and inform the owners, fill out a trouble ticket or email maintenance@makespace.org with any concerns.
+
+Blade
+Riving Knife
+
+The Festool Chip Extractor is REQUIRED
+This tool MUST always be used with the Festool chip extractor.
+Use of this machine without the extractor could cause a hazardous situation.
+The power cord for the tool should be plugged in to outlet on the extractor. 
+Set the main switch on the extractor to AUTO, when the tool is started the extractor will start automatically. 
+The hose diameter switch (top left) should be set to the size of the hose in use (usually 32mm)
+The AC (filter auto clean) setting should be in the middle.
+The power switch (lower right) should normally be set to the maximum.
+If the extractor beeps then the bag needs to be emptied.
+There is a bag in the pre-separator and another in the body of the machine.
+Power outlet
+Main switch
+Chip extractor stored by the Band Saw
+
+Overhead Dust Extraction
+When doing anything which generates dust or chips, including any machine tool which requires chip extraction or hand sanding, the overhead dust extractors MUST be used.
+This removes harmful dust from the air which would otherwise be breathed in by anyone in the secure workshop.
+The remote controller for the overhead extractors lives in a pocket on the power sockets hanging over the workbench.
+Press the ON/SPEED button once, check that both extractors start.
+Remember to switch them off when you are finished.
+If the sign on the extractors indicates that the filters need changing, please change them and update the sign. There is no one to do this for you except other members.
+
+Plunge Saw safety: Operation
+The workpiece MUST be supported and prevented from moving, if the cut closes up during operation the blade can bind and a dangerous “kick back” can occur.
+The saw MUST be on the track or workpiece before starting.
+The saw has “soft start” and the blade must reach full speed before starting a cut.
+The cut MUST always be made away from you, pushing the saw.
+When making a plunge cut the saw MUST be placed against a stop to prevent kick back.
+The blade MUST come to a complete stop before lifting the saw from the track.
+
+Hold the machine firmly with your primary hand on the main handle of the machine so the plunge lock can be operated with your thumb, and the power switch with your index finger.
+When making a bevel cut, place your secondary hand on the base plate of the saw to prevent it tipping, otherwise place your secondary hand on the front handle.
+Take care that the power cord and dust hose do not snag on the track, do a dry run of the cut with the power off by sliding the saw along the track to check for this.
+If necessary hold the power cord and hose with your secondary hand or place them over your arm, as in the top picture.
+Plunge Saw safety: Handling
+
+Never stand directly behind the saw, if there is a kick back the saw could hit your body.
+Never pull the saw towards you while cutting.
+Always ensure the saw is firmly held against the track or workpiece while cutting.
+Never allow any part of your own or someone else’s body to be in front of the blade while cutting.
+
+Plunge Saw safety: Positioning
+
+Plunge Saw features
+On/Off Switch
+Blade Cover
+Power & Plunge Lock
+Track Slot
+Depth Stop
+Depth Scale
+Guide Jaws
+
+Setting the Depth of Cut
+The depth scale shows, in mm, how deep the cut will be.
+Press the side of the lever towards the scale to unlock, and then slide to position.
+The indicator shows the depth of cut without the track.
+When setting the depth take the thickness of the workpiece and add 5mm for the thickness of the track and an additional 2mm when using the sacrificial layer or 5mm when cutting off the edge or between the benches.
+Depth WITHOUT track, add 5mm for track thickness
+Press to move
+
+Setting the Speed
+The speed setting allows the speed of rotation of the blade to be adjusted.
+In most cases you should set the maximum speed (6), if you find the blade leave black burn marks after a cut then this can be reduced by selecting a slower speed.
+If you do experience burning ensure that
+You are not pushing the saw too hard, let the saw do the work
+The workpiece is not moving and closing the kerf onto the blade, this could cause a dangerous kick back
+Speed setting
+
+Setting the Angle of Cut
+The TS75 can cut at an angle of up to 45°, but the Mitre or Band saw can usually produce a more accurate result.
+To change the angle of cut
+Loosen the two rotary knobs
+Swivel the saw to the desired angle, as indicated on the Cutting Angle Scale
+Retighten the rotary knobs.
+
+It may be necessary to place your secondary hand on the base of the saw when making a bevel cut to prevent the saw from tipping. 
+Cutting angle scale
+Cutting angle rotary knobs
+
+Adjusting the Splinter Guard
+The splinter guard should be adjusted so that it is just clear of the workpiece.
+This helps to prevent splinters from being thrown out of the cut, helps to prevent tearout and improves the effectiveness of the dust extractor.
+To adjust the Splinter Guard:
+
+Disconnect the power
+Loosen the rotary knob
+Slide the splinter guard to the required position
+Retighten the rotary knob
+Splinter Guard
+Splinter guard  rotary knob
+
+Marking a Cut
+The Saw Track has a splinter guard along the cutting edge, which lines up directly with the edge of the saw blade.
+If the track is placed exactly on the mark for a cut, the part of the material under the track will be cut exactly along the marked line.
+The kerf will be on the side of the line away from the track, so the “keep” part should be under the track and the “waste” part should be visible.
+If the keep part is narrow you may need an additional workpiece to support the track.
+Splinter guard 
+Waste part of workpiece visible under track
+If the workpiece is narrow place another piece here to support the track
+
+Cutting Large Sheets
+The Saw Track has non-slip strips on the underside.
+When cutting a large sheet, the weight of the saw and track may be sufficient to hold it in place.
+Set the depth stop for the thickness of material you are cutting and add 5mm for the track.
+Place the sheet across both benches and cut along the gap between them.
+The track can be clamped to the workpiece using clamps stored with the track.
+
+Using the MFT Bench Dogs
+Bench Dogs can be inserted into the MFT to accurately position the track and to place stops.
+There are dogs in several sizes and a few super dogs with a locking mechanism to hold them firmly in place for accurate repeated cuts.
+The back stops can be placed square or diagonally.
+Parf Guide Clips can be used to hold the track against the dogs and prevent movement.
+
+
+Positioning The Track: Thin Strip Cuts
+When cutting a thin strip from a workpiece the second row of holes can be used to position the track over the edge of the bench.
+Slide the track clips into the slot on the track and then over the bench dogs
+If necessary, place scrap pieces to support the track.
+If the dogs are too tall they can interfere with the motor housing of the saw - do a dry run to check you can make the entire cut.
+Scrap to support the track
+
+Using the Sacrificial Layer
+When cutting in the middle of the bench use the sacrificial layer to protect the bench top, reuse existing kerf lines if possible
+Use an end stop to prevent the workpiece from moving along the axis of cut, place the cut mark over the kerf line in the sacrificial layer
+Place the track using the clips and align workpiece so the cut mark at each end of the workpiece rests exactly on the splinter guard
+Cut Mark
+Kerf line
+End Stop
+Cut Mark
+Splinter Guard
+Track Clip
+
+Positioning The Workpiece With MFT Jigs
+In the pictures to the right, a Leg Jig is being used to cut a 50mm wide piece to make a leg.
+The workpiece can be placed against the end stop and the jig, the track placed and a cut made without measuring.
+The jig ensures a 50mm parallel cut.
+The other edge of this jig is designed to make a 1:22.5 taper cut, if the jig is turned around the 50mm piece can be tapered using the same technique.
+End Stop
+Jig
+
+Using a Straight MFT Jig to make Length Cuts
+The straight side of the same jig used on the previous slide can be used to make a length cut.
+The workpiece can be placed against the jig and the track placed at 90º.
+The jig ensures that the workpiece is straight, the MFT ensures that the track, and therefore the cut, is precisely square.
+The only measurement required is for the length, a single mark can be made on the workpiece and aligned exactly with the splinter guard on the track.
+Work Piece
+Jig
+
+Advantages of Jigs
+In this picture a jig is about to be used to make a taper cut.
+Use of specialised jigs like this can be used to quickly cut repeated pieces such as legs or aprons with little or no measuring.
+In many cases the jig does not need to be made to very high accuracy as it is more important that a set of legs are all identical than of some exact size.
+Note that the jig holds the workpiece at an angle, the track and saw cut remain along the same line as before.
+Backstop
+Taper jig
+Workpiece, taper cut about to be made
+
+Preparing for a Cut with the Sacrificial Layer
+Place the saw on the track so that the blade can plunge without contacting the workpiece.
+Ensure the saw is not plugged in
+Press the plunge lock with your thumb DO NOT start the saw, do a test plunge to ensure the depth of cut is correct.
+Un-plunge the saw and slide it along the track to ensure the path for your whole cut is clear.
+Return to the start position and consider if the hose and cable could catch on the end of the track, hold or place them over your arm if necessary.
+Remember to wear a dust mask when doing this, in case you cut into the MDF layer.
+
+Making a Cut
+Attach the power cord.
+Start the saw.
+Only when the saw is as full speed, plunge slowly and push the saw gently and smoothly through the cut.
+Do NOT push hard, let the saw do the work.
+When you reach the end of the cut release the power switch and un-plunge the saw.
+WAIT for the blade to stop.
+Remove the saw from the track.
+Disconnect the power cord.
+
+
+After you Finish
+Clean up your work area.
+Disconnect the plug-it power cable and place the saw and the cable back into the systainer.
+

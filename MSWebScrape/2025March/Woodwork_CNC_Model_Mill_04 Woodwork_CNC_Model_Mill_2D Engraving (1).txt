@@ -1,0 +1,52 @@
+SECTION 3: Simple 2D Engraving with the Model Mill
+
+3) Simple 2D Cutting: SCOPE
+Before you start:
+Set up Model Mill as per Section 2 above
+Watch the videos cited in the Resources slides below
+2D Cutting Tasks:
+Start “Vectric V-Carve Pro” & define work piece
+Draw a simple 2D shape in draw view
+Switch to toolpath view
+Define tool, select tool feeds & speeds appropriate to material being cut
+Generate toolpath and review in software
+Output toolpath to Model Mill for cutting
+
+
+
+3) Simple 2D Cutting : Resources 1
+Read the PDF “MDX 40A SET UP GUIDE” on the Makespace website
+This is a Makespace-specific guide to setup of the Model Mill
+Vectric Manual for V-Carve Pro is available at:
+ https://docs.vectric.com/docs/
+Vectric V-Carve Pro online video tutorials are available at:
+https://www.vectric.com/support/tutorials/vcarve-pro?category=TutorialCategories&playlist
+In particular, “Getting Started > Avalon Nameplate” video
+Watching other Vectric videos is not mandatory (there are many of them), but is highly recommended – select the ones that apply to the job you have in mind
+
+
+
+3) Simple 2D Cutting : Resources 2
+Read the PDF “MDX 40A FEEDS & SPEEDS GUIDE” on the Makespace website
+This is a Makespace-specific guide to Feeds and Speeds
+Optionally read the following for more info about Feeds and Speeds:
+https://makezine.com/2014/03/21/cnc-routing-basics-toolpaths-and-feeds-n-speeds/ 
+https://www.axyz.co.uk/2018/04/16/are-you-using-the-right-speeds-and-feeds/
+Other useful resources
+Excellent Instructables web page covering the MDX 40A is available at: https://www.instructables.com/id/CNC-Machining-Tips-and-Tricks/
+
+
+
+
+
+3) After Cutting : CLEAN UP
+Continuous Maintenance – After every job, you must:
+Clean the mill with a 1" paint brush, remove as much dust from the spindle area as possible before vacuuming. 
+Vacuum the inside of the mill chamber. Do not blow the dust, it goes everywhere! 
+Clean any debris off bed and surround using soft brush  and vacuum cleaner
+
+The machine should look like this after use! 
+
+
+
+

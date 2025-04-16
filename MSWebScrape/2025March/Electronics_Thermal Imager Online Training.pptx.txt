@@ -1,0 +1,74 @@
+Thermal Imager
+Online Training
+
+Scope
+These online materials are designed to get you ready to operate the Makespace thermal imager and familarise yourself with the basic operating procedure.
+No prior knowledge of how to use the thermal imager is assumed.
+If you already know how to use a thermal imager, this material has been designed to get you up to speed with use of the Makespace system quickly. 
+This guide covers what all thermal imager users need to know in Makespace. For those who need it, some adhoc inperson training may be available. 
+Contact: electronics-owners@makespace.org 
+
+
+Learning Objectives
+What the thermal imager is used for
+Safe use of the imager 
+Image capture & export
+Charging 
+
+
+Thermal Imager Uses
+The thermal imager is a special sort of camera used for viewing the heat given off by an object. Uses include:
+Identifying short circuits by looking for hotspots, or parts of a circuit that are not working properly (cold areas). 
+Measuring the operating temperature of electronic components or other objects. 
+Identifying parts of machinery that need lubrication since those with too much friction will appear warm.
+The resolution of the imager is 320 × 240 pixels and it can measure temperatures from minus 20°C to 650°C in two ranges. 
+
+Safety Risks & Mitigation
+Risks
+Mitigation
+Electrical Shock / Fire / Burns - Due to damaged cabling, faulty equipment, poor earthing etc.
+
+
+
+
+
+Equipment should be visually inspected before use to check for faults including: loose / missing / damaged parts on the unit and, damaged cabling and plugs. 
+Faults should be reported with the Trouble Ticket form (on the Equipment page). Dangerous faults should be reported to the group and Management and the item labelled ‘Faulty: Do not use’. 
+All electrical items should be switched off after use.
+Emergency stop isolation switches (on the wall) can be used to isolate the electrical power in an emergency. 
+
+DO NOT
+Point the imager at the sun or other intense energy sources.
+Force the storage box closed - the manual must be laid flat in the correct place before closing.
+Touch the lens.
+DO
+ALWAYS use the green wrist strap - the thermal imager is a valuable item that we do not want dropped!
+Read the manual if you wish to change any of the imager's settings.
+Charge the thermal imager if it has run out of power.
+Read up on emissivity if you require accurate temperature readings.
+Dos and Don’ts 
+
+To power the imager, press and hold the red power button for 2 seconds and wait for activation. 
+Turn the rubber ring around the lens to focus.
+Click the trigger to capture an image and press the tick on the touchscreen to save. Click again to return to the live view. 
+Video can be recorded by holding the trigger for at least 2 seconds and then releasing. Just click the trigger to stop recording. 
+Image Capture
+Power button
+Trigger
+Turn to focus
+Save option
+Temperature readings of visually reflective things (e.g. shiny metal parts) may be inaccurate as these objects reflect heat and do not emit much of their own energy (low "emissivity").
+
+Images can be viewed by removing the micro SD card (under the top rubber cover) and inserting into a computer. 
+If using the imager for long periods of time, use the supplied mains adapter with USB-C cable to power it. 
+Note, that plugging the imager into a laptop will not allow simultaneous charging and use of the imager; the mains adapter must be used instead.
+Switch the unit off after use. 
+Exporting Images & Charging 
+SD card
+USB port
+Cover
+
+Storage
+The imager, charger and manuals should be carefully stored in the storage box after use and placed in the blue consumables cabinet. 
+Do not force the box closed - the manual must be laid flat in the correct place before closing.
+

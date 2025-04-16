@@ -1,0 +1,148 @@
+1
+Introduction to 3D Printing
+Printer independent
+
+Makespace Printers
+2
+Ultimaker 2+
+Bambulabs X1C
+Formlabs 3b
+Markforged Mark II
+Legacy printer
+General purpose
+Multi-colour prints
+Flexible parts
+high resolution resin printer
+Clear prints
+Castable wax prints
+Continuous carbon fibre layers
+Very high strength parts
+
+The 3D printers at makespace can be used to create objects out of various plastics.
+They use so called Additive Manufacturing, building up the object layer by layer.
+
+
+3D printing can be used to prototype, create replacement parts, and is even versatile enough to print prostheses and medical prototypes.  It will have a growing impact on our world, as more and more people gain access to these amazing machines.
+3
+
+What this training will offer
+Purpose: allow you to use the 3D printers safely
+Scope: Limitations, thermoplastics, basic workflow, safe use
+Excluded: Resin printer, vacuum former, other machines
+Learning objectives: You understand the available 3D printing facilities at Makespace
+
+This won’t teach you everything about 3D printing. It is a vast field and fun to explore. The internet offers lots of resources. There will be links to recommended videos at the end.
+4
+
+Makespace 3D-Printers
+FDM (Fused Deposition Modelling)
+Pushes plastic filament through a heated nozzle
+Deposits one layer of material at a time, slowly growing the objectNozzle moves in a plane with the build plate going down with each layer
+You can print various thermoplastics including PLA, ABS and TPU with them
+5
+
+3D printing workflow
+CADDesign your own parts
+Download existing model
+E.g. printables / thingiverse / thangs / makerworld
+STL/3MF File
+Thin shell representation of part i.e. no internal material
+Slice with “slicer” program
+Decide how to turn model into layers and instructions for printer
+gcode File
+Instructions for printer e.g. move motor, heat nozzle
+Execute with printer
+
+6
+
+Strong
+Weak
+Limitations
+Can’t print in thin air
+Orientation and design of parts matters
+Software can generate supports
+Bridges up to ca. 20mm, 45° overhangs OK
+Layers stronger than layer adhesion
+Orientation and design matters
+Split print and assemble to optimize
+Limited Accuracy
+Shrinkage dependant on material distribution
+Material Properties
+Sensitive to heat, chemicals, UV
+Not food safe
+Examples of FDM stress tests
+Images by University of Texas
+Taken from this Design for 3D Printing guide(licensed CC-BY-SA)
+7
+
+PLA (Polylactic Acid)
+Derived from renewable resources like corn starch or sugarcane
+“Biodegradable” 
+(in industrial composting facilities)
+Heat-resistant up to 60°
+Stiff yet with lower tensile strength than ABS
+Available in a variety of finishes: glossy, matte, dual-tone, and thermochromic
+Emissions during printing are not conclusively harmful
+PLA vs ABS
+ABS (Acrylonitrile Butadiene Styrene)
+Exhibits high durability and strength, suited for technical applications
+Requires high print temperatures for optimal interlayer bonding
+More prone to warping compared to PLA due to higher shrinkage
+Heat-resistant up to 80°-100°C
+Can be smoothed with acetone vapors for a polished finish
+Limited color options available
+Emits toxic fumes during printing; ventilation needed
+8
+
+TPU (Thermoplastic Polyurethane)
+A flexible and elastic material, returning to its shape after bending
+Good abrasion resistance, suitable for objects requiring movement
+Prints at similar temperatures to PLA
+Resistant to oils, greases, and various solvents
+Can be more challenging to print due to its flexibility
+Fewer color options than PLA but generally more than ABS
+9
+
+Comparison of filament types
+10
+https://bambulab.com/en/filament-guide
+
+11
+
+Health and Safety
+Slide 12 of 11
+
+Hazards
+Nozzle is a burn hazard (over 200°)
+Build plate is a burn hazard(100° for ABS, 60° for PLA)
+Machine moves autonomously and unexpectedly (pinch hazard)
+Filaments (in particular ABS) create fumes when printed
+
+No PPE is required to operate the printers.
+13
+
+Safe Operation of Equipment
+Slide 14 of 11
+
+Specific do’s and don’ts
+Don’t stick your hand in machine while it is running
+Don’t move printhead by hand when machine is on
+Don’t try to move the printbed
+Don’t use metal brush to clean nozzles
+Don’t use metal scraper to remove prints from print plate
+
+If in doubt: switch off the printer
+The only thing you will lose/damage is your print.
+
+15
+
+Recommended Additional Resources
+Designing for 3D printing
+start designing your own 3D printed parts with  Tinkercad
+Lots of tutorials on how to design for printing
+How to avoid supports
+How to print better holes
+3D printing design for manufacturing
+Simplify3D Print Quality Guide - Help with common printing errors you may encounter
+
+16

@@ -1,0 +1,11 @@
+DO
+Use lead-free solder.
+Wear safety gloves and goggles when handling solder paste and also cleaning solvents. 
+Always wash your hands with soap and water after handling solder. 
+Test the weight if you need to move the system & get help if needed.
+DO NOT 
+Use leaded solder. 
+Poisoning from solder paste & solvents; physical injury from lifting
+ORANGE EQUIPMENT: Training optional, but you must feel confident in the use of the device and must have read the equipment instructions
+Wear safety gloves and goggles when handling solder paste & cleaning solvents
+PCB Stencil Printer Safety

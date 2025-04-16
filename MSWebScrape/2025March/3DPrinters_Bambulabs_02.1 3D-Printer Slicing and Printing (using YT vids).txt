@@ -1,0 +1,142 @@
+Equipment Training
+Slicing
+Slide 1 of 16
+
+Slicing a model
+Slicer turns 3D model into layer by layer instructions for printer
+STL file goes into slicer, gcode goes into printer via SDCARD
+Use Cura (free, all OS, made by Ultimaker company)
+Make sure to select Ultimaker 2+ or Ultimaker 2+ Extended
+Only makes a difference if your model needs the height of the Extended
+Slice on your computer or makespace computer
+Model file needs to be STL or 3dm
+All 3d software should be able to export STL files
+Simple example STL files on makespace computer
+Or visit Thingyverse for files
+2
+
+Slicing a model
+3
+
+Slicing a model
+Import file
+Position, Rotate, Scale as you please
+Select Material (ABS or PLA)
+Select Preset
+Trade layer height for speed
+Smaller layers = better details and smoother curved surfaces vertically
+Enable supports if you have:
+Long bridges
+Overhangs > 45°
+Bed Adhesion
+Brim helps with bed adhesion, prevents warping of lower layers (good default choice)
+Skirt helps prime the nozzle if you don’t use a brim
+Third option useless in nearly all cases (ask internet)
+4
+
+Slicing Setting
+Layer Height
+Infill
+Boundary Thickness
+5
+
+Sanity Check
+Duration reasonable for you?
+Correct material?
+Correct Printer? Nozzle set to 0.4mm?
+Does my model need the height of the extended Ultimaker?
+If so, only print with extended Ultimaker ^^
+Then insert an SDCARD and export to it.
+It reduces filename confusion if you empty the card before exporting to it.
+Card should contain a file ending in .gcode after exporting to it.
+6
+
+Equipment Training
+Printing
+Slide 7 of 16
+
+Pre-flight check of machine
+Is the nozzle clean?
+If not: clean during filament change with paper towel
+On ABS printers: use metal brush
+Is the bowden tube fully inserted?
+If not: remove filament, remove blue clip, fully insert tube, reattach blue clip
+On ABS printers only:
+Clean up/apply glue stick (only if you are having problems with bed adhesion)
+8
+
+Loading Filament
+Switch on printer
+Change Material
+Nozzle heats up, then extruder motor reverses quickly trying to remove filament
+Ready > Select Material
+On PLA printers: select between TPU and PLA
+On ABS printers: two bed temperatures can be selected 80° and  100°80° is default, 100° is recommended as it improves bed adhesion
+Extruder starts trying to slowly feed material
+Prep Filament
+Check label (correct material for printer/printfile?)
+Check for gauging approx 40cm from end
+Snip end of filament to a shallow angle to ease insertion into hotend
+9
+
+Correct spool orientation
+Incorrect spool orientation leads to bend in filament
+Loading Filament
+Hang spool on rear(check orientation)Filament should unroll from bottom of spool.
+
+10
+
+Loading Filament
+Insert filament
+Wait for filament to show between 5mm and 20mm > press Ready
+If you forget and filament is showing more that 20mm > Cancel and restart process
+Extrude moves filament rapidly towards and slowly into hotend
+We don’t want it jamming quickly into hotend. That is why max 20mm can show before hitting Read
+Wait for clean extrusion (in color of loaded filament) before clicking OKLeftovers in nozzle will slowly blend into currently loaded colour.
+5-20mm
+11
+
+Printing
+Return > Print
+Select file
+Sanity check: print time, material
+Print
+Write your name and contact on the whiteboard in front of the machine
+Watch at least the first layer go down in full before leaving the space
+Only one printer per member at a time.
+Keep prints SFW(safe for work). No weapons. No Sextoys.
+12
+
+Pausing and Aborting
+Tune > Abort
+
+You won’t be able to restart an aborted print!
+13
+
+Removing the Print
+After completed print you can
+turn off printer
+Or start removal of filament(via Change Material)
+Let print cool for a few minutes before removing
+Avoids damaging soft print
+Makes removal easier
+Only use plastic or dedicated removal tool
+Try tapping first layer from side
+14
+
+Final Steps
+Remove filament and return to box
+Weigh and pay for print
+Including support material
+Including failed prints
+Switch off printer
+Don’t leave printer on after removing filament!Nozzle will needlessly heat, damaging it.
+15
+
+Caring for other peoples prints
+Feel free to remove completed prints of other members
+Feel free to abort obviously failed prints of other members
+Don’t throw away, put in failed prints box. They need to weigh and pay.
+If you can/want try contacting member. Ask if you should restart the print.
+Write your name and contact details (if you want) in front of printer
+16

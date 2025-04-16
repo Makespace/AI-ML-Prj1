@@ -1,0 +1,187 @@
+LaserCut Software
+2020-07-15
+
+In this session
+Overview of the LaserCut 5.3 software
+How to import an existing 2D design
+How to edit or draw things in LaserCut
+How to configure the laser cutting settings
+Downloading the design to the laser cutter
+
+LaserCut 5.3
+
+LaserCut 5.3
+To control the laser cutter, we use LaserCut 5.3
+This is proprietary software which requires a license USB dongle to run
+There are license dongles plugged in to both laser cutter computers - do not remove them
+Makespace has two licenses, one for each laser cutter computer
+Please do not use the laser cutter computers for anything other than laser cutting, as you prevent others from using the software
+Nottinghack have a download which can be used in “demo mode” 
+It is lacking “Save”/“Open” functionality, but can help you become familiar with the software.
+
+Overview
+Basic drawing tools
+Color (layer) selection
+Makespace installation is set up for 900x600 bed
+(not 600x300 as seen here)
+Layers show here
+Don’t use these controls
+Simulate
+Simulation Speed
+Calculate run time
+
+Import and Configuration Process
+
+Overview of Process
+Draw, or import a design (e.g. a .dxf file)
+Unite Lines to convert separate line segments into continuous shapes
+Confirm size/scale
+Configure cut settings:
+Engrave vs. cut vs. perforate
+Speed and power
+Simulate to sanity check
+Download to laser cutter
+Repeat as needed
+
+LaserCut project in 5 minutes (no sound)
+Draw, or import
+Unite Lines
+Confirm size/scale
+Configure cut settings:
+Engrave vs. cut vs. perforate
+Speed and power
+Simulate to sanity check
+Download to laser cutter
+Repeat as needed
+
+Draw or import a design
+LaserCut’s native drawing ability is rudimentary at best
+It’s better to draw your designs in another package, and import to LaserCut
+This also means you aren’t tying up a laser cutter computer
+Import file(s) via “File”->“Import”
+“Open” is for previously saved LaserCut files. “Import” is for .dxf / .ai etc.
+
+
+2. Unite lines
+Imported drawings often get split into lots of line segments
+The laser will cut each in a random direction - which is inefficient and may be imprecise
+They need to be combined into a closed shape to allow engraving
+Under “Tools” is a “Unite Lines” option
+This joins together lines which start/end near to each other
+Select lines with the mouse, then pick “Tools” -> “Unite Lines”
+After import, all lines from that file will be selected - this is a convenient time to “Unite Lines”
+3 separate lines
+1 single closed shape
+
+3. Confirm size / scale
+Distance units in LaserCut 5.3 are millimetres
+.dxf is a dimensionless format - 1 unit may be 1 mm, 1 pixel, 1 parsec
+It depends on your CAD software - in Inkscape set “Base Unit” to “mm” when saving
+Check the size of your design after importing
+Select shape(s), and click the “Size” button
+You can set both dimensions explicitly
+OR, you can set one dimension and click “...” next to the otherto scale it proportionally
+Size
+
+4. Configure cut settings
+LaserCut works in layers. Each layer is a different colour
+Each layer can have different laser settings
+Layers are cut in order, top->bottom in the layer list
+To assign a layer, select shape(s) and then click a colour
+Re-order layers with the “Up” and “Down” buttons below thelayer list
+Configure cut settings in the layer list:
+Drop-down to the right of the colour sets Cut vs Engrave
+Double click the colour block to set the speed + power
+Color (layer) selection
+Layer list
+Don’t use these controls
+
+5. Simulate, check run time
+You can simulate your design to visualise the tool path
+Simulation speed is configurable
+The time estimate button indicates how long the job will take
+You can save an .ecp project to keep your layers + settings
+“File”->“Save as” - To a USB stick please! Don’t leave clutter on the laser cutter computers
+
+6. Download
+Turn on the laser cutter by turning the key
+Wait for it to boot completely (watch the screen)
+Click the “DownLoad” button in LaserCut
+Click “Del All”
+Click “Download Current”
+Assuming all is well, you are now done with the PC
+
+Drawing Details
+
+“Pick” tool
+The “pick” tool switches back to a normal mouse cursor
+Shift + J
+You need to be in “pick” mode to select, move, etc.
+
+Simple Shapes
+Draw approximately and then resize with the size tool
+Lines can be joined together
+Look for the symbol when clicking near the end of a line
+Polylines are automatically united
+Separate lines need to be united manually
+
+Text
+Text can be added, click the icon and drag a box
+Select another shape first to place along a path
+
+Aligning Shapes
+Shift + Click to select multiple shapes
+Align with the alignment tools
+Shapes will align to the last selected
+
+Offset Curve
+Offset Curve can do inset or outset lines, with sharp or round corners
+
+Configuration Details
+
+Speed and Power
+The two main controls for the laser are the speed and the power
+Speed is measured in mm/second
+Power is a percentage - below ~12%, the laser will not work
+Slower speed, with the same power, will cut deeper
+More power, with the same speed, will cut deeper
+Use one of the example pieces next to the laser cutters to pick an appropriate speed/power pair for your material and desired result
+“Quality” degrades at higher speeds
+“Ringing” or wobbly lines when the laser needs to change direction
+Multiple shallow passes can be better than very low speeds with very high power
+
+Engrave
+Closed shapes can be engraved
+Make sure the lines are united!
+Engraving alternates between multiple shapes on the same layer
+Scan gap sets the distance between horizontal passes
+Engrave lines are always horizontal
+Multiple shapes on a single layer
+Large scan gap
+
+GradeEngrave
+GradeEngrave “fades” the edges of an engraved area
+
+Layer Ordering
+The order of each layer in the layer list is important
+The list is cut from top to bottom
+Make sure you cut your outline last, or the half-finished part may fall through the bed!
+Ordering between overlapping cuts and engraves can give subtle differences
+Very shallow cuts done before deep engraves may be completely engraved away
+Cuts done after engraves will always leave a mark
+For a single colour, the software will try to cut from inner to outer, which is generally the right thing
+Use the simulation tool to confirm
+You can always add another layer to force ordering
+
+
+The marked area in LaserCut represents the bed, but the machine has no fixed reference points, so absolute positioning is difficult/impossible
+Instead, we use a relative positioning mode: “Immediate” mode
+The “blue dot” in LaserCut is the starting position.
+When you press start, the machine will work relative to that starting position
+The position of the blue dot within the black rectangle is irrelevant
+All that matters is the position of your design relative to the blue dot
+The blue dot can be moved with “Set knife origin”
+Check that “Immediate” is ticked in the software!
+The Cutting Bed
+Blue Dot
+Set knife origin

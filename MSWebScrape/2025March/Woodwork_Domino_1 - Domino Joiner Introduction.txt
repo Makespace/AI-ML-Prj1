@@ -1,0 +1,46 @@
+Domino Joiner DF500
+Introduction
+
+What is a Domino Joiner?
+The Festool DF500 is a machine for cutting mortices for loose tenon joints.
+A loose tenon joint is similar to a mortice and tenon joint, except both work pieces have a mortice and a separate loose tenon joins the two pieces.
+At Makespace we have a DF500 with 4, 5, 6, 8, and 10mm cutters.
+Festool makes pre-cut tenons, referred to as Dominos, which are available for purchase from Makespace.
+
+
+What can you make using a Domino Joiner?
+Rail to Post Joint
+Mitre Joint
+Edge to Edge Joint
+
+What material can you cut using the Domino Joiner?
+
+The Domino Joiner should be used only with wood or MDF.
+
+Other materials, including metal, CANNOT be cut.
+
+
+
+
+When to use a Domino Joiner
+The DF500 is a machine for quickly and accurately cutting mortices for loose tenon joints.
+You can use the Domino Joiner to create Rail to Post, End to End, Edge to Edge, Edge to Face and Mitre Joints.
+Domino joints can be load bearing or structural joints, multiple Dominos can be cut for a single joint for extra strength.
+Dominos can also be used for alignment, even in cases where a tenon is not really required for strength, such as a table top glue up.
+
+
+
+How Good is a Domino Joint
+
+Despite the name, Loose Tenon Joints are every bit a strong as a Mortice and Tenon.
+As long as you have a good long grain to long grain surface bond, either between the joined components or between the Domino and the mortice, you should achieve a strong joint.
+Mortice & Tenon joints and a Domino joints are both strongest in the axis perpendicular to the tenon.
+Domino joints can be cut in places where a Mortice and Tenon would be impractical such as the corner of a cabinet formed from MDF or Ply.
+Dominos are useful for alignment e.g. to locate the end of a leg to a table top.
+Domino joints can be cut very quickly and accurately, with little marking up which makes them very efficient to use.
+
+
+What other tools/equipment can be used instead?
+Decorative effects such as Dovetails can be cut by hand.
+Mortice and Tenon Joints can be cut with a chisel, saw and shoulder plane.
+Mortices can be cut with a Router using a jig.

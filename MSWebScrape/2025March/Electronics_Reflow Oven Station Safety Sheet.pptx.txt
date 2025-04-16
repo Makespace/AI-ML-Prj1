@@ -1,0 +1,18 @@
+DO
+Visually inspect the unit and cabling before use to check for faults.
+Monitor the process at all times and switch the unit off if excessive fumes or smoke are produced. 
+Ensure that the space around the oven is clear, including of potentially combustible items.
+Activate the ventilation fans in the main space. 
+Wait until the oven has cooled below 50°C before opening the tray and handling parts.
+Switch the unit off after use. 
+DO NOT
+Do not use the "Bake / Manual” mode - it has no timer and could cause a fire!
+Do not change the settings or modify the reflow profiles without prior approval.
+Open the draw during the reflow process when the oven is still hot. 
+Use leaded solder paste due to health risks.
+If in doubt: switch off the unit
+Report dangerous faults to the group and Management and label the item ‘Faulty: Do not use’. 
+Burns hazard; fire hazard; electric shock hazard; potential for harmful fumes
+ORANGE EQUIPMENT: Training optional, but you must feel confident in the use of the device and must have read the equipment instructions & the risk assessments.
+Use the ventilation fans. The use of heat resistant gloves is advised when removing parts.
+ Reflow Oven Safety

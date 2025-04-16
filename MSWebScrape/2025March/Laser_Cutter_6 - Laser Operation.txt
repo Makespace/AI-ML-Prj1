@@ -1,0 +1,284 @@
+Laser Operation
+2020-08-30
+
+In this session
+Preparing the laser cutter
+Setting up your job
+Running your job
+What to do in case of fire
+Cleaning the laser cutter
+Common issues and solutions
+
+Machine Overview
+
+The Laser Cutters and their Support Systems
+Block diagram of the laser cutter, chiller, extraction, PC etc
+Air Extractor
+(in trove)
+Water Chiller
+20.1
+*Note: The laser beam is invisible
+Compressor
+(in trove)
+
+General Points
+The laser cutter has delicate optics which must be clean and well aligned
+Any impacts can cause misalignments, taking the machine out of action
+Any dirt/debris/residue on the optics will impact the operation of the laser
+Please be careful and gentle when working in or near the machine!
+All three elements (laser cutter, water chiller, air extractor) must be working properly in order to use the machine
+If you are ever unsure, ask for help!
+Many, many members are inducted on the laser cutter, so there’s a good chance someone around will be able to help
+Any problems, contact lasercutter@makespace.org 
+
+The Lid
+The lids on the laser cutters are relatively heavy, but have gas struts to help opening/closing
+The strength of the gas struts can differ between the machines
+Be careful when opening that the lid doesn’t jump out of your hand
+Be careful when closing that the lid doesn’t slam
+The lid must be fully closed for the laser to turn on
+The machine will move with the lid open, but the interlocks turn off power to the laser itself
+It’s recommended not to rely on this behaviour! Pause the machine before opening the lid
+The plastic is tinted to filter out the laser wavelength. Looking through the lid is safe
+But be aware that the burning spot can still be very bright! You may not want to stare at it.
+
+The bed is made of slats to reduce the amount of surface area being lasered
+The bed can be “flipped” to give a more flat working surface
+This can be useful for materials which need more support (e.g. thin paper)
+The bed is heavy and awkward, so be careful not to bash the machine
+The “flatter” side of the bed gets dirtier. Clean it thoroughly before and after your job
+When putting the bed back, check for offcuts of material which would prevent it from lying flat
+The whole bed moves up and down, to set the laser focus 
+The Bed
+
+The Drawer
+There is a drawer at the bottom of the machine, which should catch parts which fall through the bed
+Please sweep out the drawer with the dustpan and brush if your job leaves a lot of pieces
+You may like to do this before your job too, in case the previous person left behind pieces which are almost but not quite the same as yours, otherwise yours will be hard to find!
+The drawer has no runners, and will easily fall, damaging the machine
+Be careful when opening the drawer!
+Keep the drawer closed when the laser is running
+Pieces can bounce out of the drawer into the machine. If this happens you can remove the bed to retrieve them
+
+The Key and Round Buttons
+The key switch is used to turn on the laser, chiller and air extractor.
+Simply turn it to the “on” position
+There are three round buttons which are separate from the control panel:
+Lighting: 	Toggles the interior lighting on and off. The light may or may not be working!
+Up: 		Moves the bed up. Decreasing the space between the head and the workpiece
+Down: 	Moves the bed down. Increasing the space between the head and the workpiece
+
+The Control Panel
+
+The Control Panel
+This is the primary place you will control the laser from
+It has a small screen and a set of buttons to control the laser
+All of the buttons “beep” when you press them
+They are quite worn out and can be hard to press
+But they will always beep when they’re pressed!
+
+The Display
+In general, you don’t need to navigate the menus on the display
+By default, after turning on, the machine will be in “menu” mode, and pressing the direction buttons will move around the menu
+Press “Esc” to exit menu mode, and then the buttons will move the machine instead of the menu
+
+Arrow Keys
+Remember to press “Esc” to leave menu mode, or the arrow keys won’t work!
+Pressing an arrow will move the laser head in that direction
+Make sure there’s nothing in the machine for it to knock in to!
+There are two speeds when holding the buttons down:
+To begin with it will move slowly
+After a couple of seconds, it will move quickly
+You may find the speeds are different betweendays and machines
+
+Datum
+Remember to press “Esc” to leave menu mode, or the datum key won’t work!
+The datum key will cause the laser head to return to the top-right corner
+Use this to move the head out of the way when you are finished
+Make sure there’s nothing in the way for the head to knock in to!
+
+
+Laser
+The “Laser” button will cause the laser to fire momentarily
+This will put a hole in whatever is underneath the head at that moment!
+Use this button with care, but it can be useful for precise alignment
+Move the head to where you think you want it
+Close the lid, press the laser button
+Check where the hole is in the workpiece
+Adjust as necessary
+Remember that this may leave an undesiredhole in your work!
+Shut the lid before firing the laser!
+
+Test
+The “test” button causes the head to trace the bounding box of your job
+This is useful to check size and alignment of your work before starting
+Make sure there is nothing in the way for the head to knock in to! 
+
+Start/Pause
+“Start/Pause” will start, or pause, the laser cutting job
+You can Pause at any time, and the laser will stop
+Pressing “Start/Pause” again will continue from that point
+Always “Pause” before walking away from the machine for any reason:
+Phone call, doorbell, toilet, snack…
+Pausing will not lose your progress, as long as you don’t disturb the material in the machine
+
+
+Stop
+The “Stop” button aborts the laser cutting job
+The laser will stop, and then move back to the starting position
+This will lose your progress
+Only use this if you intend to cancel the job
+
+Prepare and Run a Job
+
+Overview
+Prepare
+Power on, check equipment
+Download design
+Place material, position head
+Set focus, fine-tune position
+Run
+Close lid
+Press start
+Look out for fire!
+Finish
+Clean
+Turn off
+
+Preparing a Job
+
+Turn on and checks
+Turn the key switch on the laser cutter
+Wait for the extractor to fully spool up
+Check the chiller state:
+The top display should show a temperature (at or below room temperature)
+It should not be showing an error or beeping continuously. If it is, then do not use the machine.
+Check the extractor state (in the trove): We hope to have a main space read-out in the future
+It should show a green LED next to a tick mark
+If the orange LED is lit, next to a warning triangle, you can continue but please email lasercutter@makespace.org
+If the red LED is lit, next to a cross, do not use the machine
+Listen for the compressed air hiss on start-up
+In case of the chiller or extractor having a problem, put a note on the laser cutter and email lasercutter@makespace.org 
+
+Status read-outs
+
+Download the design
+Follow the steps described in the LaserCut training to download your design to the laser cutter:
+Click “DownLoad”
+Click “Del All”
+Click “Download current”
+Wait a few seconds after downloading before proceeding
+Large files take some time to process
+The control panel screen should show the file, “highlighted” black, probably:
+LASER, unless you renamed it.
+
+Place and position the material
+Open the lid and put your material on the bed
+Use the control panel to position the laser head near where you want the “blue dot” from LaserCut to be
+Remember you may need to press “Esc” to enter “move mode”
+If the laser cutter has a red dot indicator (currently neither machine does), its position is only approximate, and is most accurate after the focus has been set (next step)
+
+Set the Focus
+Set the vertical distance between the material and the lens using the “Up” and “Down” buttons
+Using a focus tool, set the distance to the focussing tab to 41 mm
+Move the focus tool away when raising the bed, to avoid bending the tab
+As a rule of thumb, setting the focus to the top of the material is OK
+Feel free to try and focus to the middle of the material thickness if you prefer
+Gap too big
+OK
+
+“Test” and fine-tune positioning
+Press the “Test” button to see the space the design will occupy
+The laser head will move! Beware of trapping/collisions
+“Test” always traces a rectangular bounding box, not the design itself
+Fine-tune the positioning of the head and/or material
+
+Running a Job
+
+Pre-flight checks
+Before starting cutting, you must make final checks:
+Confirm the extractor status (in the trove) is OK
+Check the compressor pressure (in the trove)
+The larger of the pressure gauges should read somewhere in the middle (90 psi)
+Check that the chiller temperature reads as 21°C or below, if not, wait a while
+Check that all doors, drawers, and the lid on the laser cutter are securely closed
+
+Press “Start/Pause”
+You’re now finally ready to cut!
+Press “Start/Pause” and the job will begin
+Remember that you must stay at the laser cutter to watch the job
+Never leave it running unattended!
+You can pause the job at any time by pressing “Start/Pause” again
+
+Fire Escalation Procedure
+When cutting flammable materials, you will often see small flames. If a flame grows, or persists for more than a moment, then:
+Pause the machine. The flame may go out as no more heat is added
+If not, open the lid and attempt to blow it out
+If the flame continues, and it is safe to do so, move the material to keep the fire away from the laser head
+You can press “Stop” then “Esc” then “Datum” to move the head away from the fire, but this is probably slower
+If the fire continues, you will find a CO2 fire extinguisher under the desk between the machines
+If you use the fire extinguisher, or there’s any possibility of fire damage to the machine, email lasercutter@makespace.org
+The Owners will check the machine and ensure the fire extinguisher is replenished
+
+
+Finishing your Job
+When the job is finished, the machine will let out a long beep
+Wait ~30 seconds for smoke and fumes to clear from the machine
+Confirm visually if possible that anything that was meant to cut all the way through actually has
+If you spot that it hasn’t before you move the material or laser head, then you have a chance to do a second pass
+As soon as you move the head or the material, you will not be able to re-align it for a second attempt!
+Move the laser head out of the way with “Esc” then “Datum”
+Retrieve the material, and any parts that fell into the drawer
+Clean the bed and remember to pay for your material!
+
+Cleaning the Bed
+Laser cutting makes residue which settles all over the machine and cutting bed
+When you are finished, clean the bed with the wipes provided or blue towel + cleaner
+Take care not to spray cleaner onto the optics
+Clean the whole bed, even if you only cut a small job
+Smoke, soot and residue will have covered the whole machine
+When cutting laser ply, the residue is quite staining - you may like to protect your hands with more towel or gloves
+Please help keep the machine clean! 
+
+Power Off
+When you are finished, turn off the key switch
+Remember to clean the bed!
+Please do not shut down the PC, as they can’t be turned on again without opening the machine!
+
+Tips and Common Problems
+
+Laser is “fat” and not cutting
+Check your focus distance
+Check for scraps around the edge of the bed which prevent it from sitting level
+Try a different area of the bed
+The optics may be out of alignment - email lasercutter@makespace.org
+
+Laser cuts a double line - “ghosting”
+It’s likely that the optics are dirty or out of alignment
+Try a different area of the bed, where the issue may be less pronounced 
+Email lasercutter@makespace.org so that an owner can resolve the problem
+
+Beeping + “Soft Stop” on control panel
+This happens if the machine detects that your design doesn’t fit on the bed
+Check the positioning of the laser head, make sure it has space to cut your design
+Check your design on the PC to make sure there are no errant shapes far away from it
+Simulation will help spot these
+
+Parts didn’t cut all the way through
+The laser tube power decreases with age. The test cards are a guide only, and may not be accurate
+Density of laser ply changes across the sheet, you may find some areas cut more easily than others
+If you haven’t moved the material or the head, you can run the job again to try and complete the cuts
+You can remove or disable layers in LaserCut, and download the design again, to only repeat the necessary lines
+
+Material doesn’t lay flat
+There are some heavy steel weights on the stock shelves
+These can be used to hold material flat
+Make sure that the laser head won’t collide with them
+The weights are likely to be dirty! Don’t ruin your material
+
+Cutting doesn’t start at the “blue dot”
+Make sure the “immediate” box is ticked in LaserCut
+If not, tick it and re-download
+
+Wobbly lines
+Try reducing the cutting speed (and correspondingly reduce the power)

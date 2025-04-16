@@ -1,0 +1,47 @@
+Domino Joiner
+Safety 
+
+Personal Protective Equipment
+Safety glasses and hearing protection are mandatory 
+Wear a dust mask if cutting irritant woods or MDF
+Inform others in the workshop they should also use PPE
+
+Domino Joiner safety features and checks
+Depth stop
+Dust extractor outlet
+Plug-It power cord
+Fence: Check this is present
+Cutter recess
+Power switch
+Slide: Check the fence slides smoothly 
+
+Domino Joiner safety: Setup
+The Domino Joiner MUST always be used with the Festool dust extractor 
+The power cord for the Domino Joiner should be plugged in to outlet on the extractor. Set the main switch on the extractor to AUTO, when the Domino is started it will start automatically. 
+The connector on the dust hose fits over the extraction port on the Domino Joiner.
+The power MUST be disconnected before changing the cutter.
+The machine MUST be running, but the machine MUST NOT be plunged while changing the mortice width setting.
+N.B. This is counter intuitive.
+
+Power outlet
+Main switch
+
+Domino Joiner safety: Operation
+The workpiece MUST be clamped or held against a bench dog or other stop.
+The faceplate of the machine MUST be pressed against the workpiece before starting and after stopping the machine.
+The Festool extractor MUST be connected, powered on and set to AUTO BEFORE starting the cut, it will start when the Domino starts.
+When plunging the machine you MUST use a steady smooth motion. Each plunge should take between 2 and 5 seconds to complete, plunging too rapidly wears the cutter and could cause it to break.
+The machine MUST be stopped before removing it from the workpiece.
+https://youtu.be/dhyjKGIwUgg
+
+Hold the machine firmly in both hands, with your primary hand on the body of the machine so the power switch can be operated with your thumb, and your secondary hand on the handle on the fence.
+Press firmly against the workpiece while plunging the cutter.
+DO NOT allow the fingers of your secondary hand to fall below the fence.
+When cutting into a tall but thin workpiece, fit the Base Support Bracket.
+
+Domino Joiner safety: Additional checks & tips
+DO NOT place your fingers here
+
+Resources:
+Festool supplemental user’s manual
+Risk Assessment

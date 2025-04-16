@@ -1,0 +1,120 @@
+Emergencies 
+& Spill Response
+
+You need to be familiar with the policy BMS08 - Accidents at Work Emergency Plan. 
+
+This policy document covers what to do in case of 
+Chemical spills
+Biological spills in equipment
+Bodily fluid spills and clinical waste
+If you are not confident that you can deal with accidents and emergencies in the lab, then please ask a member of the safety team to walk through things with you again. Do not put yourself and others at risk by acting outside of your comfort zone and training.
+
+
+
+
+Dealing with accidents in the labs
+
+If a chemical spill happens, the safety of people should be the first priority. In general, you should:
+
+Stop the spill or accident from worsening if safe to do so. The chemical spill kit under the sink in the main lab contains absorbent pads and socks if it is safe to apply them to the spill.
+
+Evacuate the room and provide emergency first aid to any injured people.
+
+Assess the extent of the accident and its seriousness. If safety data sheets are required these can be found in the yellow folders in the large biology lab.
+Chemical spills - general procedure
+
+Large spill, hazardous chemicals or serious accident - unable to contain.
+
+If the spill has already caused injuries or is imminently endangering people, call 999 for the emergency services first.
+After that, or if the spill is not imminently dangerous, contact the following people for assistance, providing details from the safety data sheets:
+Biomakespace Safety Team (inc. all Directors)
+Bio-committee@makespace.org
++44 (0)1223 927175
+Clifford Allbutt building (to stop ventilation)  
+Reception open 09:00-17:00
+01223 762299 
+
+
+CUBIH/CAB Custodian 
+Denise Faulkner
+Tel: 01223 351887 
+Mobile: 07879 116 887
+Chemical spills - unable to contain
+Biomakespace Phones
+Phones are available in all three of the BioMakespace rooms for making emergency calls. 
+
+Please don’t use these for personal calls.
+
+Minor spill or non-hazardous chemical - able to contain
+
+Ventilate the lab if possible by opening doors.
+Collect the chemical spill kit from under the sink in the main lab
+Put on the following protective equipment at minimum:
+Gloves, Safety glasses, Lab coat
+Soak up the spill with absorbent pads and socks.
+Dispose of the collected spill as chemical waste via the appropriate waste management route. Refer to the BMS11 Waste Disposal Policy document and if in any doubt, contact bio-committee@makespace.org
+Report the incident to bio-committee@makespace.org and complete an Accident Report Form (see folder on back of door in Maker Lab).
+
+Chemical spills - able to contain
+
+This procedure applies to microbiological material which has been handled or generated within a laboratory e.g. liquid cultures of Escherichia coli bacteria. 
+
+Biomakespace is a Containment Level 1 laboratory so there should be no pathogenic cultures, but there is always a risk of environmental contamination.
+
+Dealing with exposure
+Alert other lab members of spillage.
+If you or another member are exposed to the spillage, immediately remove contaminated clothing and other protective equipment and wash the affected areas with soap and water. Make sure the water is not disposed to drain before disinfection in 5% ChemGene. Paper towels should be disposed of as biowaste. 
+If medical follow-up is warranted it should be sought immediately.
+You can find chemgene under the sink in the main lab. 1% chemgene bottles are on the benches in the biolabs	
+
+Microbiological spills
+
+Cleaning up
+Where practicable, the person responsible should clean and decontaminate the area.   
+Put on a lab coat, gloves and eye protection.
+Collect the relevant spill kits from under the sink in the main lab.
+If liquid spill: Place absorbent material around spillage to contain liquid.
+If there is broken glass: this should be picked up by disposable forceps or a plastic scoop and disposed of in a sharps box. 
+Pour 5% ChemGene (undiluted ChemGene is under sink in main lab) directly onto the spillage and leave for a minimum contact time of 10 mins to deactivate viruses, yeasts and bacteria.
+Soak up spill with paper towels and pick up or scrape into a waste bag for disposal...
+Microbiological spills
+
+Wash and disinfect the area with 1% ChemGene solution.
+Clean and leave the area leave dry.
+Ensure that the material ends up in the correct waste disposal recipient (e.g. sharps bin, biohazard bag).	
+Decontaminate used equipment and materials (e.g. clean the scraper and dustpan with 1% ChemGene solution before washing and reuse.)
+Inform Safety Officer of incident and complete an accident report form.
+
+Important: Never dispose of materials that contain living organisms or genetically modified organisms via sink/drains. Follow the BMS11 Waste Disposal Policy.
+
+Microbiological spills (continued)
+
+For any spill procedures inside red equipment (e.g. Class II Microbiological Safety Cabinet), please reference that equipment’s training course.
+
+Spills inside a centrifuge
+Switch centrifuge off and do not open the lid for 20 minutes to allow aerosols to settle. 
+Put on personal protective equipment (PPE)
+Use a squeeze bottle to apply 5% ChemGene disinfectant to all contaminated surfaces within the chamber, taking care to minimize splashing. 
+Allow 10 minute contact period and then completely clean up the chamber. 
+Remove buckets and rotors to nearest Biological Safety Cabinet; disinfect and clean as per manufacturer's instructions.
+
+Biological spills in equipment
+
+The following procedure applies to human bodily fluids or materials such as blood, urine, vomit or faeces. Note: Primary human tissues and fluids are not permitted without specific risk assessment as samples in the Biomakespace, but such a spill may occur due to lab user illness or injury.
+
+Alert lab members of hazard.
+Any splashes of blood or bodily fluid on the skin should be washed off immediately with soap and water.	
+Put on protective clothing: lab coat, gloves, eye protection.
+If there is broken glass, this should be picked up by disposable forceps or a plastic scoop and disposed of in a proprietary sharps box.			
+Cover blood spillage with absorbent material or if not available disposable paper towels or cloths and apply 5% ChemGene disinfectant. Mops should not be used to clear up bodily fluids because of the risk of cross contamination. 
+Leave for 10 minutes, then clean up the contaminated paper towels or cloths and place them in the disposal/biohazard bag.				
+
+Bodily fluid spills and clinical waste
+
+
+Thoroughly wash the area with 1% ChemGene disinfectant and hot water and dry.
+Clean and disinfect dustpan and brush with 1% ChemGene disinfectant.
+When cleaning faeces, vomit or urine follow the same guidance and if possible scoop up excess fluid and dispose of down the toilet. The area can then be washed with hot water and detergent and thoroughly dried.
+Inform the Safety Officer of the incident (bio-committee@makespace.org) and fill out an Accident Report Form (see folder on back of door in Maker Lab).
+
+Bodily fluid spills and clinical waste

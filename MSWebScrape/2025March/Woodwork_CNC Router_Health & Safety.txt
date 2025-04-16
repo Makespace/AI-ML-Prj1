@@ -1,0 +1,83 @@
+Safety 
+CNC Router
+
+CNC Router Hazards 
+As a trained user, you should be very aware of the following risks and how to deal with them:
+FIRE - Cutting with the wrong settings could result in the material igniting.
+Moving Parts  - Stand clear of the machine while in motion.
+Sharp Edges  - Take care installing and removing cutting tools 
+DUST - Ensure extraction system is working.
+NOISE - Ensure that you wear the correct PPE when working with the machine.
+The risk assessment can be found here: https://equipment.makespace.org/cnc-router
+
+
+Hazard Points 
+Caution: Sharp tool
+contact may cause injury
+Caution: Hands or fingers may become pinched, resulting in injury.
+
+Personal Protective Equipment
+Eye protection and hearing protection are mandatory. A dust mask is recommended for irritating dust e.g. MDF
+Clothing, Hair and Jewellery
+Remove dangling clothing and jewellery. Tie back long hair
+Be careful fitting and removing milling bits
+The edges of milling bits are very sharp (cut hazard)
+After milling operations, the milling bit may be very hot (burn hazard)
+Ensure the spindle is running before commencing cutting
+Ensure the dust extraction is on before cutting
+Check that the overhead dust extractors are on, the remote controller lives in a pocket on the power sockets hanging over the workbench.
+
+CNC Router Safe Preparation 
+
+Chip Extraction
+Use of the chip extraction system is required for this equipment.
+Make sure the blast shutter for all equipment being used is open and that all other blast shutters are closed.
+Switch on the extraction system by pressing the green button, if the machine does not start check that the red stop button is not latched, twist ¼ turn to release it if necessary.
+Remember to switch off when you are finished and if the bag is full please empty it.
+There is no one to clear up after you except other members.
+
+
+Overhead Dust Extraction
+When doing anything which generates dust or chips, including any machine tool which requires chip extraction or hand sanding, the overhead dust extractors MUST be used.
+This removes harmful dust from the air which would otherwise be breathed in by anyone in the secure workshop.
+The remote controller for the overhead extractors lives in a pocket on the power sockets hanging over the workbench.
+Press the ON/SPEED button once, check that both extractors start.
+Remember to switch them off when you are finished.
+If the sign on the extractors indicates that the filters need changing, please change them and update the sign. There is no one to do this for you except other members.
+
+NEVER leave the CNC Router running unattended
+You must ALWAYS be within reach of the emergency cut-off button while it is running
+If you need a bathroom break, you can pause the operation.  Pause the program, retract the cutter and power down the spindle motor.  Place a notice on the equipment or have an assistant stay with the machine.
+STAY CLEAR of the machine when it is running automatically
+Manually-controlled spindle head movements are required for alignment
+For manual spindle head movement, ENSURE no part of your body is inside the milling machine chamber – PINCH & CUT HAZARD
+In an emergency, hit the big red Emergency Stop Switch
+This immediately shuts down the machine.
+CNC Router Safe Operations
+
+
+You can mill all types of wood and man-made boards and soft plastics and foams. 
+DO NOT cut metal, glass or ceramics
+Take care to match milling bits with collets
+The CNC router has 3-12mm collets and 1/8", 1/4" and 1/2" collets available.
+Ensure the shank of the milling bit matches the collet – measure if in doubt
+Failure to do this will break the collet
+Only remove one collet at a time – it is easy to mix them up
+Take care to match Feeds and Speeds to Material
+Selecting the wrong feed rate and spindle speeds for the milling bit and material being cut can cause poor cutting performance, excessive tool wear or in the worst case tool fracture 
+Safe Materials and Tools
+
+You will need to review this material to be able to answer the quiz questions:
+These websites discuss basic CNC Mill safety:
+https://www.multicam.com/6-unbreakable-safety-rules-for-cnc-machinery-safety/
+http://www.technologystudent.com/cam/cncman3.htm 
+The Makespace Model Mill Risk Assessment provides more details
+
+Further essential material
+
+Safety assessment
+After you have completed the online training and attained 100% on both the health and safety quiz, and the equipment training quiz you are ready for your practical assessment.  
+Go to Meetup.com/makespace and search for the equipment.  If there is no practical scheduled there, please go to the Makespace Google group and post that you want and practical assessment.  Most equipment has a thread in the group.  That thread is the best place to post.
+Lastly please keep in mind that all the trainers at Makespace are volunteers. They, like all Makespace members, give their time to continually improve our community.  Do not hesitate to ask for training, or indeed any questions, but please be patient as they make time in their schedules to run the practical assessments.    
+Thank you, The Makespace Owners and Trainers
+

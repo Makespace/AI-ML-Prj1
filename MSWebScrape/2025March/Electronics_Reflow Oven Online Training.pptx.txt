@@ -1,0 +1,117 @@
+Reflow Oven
+Online Training
+
+Scope
+These online materials are designed to get you ready to operate the Makespace Reflow Oven and familiarise yourself with the basic operating procedure.
+No prior knowledge of how to use the Reflow Oven is assumed.
+If you already know how to use a Reflow Oven, this material has been designed to get you up to speed with use of the Makespace system quickly. 
+This guide covers what all Reflow Oven users need to know in Makespace. For those who need it, some ad hoc in-person training may be available. 
+Contact: electronics-owners@makespace.org 
+
+
+Learning Objectives
+Understand what the reflow oven is used for
+Understand how to use the reflow oven safely
+Preparation before use
+Loading the PCB
+Setting the reflow temperature profile
+Monitoring the reflow process
+Safety removing parts
+
+
+Reflow Oven Uses
+The reflow oven is used for reflow soldering of surface mount electronic components to printed circuit boards (PCBs). The oven should not be used for other purposes. 
+Lead free solder paste is to be used at all times the reduce health risks.
+Be warned that some components like through hole parts can melt and generate noxious fumes if heated in the oven. Check the temperature limits!  
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Fire - The ignition of flammable materials and substances. 
+
+ 
+Do not use the "Bake / Manual” mode - it has no timer and could cause a fire or damage the oven!
+Monitor the reflow process at all times and switch off if you notice excessive fumes or smoke. 
+Check the maximum temperature limit of parts. 
+Ensure that the space around the oven is clear, including of potentially combustible items.
+Do not modify the reflow profiles without prior approval.
+Turn the oven off when not in use. 
+To fight a fire involving electrical equipment use the CO2 extinguisher.
+Familiarise yourself with the MS health & safety guidance. https://web.makespace.org/health-and-safety/
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Burns - From contact with the headed tool, other heated surfaces or hot solder. 
+
+
+
+
+
+Wait until the oven has cooled below 50°C before opening the tray and handling parts.
+Use thermally resistant gloves when reaching into the heated tray to further reduce the risk of burns. 
+Cool minor burns with running water for at least 20 minutes, or until the pain feels better. When the burn has cooled, cover the area loosely with cling film, lengthways. Seek medical advice if needed. 
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Electrical Shock - Due to damaged cabling, faulty equipment, poor earthing etc.
+
+
+
+
+
+Equipment should be visually inspected before use to check for faults including: loose / missing / damaged parts on the unit and, damaged cabling and plugs. 
+Faults should be reported with the Trouble Ticket form (on the Equipment page). Dangerous faults should be reported to the group and Management and the item labelled ‘Faulty: Do not use’. 
+Keep the soldering station free of electrical cables to prevent damage from the heated tool / hot air.
+All electrical items should be switched off after use.
+Emergency stop isolation switches (on the wall) can be used to isolate the electrical power in an emergency. 
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Fumes & poisoning
+
+
+
+
+Use the fume extraction in the main space to draw fumes away.
+Monitor the reflow process at all times and switch off if you notice excessive fumes or smoke. 
+Avoid overheating components. A lot of through hole plastic parts will melt and generate noxious fumes when heated in the oven. Check the temperature limits!
+Use lead-free solder.
+Always wash your hands with soap and water after soldering.
+Report any health problems from soldering to Management. 
+
+Personal Protective Equipment
+Use heat resistant gloves when removing parts from the oven to further reduce the risk of burns.
+The oven should be cooled to below 50 °C before opening the tray. 
+
+First, visually inspect the unit to check for safety issues including: 
+Loose panels and missing parts 
+Damaged parts 
+Damaged cabling, including melted insulation 
+Damaged / overheated plugs. 
+Faults should be reported with the Trouble Ticket form (on the Equipment page). Dangerous faults should be reported to the group and Management and the item labelled ‘Faulty: Do not use’. 
+
+Preparation Before Equipment Use 
+
+Turn on the power switch on the back of the oven.
+Check the temperature on the display - if above 50°C then wait for it to cool down.
+Open the tray.
+Place the PCB in the centre of the tray (the oven does not evenly heat the whole tray and the centre gives the best results).
+Close the tray.
+Loading the PCB
+
+Setting the Reflow Profile
+Set the reflow profile by pressing F4. "AMTECH SYNTECH-LF" is a good default if you do not know what profile to use. The selected reflow profile is highlighted in white at the bottom of the screen.
+Press the 'S' button to start the reflow cycle.
+
+Monitoring the Reflow Process
+During reflow the display shows the target and actual temperature.
+It is normal for the actual temperature to undershoot the target significantly - a peak of 220°C is sufficient to reflow lead-free solder paste.
+Monitor the process and all times and switch off if fumes / fire occurs.  
+
+Removing the PCB
+At the end of the cycle, wait for the oven to cool below 50°C before opening the tray to remove your PCB. Use thermally resistant gloves to further minimise the risk of burns. 
+Switch the unit off after use. 
+

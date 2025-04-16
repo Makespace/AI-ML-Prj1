@@ -1,0 +1,189 @@
+Wood Lathe Introduction, Components and Accessories
+
+Recommended Resources
+This video provides an excellent introduction to the capabilities of the Makespace lathe.  Axminster previously marketed this model with a different model number, hence some training materials refer to the AT1628.  It is the same lathe as the one we have (AT406WL)
+
+
+
+
+Purpose of Presentation
+Designed to cover the first section of the Makespace on-line training programme for the wood lathe
+Covers knowledge and understanding elements only
+Accompanying self administered questions allow readers to check their knowledge and understanding  
+Successful completion of the assessment associated with this presentation and the others in this series is necessary prior to taking part in practical sessions which are run by trainers.
+
+
+Contents
+Woodturning overview
+Exploded view of lathe with terminology
+Headstock and chuck
+Changing speeds
+Head rotation
+Tailstock
+Toolrest and banjo
+Spindle turning   
+Faceplate turning
+Other accessories
+Appendix – some technical detail
+
+
+
+Woodturning overview
+Woodturning is the process of cutting a block of material (the blank) into a symmetrical object. 
+A motor spins a well secured blank at high speed while cutting tools gradually cut the piece into the desired shape.
+Projects are normally divided into those created by spindle turning and others by faceplate turning.  
+Blanks for spindle and faceplate turning are normally made of wood (of all types) but other materials can be used such as resin or Corian.  
+The process can be hazardous if suitable precautions are not taken and suitable PPE worn.
+
+
+Axminster AT406WL Wood Lathe 
+
+Axminster AT406WL Wood Lathe 
+
+Chucks
+Four jaw chuck
+Inside jaws slightly dovetailed 
+Drive centre fixed to chuck to secure blank between centres for spindle turning
+Screwchuck
+Chuck key to open and close jaws
+
+Changing Speeds
+The Makespace lathe is a variable speed lathe controlled electronically.
+It has two speed ranges which can be selected by changing the pulley belt position.  Consult the user manual for details on changing speed ranges.
+Generally turners like to use high speeds because they give better finishes and limits sanding and this create less dust.
+High speed however is more hazardous if blanks are not secured well.
+High speed sanding is not recommended as it can generate too much heat. 
+Best advice normally is to start slow to be sure blank is properly secured and balanced and then only increase speed progressively remembering to check the security of the blank very regularly as vibrations can often loosen things.
+More information on this in the safety presentation
+
+
+Direction Control
+The lathe may be operated in either direction. Normally forward operation is used for turning, and reverse is used for sanding. Sanding in reverse gives a better finish because the fibres are lifted during cutting, and sanding in reverse pushes them down again.
+Right handed turning has the headstock on the left, with the turner standing to the right. It is possible to turn left-handed with the lathe running in reverse, and the headstock on the right, turner on the left.  Please ask your trainer for details if this is of interest to you.
+
+
+Forward/reverse Switch
+
+Selecting a speed
+Determining Safe Lathe Speeds (Woodturning How-to)
+General guidelines:
+When roughing out (before the piece is round), start slowly
+Once the piece is round and securely mounted, turn at the fastest safe speed for a better finish
+If in doubt, start at the lowest speed, and increase the speed gradually
+Reduce the speed again for sanding
+  Speed Range Selection:
+Speed ranges are 50-1250 rpm or 150-3750 rpm
+The lower speed range is suitable for large diameter items (higher torque)
+The higher speed range is suitable for general usage, e.g. medium and small diameter items (higher speed)
+Always leave the lathe with the pulleys in the higher speed range
+
+Head rotation
+The head can be rotated to allow significantly larger blanks to be turned, or to allow easier access
+Please consult the user manual for details
+It can make it easier for left handed turners to use the lathe for faceplate turning
+Not to be used without a discussion with a trainer
+
+
+
+Headstock
+This lathe allows for you to lock the headstock in place (preventing rotation) this is useful for detail sanding, or finishing, or indexing, but care need to be taken that the headstock isn’t locked when you want to rotate the head. To unlock, unscrew the rotation lock (1). To lock, screw it in. You could damage the lathe if you try to run it while the headstock is locked.
+Indexing is useful to rotate the lathe by a set amount - notice the scale on the indexer (2) which has useful clock markings.
+
+Rotation Lock
+(2) Indexer
+
+Tailstock
+Handle to secure barrel within tailstock. Only loosen ¼ turn to avoid bolt coming out of the groove!
+Live centre – ‘Live’ meaning that it rotates with the blank
+Tailstock normally used only for spindle turning where the blank is secured between centres.  It can also be used when  dealing with a large or unbalanced faceplate blanks when you need a bit more security. 
+
+The toolrest
+Normally the height should be so that the cutting edge is near the centre line.
+The tool must always be kept in contact with the tool rest.
+Ideally the toolrest should be adjusted forward to ensure that the wood blank when rotated does not touch the rest but still supports the base of the tool.
+After each adjustment turn the blank by hand first to ensure that it will not catch the rest.
+
+Handle to adjust the distance of the tool rest from the blank.  
+a banjo is a common term for the whole fixture, mounted on the lathe's bed that holds the toolrest. It allows for adjustment of the toolrest in various positions, making it possible to hold the turning tool in the most convenient place for removing material from the spinning wood.
+
+Spindle Turning
+Spindle turning refers to a situation where the wood grain normally runs parallel to the bed of the lathe
+The blank secured at both ends (between the drive centre in the head stock and the live centre in the tail stock).  
+Typical outcome would be a chair leg, candle holder, rolling pin etc
+
+Arrow shows typical grain direction in spindle turning 
+Note good practice shown here in how the tool is held in the hand and how the tool  is always in contact with the tool rest.  More detail about the use of the Easywood tools in a different presentation
+
+Examples of items spindle turned.  For more see separate Wood Lathe example projects presentation
+
+Faceplate turning
+Faceplate turning is when the blank can be held by the chuck only which allows access to the open other end for hollowing.  
+The grain of the wood normally runs at right angles to the bed of the lathe.   
+Typical outcomes are a bowl, a vase or a goblet etc 
+
+Grain direction shown in this cherry bowl
+
+The screwchuck Used to secure the blank in faceplate turning
+Inserted and secured inside the jaws of the chuck body.
+A hole is drilled in the centre using the drill press (probably) - the drill needed might vary according to the type of wood.  The softer the wood the smaller the hole - maybe even 7.5mm or 8mm for soft wood.  It is important that the blank is strongly secured. 
+The blank is then rotated onto the screw until it beds down fully on the outer part of the jaws.  It should be tight.
+After a tenon or recess is formed, the blank is removed from the screw, the screw removed from the chuck, then the blank is reversed and mounted back on the chuck ready for further turning
+
+Faceplate work - mounting blanks
+The drive centre cannot be used for faceplate work (bowls etc) as it needs the tailstock to be brought up to hold the wood.
+Initially the blank is held in the chuck using the screwchuck.  If creating a bowl, the screwchuck will normally be screwed into what will be the inside of the bow.
+Create a spigot (or tenon) that the jaws can be compressed onto
+Create a recess that the jaws can expand into
+Spigot (often called a tenon). Note the dovetail shape to match the inside of the jaws.  This ensures a stronger hold
+Recess – again a dovetail shape to match the outside of the jaws.  This ensures a stronger hold
+Two options
+
+Faceplate work – remounting the blank
+The blank is initially mounted probably using a screwchuck (other options see next slide)
+A spigot or recess is developed.  The choice is influenced by the following issues:
+Thin or expensive blanks may lose too much wood  if a spigot is formed.
+Unless the recess is itself appropriate for a foot of the finished piece, it will need removing – either by hand or by remounting using a different approach. 
+Recesses mean loss of depth to a bowl but may leave a tidier finish without further work
+Spigots normally hold the blank more firmly than recesses 
+Piece remounted using either a spigot or recess for final turning eg hollowing out body of bowl.  Note in this image we cannot tell whether a spigot or recess has been used. 
+
+Another option to mount blanks for faceplate turning
+Before modern chucks were available all blanks were mounted using a faceplate as shown.
+They replace the normal chuck and screw and are mounted directly onto the lathe spindle
+These are still used to secure large pieces safely but leave screw holes which can be a disadvantage in some cases
+Makespace has two of these – different sizes
+These are best for large, heavy or unbalanced blanks
+
+
+
+Examples of face turned items
+
+More accessories – Cole Jaws
+Cole Jaws.  These are used to hold the open ends of bowls in order to remove and finish the base
+Note – these jaws do not hold very well and must only be used at low speeds and to very carefully finish the base of items.  The pressure of the tool must always be such as to keep the item forced towards the jaws.
+
+More accessories – Callipers
+‘Figure of 8’ callipers are particularly useful to check the thickness of walls and whether the thickness is the same at all points.
+Various callipers are available.  They are useful to check diameters of items against a specification or to check that a tenon or recess is the correct size.  The must not be used to check diameters of still rotating blanks as the ends can catch and cause injury.  
+
+Accessories that use Morse tapers
+A number of accessories are available that are secured onto the lathe using Morse tapers (MT). 
+This refers to a system for securing accessories into a machine or power tool. 
+A male member of conical form fits into the female socket, which has a matching taper.
+The size of spindle taper in the Makespace lathe is MT2. 
+Pen Mandrel.  Tapered end fits into the headstock and far end into the tailstock. Another presentation shows how this is used in pen making
+Jacobs chuck with key.  Fits into tailstock and can be used with normal twist drills to make holes in the end of blanks
+M2 taper
+M2 taper
+
+Appendix The Makespace lathe – technical detail
+Axminster AT406WL
+Capable of working with blanks up to 40cm over the bed and 87cm (!) in diameter with bed extension
+Distance between centres 710mm
+Power 1.5KW watts
+Spindle taper MT2
+Spindle thread size M33 x 3.5mm
+Variable speed 50 - 1250 / 150 - 3750 rpm
+
+
+ 

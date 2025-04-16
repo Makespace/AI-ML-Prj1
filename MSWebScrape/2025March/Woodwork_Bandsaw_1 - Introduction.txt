@@ -1,0 +1,53 @@
+Bandsaw
+Introduction
+
+What is a bandsaw?
+The bandsaw is a power tool which uses a continuous band of metal with teeth along one edge to cut various workpieces. The band rides on two wheels rotating above and below the workpiece. The bandsaw provides a fast cut with more accuracy than a jigsaw, and has a much narrower kerf than the chop saw. It cuts faster (and deeper pieces) than the scroll saw, but is less able to cut curves. 
+
+What can you make using a band saw?
+
+What can you cut using a band saw?
+
+Complex curves
+Straight rip cut (support needed for a long board)
+
+What can you cut using a band saw?
+
+Cut dovetail joints (with a jig)
+Cut a tenon for a mortise and tenon joint
+
+What can you cut using a band saw?
+Re-sawing a log using a jig
+Cutting a veneer
+
+What to cut with a bandsaw
+Wood, MDF, plywood, plastics
+Narrow cuts. Other saws remove more material.
+Deep cuts. The Makespace bandsaw has a maximum theoretical of 28cm deep
+Cut accurately straight either cross-grain, with the grain, or at any angle using the fences
+Cut curves (several runs may be needed).
+
+
+
+What other saws can be used instead?
+Scroll saw (small pieces, better for curves but slower, less throat height)
+Chop saw (better for quick + accurate 90° cuts, repetitive work, metal)
+Jigsaw for complex shapes
+Circular saw for long, straight cuts
+
+Small workpieces
+Very wide workpieces. Anything wider than 39cm will not fit in the machine
+Tight curves, the minimum radius the standard blade can cut is 65mm (although you can take several runs to achieve a tighter radius)
+Thin material below 10mm. Anything less than 3 tooth pitches will not be cut cleanly. You can fix a thin piece to a sacrificial substrate to support it
+Thick material. The standard blade is only capable of clean rip cuts up to ~50mm and cross cuts of ~150mm.   
+Green wood. Green wood needs a special blade with more set on the teeth. 
+Email maintainers@makepsace.com if you need to cut anything outside the above limits. 
+Metals, as will be explained shortly…
+What the bandsaw does not cut
+
+Why no metal?
+You are not permitted to cut metal with the Makespace bandsaw:
+Makespace users are mostly working with wood and plastic materials so the blade has been chosen for those materials
+Wood saw teeth are more aggressive than metal saw teeth and will wear quickly if used on metal
+The dust extractor ducting is full of flammable dust and we don’t want hot metal particles to be added to the mix
+If you need to cut metal there are hacksaws or the chopsaw.

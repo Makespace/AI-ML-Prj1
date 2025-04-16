@@ -1,0 +1,130 @@
+Thicknesser
+Operation
+
+Setup
+Move the thicknesser into the workbench - 2 people required
+Choose a spot on the workbench with enough space for the infeed and outfeed
+Clamp the thicknesser to the workbench on both sides (The thicknesser is now mounted on a baseboard as seen to the right.  Not in all subsequent pictures though.)
+
+Setup
+Lower the infeed and outfeed tray
+Attach the dust extraction connector to the thicknesser and the extraction hose on top of the workbench to it
+Connect the power cord to the power socket suspended above the workbench
+Turn on the shop extractor and open both the workbench extractor duct and the duct next to the extractor
+Attaching the dust extraction port
+
+Chip Extraction
+Use of the chip extraction system is required for this equipment.
+Make sure the blast shutter for all equipment being used is open and that all other blast shutters are closed.
+Switch on the extraction system by pressing the green button, if the machine does not start check that the red stop button is not latched, twist ¼ turn to release it if necessary.
+Remember to switch off when you are finished and if the bag is full please empty it.
+There is no one to clear up after you except other members.
+
+
+Overhead Dust Extraction
+When doing anything which generates dust or chips, including any machine tool which requires chip extraction or hand sanding, the overhead dust extractors MUST be used.
+This removes harmful dust from the air which would otherwise be breathed in by anyone in the secure workshop.
+The remote controller for the overhead extractors lives in a pocket on the power sockets hanging over the workbench.
+Press the ON/SPEED button once, check that both extractors start.
+Remember to switch them off when you are finished.
+If the sign on the extractors indicates that the filters need changing, please change them and update the sign. There is no one to do this for you except other members.
+
+Setup
+Power socket
+Dust Extraction
+Open feed table
+
+DH330 features
+Final thickness stop
+Depth of cut indicator
+Planning thickness indicator
+
+Planning thickness indicator
+Indicator of the piece thickness after passing through the blades at the current height
+
+A good rough indicator but not recommended for precision jobs, use at your own discretion
+
+For a correct read the eyes need to be at the same level as the indicator
+
+
+Final thickness stop
+Locks the minimum thickness up to 8 different values - from 6 to 44mm
+
+Values are shown in inches on the left side of the label
+
+Useful for repeated runs with boards that must have the same thickness 
+
+
+
+
+
+Depth of cut indicator
+Indicates the thickness of the wood that is going to be removed on the next passage
+
+A cut depth should never be higher than 0.5mm
+
+To use it put the wood piece below the sensor (see picture) until it just touches.
+
+Always check against the highest point of the board - if that’s not possible don’t rely on this feature
+
+
+
+
+Sensor
+Scale
+
+First Passage
+Unlock the height adjustment lever by moving it to the left.
+Adjust the height lever until its close to the height of the wood piece - there should be a gap big enough to make sure that the first passage won’t touch any part of the piece.  You can also use the depth of cut indicator to keep it just above the piece of wood.
+Lock the height adjustment lever by moving it to the right.
+Put on your PPE. Turn the machine ON (green button). 
+Feed the wood piece from the infeed table and let the machine drag the piece across to the outfeed table. Make sure the piece is always supported at entry and exit.
+
+First Passage
+(1) Unlock by moving left.
+(2) Turn until it’s at the height of the piece to thickness
+(4) Turn it on
+(3) Lock by moving right
+(5) Feed the piece until the rollers catch it (should be a few cm)
+(6) Hold the piece on the way out and take it out only after all of it is on the outfeed table
+(7) Turn it off
+
+Next Passages
+Turn the thicknesser off
+Unlock the height adjustment lever by moving it to the left.
+Lower the cut height - turn ¼ of the lever per passage (0.5mm)
+Lock the height adjustment lever by moving it to the right.
+Put on your PPE. 
+Turn the thicknesser on.
+Feed the wood piece from the from the front of the machine and hold it on the outfeed table
+
+
+Final passage
+Disconnect the machine from the power
+Vacuum inside and around the machine.  You can also use the air compressor to clear out debris in the machine.  Make sure you turn off the air compressor.
+Repeat the steps in “Setup” backwards
+Empty the large particles bin in the extractor
+
+
+Common Pitfalls
+On the first pass, ensure the height adjustment setting is high enough for the whole board.  If a board is narrow at one end, it may jam as the thicknesser cuts towards the thick end.  Check the height of both sides.
+Long boards will typically require two people to ensure the board is supported through input and output.  If you don’t support, it could topple the machine and will definitely push the board into the cutting blade causing uneven plane. 
+If excessive saw dust is shooting out of the thicknesser, the dust extraction device is probably clogged.  Unplug the machine, remove the debris, and clear the extraction hose.
+
+
+Tips & tricks
+Once one side is flat make sure to change sides before getting too close to the final thickness
+If your target thickness is lower than 5mm you can feed your thinner board on top of another wooden board
+Cut with the grain to avoid tearout (see picture)
+A thicknesser won’t correct any cups the wood might have as the pressure applied by the rollers will cancel the cup during the cut but it’ll spring back after
+
+
+
+
+
+
+
+
+Other resources
+Metabo DH330 manual
+Metabo DH330 review

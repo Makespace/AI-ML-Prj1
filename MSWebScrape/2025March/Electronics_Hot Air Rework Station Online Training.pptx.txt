@@ -1,0 +1,205 @@
+Hot Air Rework Station
+Online Training
+
+Scope
+These online materials are designed to get you ready to operate the Makespace hot air rework station and familiarise yourself with the basic operating procedure.
+No prior knowledge of how to use the hot air rework station is assumed.
+If you already know how to use a hot air rework station, this material has been designed to get you up to speed with use of the Makespace system quickly. 
+This guide covers what all hot air rework station users need to know in Makespace. For those who need it, some ad hoc in-person training may be available. 
+Contact: electronics-owners@makespace.org 
+
+
+Learning Objectives
+What the hot air rework station is used for 
+How to use the hot air rework station safely
+How to use the fume extractor 
+Basic soldering and desoldering procedure for passive SMD parts 
+Cleaning up
+
+Hot Air Rework Station Uses
+Hot air rework systems allow SMD components to be easily soldered or desoldered from PCBs. Applications include:
+Removing defective parts 
+Adding missing components 
+Repositioning misaligned parts 
+Correcting cold / dry joints 
+Wrapping heat shrink 
+Hot air can melt through hole components. Check the temperature limits!
+The unit is not to be used for heating other materials like plastics which may release noxious fumes or present a fire risk. 
+
+How the Hot Air Rework Station Works
+Hot air from the unit is used to melt / rework solder around an SMD component.
+When cooled, the solder mechanically and electrically joins the component to the PCB pad.
+The system uses a high power (1 kW) ceramic heater and fan to force heated air through a nozzle to the working area.
+Hot air
+Component
+PCB
+Nozzle
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Fire - The ignition of flammable materials and substances. 
+
+ 
+Work on a fire resistant surface e.g. the fire resistant blue mat provided.
+Always return the handpiece to its stand when not in use.
+Ensure that combustible items (e.g. paper, clothing, solvents etc.) are stored well away from the work area. 
+Do not wear loose clothing which can make contact with the heated tool.
+Use a PCB stand to avoid melting the bench with hot air!
+Do not solder batteries - easily damaged and can catch fire!
+To fight a fire involving electrical equipment use the CO2 extinguisher.
+Familiarise yourself with the MS health & safety guidance. https://web.makespace.org/health-and-safety/
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Burns - From contact with the headed tool, other heated surfaces or hot solder. 
+
+
+
+
+
+Never touch the heated nozzle and shaft, over 300°C!
+Cool the tool before changing nozzles. 
+Always return the handpiece to its stand between operations and turn off when not in use. Do not leave the handpiece running on the bench!
+Wear protective glasses when soldering and clothing that covers the skin.
+Cool minor burns with running water for at least 20 minutes, or until the pain feels better. When the burn has cooled, cover the area loosely with cling film, lengthways. Seek medical advice if needed. 
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Electrical Shock - Due to damaged cabling, faulty equipment, poor earthing etc.
+
+
+
+
+
+Equipment should be visually inspected before use to check for faults including: loose / missing / damaged parts on the unit and, damaged cabling and plugs. 
+Faults should be reported with the Trouble Ticket form (on the Equipment page). Dangerous faults should be reported to the group and Management and the item labelled ‘Faulty: Do not use’. 
+Keep the soldering station free of electrical cables to prevent damage from the heated tool / hot air.
+All electrical items should be switched off after use.
+Emergency stop isolation switches (on the wall) can be used to isolate the electrical power in an emergency. 
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Fumes & poisoning
+
+
+
+
+Use the fume extraction close to the work piece to draw fumes away. Do not work directly over the work piece.
+Avoid overheating components. A lot of through hole plastic parts will melt when heated with hot air! 
+Use lead-free solders wherever possible.
+Always wash your hands with soap and water after soldering.
+Report any health problems from soldering to Management. 
+Physical discomfort, tiredness
+
+Ensure regular breaks (at least 5 minutes every hour). Do not solder if tired!
+Properly adjust the seating to reduce pressure on discs and muscles. 
+Use magnification to reduce eye strain and fatigue.
+
+Personal Protective Equipment
+Wear protective glasses when soldering. It only takes a small flick of hot solder / flux to cause serious eye damage!
+To prevent burns from splashes or hot solder, long sleeve shirts should be worn.
+
+First, visually inspect the unit to check for safety issues including: 
+Loose panels and missing parts 
+Damaged parts 
+Damaged cabling, including melted insulation 
+Damaged / overheated plugs. 
+Faults should be reported with the Trouble Ticket form (on the Equipment page). Dangerous faults should be reported to the group and Management and the item labelled ‘Faulty: Do not use’. 
+
+Preparation Before Equipment Use 
+
+Hot Air Rework System - Control
+Activate the ON / OFF switch on the front of the unit. 
+Set the temperature & airflow using the controls on the front of the unit. 
+Pick up the handpiece and the unit should start to heat. 
+Replace the handpiece in the holder after each operation (it will automatically cool) and switch off after use.
+
+ON / OFF switch
+Nozzle
+Handpiece
+Airflow controls
+Holder
+Temperature 
+controls
+Temperature / airflow 
+presets
+Temp. & airflow display
+
+Hot Air Rework System - Nozzle Change
+Nozzles can be changed by loosening the attachment screw using a Phillips / crosshead screwdriver. 
+A number of nozzle sizes are available to suit different working areas. More nozzles are available in the blue consumables cupboard. 
+IMPORTANT: Cool the tool before changing nozzles to avoid burns.  
+Attachment screw
+Nozzle
+Handpiece
+Handpiece
+
+BOFA Fume Extractor Control
+Power using the ON / OFF switch on the remote control unit shown.  
+Adjust the airflow using the two controls, if needed. 
+Place the suction nozzle close to the working area (<10 cm away to be effective). 
+The suction tube can be rotated to tighten or slacken it, as needed. 
+Switch the unit off after use. 
+
+ON / OFF switch
+Airflow controls
+Fume extractor remote control unit
+
+Hot Air Rework Setup
+Mount the PCB in a holder above the bench to protect the bench from hot air and setup the fume extraction. 
+Set the airflow and temperature. You may need to experiment. Around 350°C is good for most work. Set the airflow midway to start.  
+Remove the handpiece from the unit and wait for the unit to warm up. It can get hot very quickly so be warned!
+
+ON / OFF switch
+Airflow controls
+Temperature 
+controls
+Temperature / airflow 
+presets
+Temp. & airflow display
+Handpiece
+PCB holder
+Fume extract
+PCB
+
+Desoldering Parts
+Aim the nozzle at the area you are working on (~1.5 cm away). Move the nozzle back and forth until the solder begins to flow. 
+Once the solder is flowing, the part can be carefully removed or repositioned with tweezers.  
+Return the handpiece to the holder and switch the unit off after use. 
+
+WARNING: When heating, keep the hot-air gun moving to prevent any damage to the component or the PCB from burning. Turn the temperature down if you see smoke. 
+Tweezers
+Nozzle
+PCB
+~1.5 cm
+
+Soldering Parts
+Place solder paste on the PCB pads using a syringe, tooth pick / component lead or stencil. 
+Place the component on the pads using tweezers, making sure it is actually in the paste (not floating). 
+Setup the hot air station and heat the parts using a circular motion. The solder should melt and flow around the parts. Allow some time for the solder to fully flow. 
+Applying solder paste
+Placing the part
+Heating
+
+Soldering Procedure - Using Flux
+Flux is acidic and is used to remove the oxide layer that forms on metal surfaces, allowing the solder to wet / flow much better. 
+Flux is present in most solder but the use of additional flux can help in some circumstances. 
+A thin layer of flux can be applied to PCB pads or parts using a flux pen, syringe, or a miniature spatula.  
+IPA or flux remover should be used to clean off flux left behind after the soldering process, as the residue can cause corrosion. 
+Apply the cleaning agent to the PCB using a stiff brush or cleaning pad. 
+
+Flux pen
+Wear nitrile gloves when handling solvents. 
+Work over a sink or a bowl. 
+Activate the fume extraction.
+
+Cleaning Up
+Remove any components etc. from the bench. 
+Use the brush to sweep the bench.
+Use cleaning agent to remove any residue on the bench. 
+Switch off equipment and return any borrowed items. 
+Remember, the bench owners are volunteers not paid cleaners!

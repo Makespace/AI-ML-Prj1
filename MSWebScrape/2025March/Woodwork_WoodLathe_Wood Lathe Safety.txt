@@ -1,0 +1,80 @@
+Overview
+There is a lot of safety information presented here. During the hands-on assessment, your trainer will repeat a lot of the safety information, and show you how to turn safely. Don’t be shy about asking questions.
+Start with this video:
+Woodworking Tips & Techniques - Lathe Safety
+
+
+Personal Protective Equipment
+Eye protection is mandatory. A dust mask is optional for cutting but mandatory for dust-creating activities (scraping / sanding / dry wood etc.)
+Gloves should not be worn due to risk of entanglement.
+Clothing, Hair and Jewellery
+Remove dangling clothing and jewellery. Tie back long hair.
+Ensure your work piece is sound and securely attached.  Check frequently.
+Unplug the lathe when changing speed ranges with the pulleys
+Ensure all components are secured before turning on: headstock; tailstock; tool rest; workpiece.
+Wood Lathe Safety
+
+Ensure workpiece is balanced
+Start at low speed when turning to round
+With unpowered lathe, spin the workpiece manually to check balance and check for obstructions
+Be aware of others in the workshop
+Advise others to put on a dust mask if needed
+Be aware of slip hazards, e.g. wood shavings!
+When starting the lathe, ensure no-one is in the line of the workpiece, in case it comes loose.
+Wood Lathe Safety
+
+Fine dust is possibly the most serious long-term health hazard of wood-turning.
+Be aware of the hazards of materials you are using. Dry woods create more dust than green (wet) wood.  Some woods are toxic, e.g. Yew and Laburnum. MDF contains toxic glues. See Wood Allergies and Toxicity.
+Also be aware that spalted wood (with black stains) may have fungus spores in.  These can be harmful, extraction should be used.
+Dust
+
+Masks for Woodturning
+Wood lathe users must have their own dust mask.
+Makespace no longer has shared masks for hygiene reasons.
+Woodworking masks have different standards (based on percentage and size of particulates filtered). P2 or P3 standard is highly recommended. The mask should be well-fitted to ensure efficacy.
+
+
+Mask Choices
+Single-use (disposable) masks are not recommended since they often have poor fit, and are expensive.
+Non-powered respirators are the most common choice, e.g.: Respiratory Protection - Non Powered. Consider the cost of replacement filters, and also fit. Some masks are bulky, and may be difficult to wear with (safety) glasses. Full-face respirators include a visor.
+Powered respirators are expensive but may be useful for the regular turner.
+Feel free to ask your trainer for recommendations.
+
+Woodworking masks do not filter OUTGOING air. They are not designed to protect others from disease.
+Surgical and cloth masks are not rated for woodworking, if clogged with dust, they are unlikely to be effective.
+Only a woodworking rated mask is acceptable for using the wood-lathe. You should social-distance appropriately. Advise others to avoid you during woodturning.
+
+Covid-19
+
+Sanding produces a lot of dust
+Wear a dust mask while sanding
+Extraction must always be used - either or both of:
+Main workshop extractor
+Workshop vacuum used hand-held
+A respirator alone is not sufficient, since dust particles can remain in the air for hours, affecting you and other workshop users
+
+Sanding
+
+When to Use Extraction
+Dust in the air is a hazard to all workshop users, therefore extraction MUST be used whenever you are creating dust, to reduce the levels in the air.
+Cutting clean, moist wood with a sharp tool will produce large shavings which are not hazardous. At all other times, use extraction.
+If in doubt, use extraction.
+
+Understand the safe usage of each tool when woodturning. The primary risk is what happens if the tool becomes embedded in the workpiece during turning ‘catch’.
+Easy Wood Tools provided by Makespace should always be held level, or pointed slightly downwards.
+Easy Wood Tools are scrapers which produce lots of dust.  Mask and extraction must be used at all times when using these tools.
+Use of Tools
+
+Controls
+This lathe is driven by an electric motor – the controls of which are available on a magnetic controller which allows the user to place the power and emergency stop buttons (1) closest to them for easy of access during an emergency. Care should be used to place the controller in a sensible location such that it cannot easily be knocked off.
+
+The lathe can be run in forward or reverse direction. The following must always be observed:
+Cutting must only be done when the workpiece is turning downwards towards the toolrest. This is forwards for normal right-handed turning.
+When turning in reverse, the grubscrews on the chuck must be checked for secureness. If these are loose, the chuck may unscrew from the spindle.
+
+
+Finishes
+Many finishes can be used for woodturning, precautions for finishes are varied and depend on the individual finishes.  The following common principles apply:
+Many finishes are flammable, cloths for application should be disposed of safely (be aware of the possibility of spontaneous combustion for some finishes)
+Hazardous finishes should not be applied when the lathe is on, e.g. superglue, due to the risk of spray.
+Normal rules about material safety apply. Approval in writing from the directors is required if using hazardous substances in Makespace.

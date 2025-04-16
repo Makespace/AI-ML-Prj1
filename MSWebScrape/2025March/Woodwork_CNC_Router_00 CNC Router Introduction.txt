@@ -1,0 +1,56 @@
+CNC Router
+Makespace Training: Introduction
+https://equipment.makespace.org/cnc-router
+
+Introduction CNC Router
+
+A CNC router is a computer controlled shaping machine. It is related to the hand held router. But unlike hand held routing, the tool paths can be controlled via computer numerical control. It is a computer-controlled machine for cutting various materials, such as wood, composites, plastics, and foams. It is one of many kinds of tools that have CNC variants. A CNC router is very similar in concept to a CNC milling machine. The CNC router is controlled by a computer. Coordinates are uploaded into the machine controller from a separate CAD program 
+    
+
+ 
+
+
+Introduction 2
+CNC stands for Computerised Numerical Control, and CNC milling defines a computer controlled process in which you model your object in specialised software and send it to a milling machine that cuts material according to automated toolpaths.
+Basic production stages are:
+Designing a 3D CAD model (in CAD software eg Solidworks, Autocad Inventor or Fusion 360)
+Converting the CAD model into a CNC program (eg SRP Player, Vectric V-Carve Pro)
+Setting up the CNC milling machine (mount tools & work piece, define X,Y,Z co-ordinates)
+Executing the milling operation (send the G-code toolpath instructions from PC to Model Mill)
+Clean machine thoroughly after use
+
+    
+
+ 
+
+
+Specifications of the CNC Router
+Capacity: 1200 x 1200 x 120mm
+Rate (X,Y):	 6000mm/min (Max) 5000mm/min (Working)
+Rate (Z):	 30mm/sec
+Spindle Speed:	4500 to 24000rpm
+Mechanical Precision:	0.01mm
+Spindle Power: 1.5KW Variable Speed, Water-cooled
+Tool Diameter: min 3.175mm, max 12.7mm
+
+
+    
+
+ 
+
+
+What you can cut: 
+It is safe to cut wood, plastics and foam with this machine. 
+The way the CNC Router is set up in Makespace means metal is not allowed on the machine: there is no coolant feed or extraction suitable for metal work. 
+For anything else please contact the owners before use if unsure. (maintenance@makespace.org, subject= “ CNC Router”)
+
+Prerequisite 
+Please note the prerequisite for the CNC Router course is completion of the CNC Model mill course. You must also have the skills to prepare your workpiece and fixtures. It is recommended that you have completed the Plunge Router Training.
+
+The both items of equipment share the same tool path creation software so the Model mill is a good introduction to CNC work in Makespace. 
+
+https://equipment.makespace.org/cnc-router
+
+
+
+ 

@@ -1,0 +1,280 @@
+Soldering Iron
+Online Training
+
+Scope
+These online materials are designed to get you ready to operate the Makespace soldering iron station and familiarise yourself with the basic operating procedure.
+No prior knowledge of how to use the soldering iron station is assumed.
+If you already know how to use a soldering iron station, this material has been designed to get you up to speed with use of the Makespace system quickly. 
+This guide covers what all soldering iron users need to know in Makespace. For those who need it, some ad hoc in-person training may be available. 
+Contact: electronics-owners@makespace.org 
+
+
+Learning Objectives
+This is training for the Makespace soldering iron station covering:
+What the soldering iron is used for 
+How to use the soldering iron safely
+How to use the fume extractor 
+Basic soldering and desoldering procedure
+Cleaning up
+
+Soldering Iron Uses
+Soldering is the process of joining two or more electronic parts together by melting solder around the connection. Solder is a metal alloy and when it cools it creates an electrical and mechanical bond between the parts.
+The solder is melted using a soldering iron which has a heated metal tip. 
+The Makespace soldering irons are not to be used for melting other materials like plastics (may cause noxious fumes and present a fire risk). 
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Fire - The ignition of flammable materials and substances. 
+
+ 
+Work on a fire resistant surface e.g. the fire resistant ESD mat provided.
+Always return the soldering iron to its stand between operations and turn off when not in use. 
+Ensure that combustible items (e.g. paper, clothing, solvents etc.) are stored well away from the work area. 
+Do not wear loose clothing which can contact the iron.
+To fight a fire involving electrical equipment use the CO2 extinguisher.
+Do not solder batteries - easily damaged & can catch fire! 
+Familiarise yourself with the MS health & safety guidance. https://web.makespace.org/health-and-safety/
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Burns - From contact with the iron tip, other heated surfaces or hot solder. 
+
+
+
+
+
+Never touch the heated element of the soldering iron, over 300°C!
+Cool the iron and use a protective silicone pad when changing tips. 
+Always return the soldering iron to its stand between operations and turn off when not in use. 
+Hold wires to be heated with tweezers or clamps.
+Wear protective glasses when soldering and clothing that covers the skin.
+Cool minor burns with running water for at least 20 minutes, or until the pain feels better. When the burn has cooled, cover the area loosely with cling film, lengthways. Seek medical advice if needed. 
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Electrical Shock - Due to damaged cabling, faulty equipment, poor earthing etc.
+
+
+
+
+
+Equipment should be visually inspected before use to check for faults including: loose / missing / damaged parts on the unit and, damaged cabling and plugs. 
+Faults should be reported with the Trouble Ticket form (on the Equipment page). Dangerous faults should be reported to the group and Management and the item labelled ‘Faulty: Do not use’. 
+Keep the soldering station free of electrical cables to prevent damage from the heated tip.
+All electrical items should be switched off after use.
+Emergency stop isolation switches (on the wall) can be used to isolate the electrical power in an emergency. 
+
+Safety Risks & Mitigation
+Risk
+Mitigation
+Fumes & poisoning
+
+
+
+
+Use the fume extraction close to the work piece to draw fumes away. Do not work with your face directly over the work piece.
+Use lead-free solders wherever possible.
+Always wash your hands with soap and water after soldering.
+Report any health problems from soldering to Management. 
+Physical discomfort, tiredness
+
+Ensure regular breaks (at least 5 minutes every hour). Do not solder if tired!
+Properly adjust the seating to reduce pressure on discs and muscles. 
+Use magnification to reduce eye strain and fatigue.
+
+Personal Protective Equipment
+Wear protective glasses when soldering and clipping wires. It only takes a small flick of hot solder / flux to cause serious eye damage!
+To prevent burns from splashes or hot solder, long sleeve shirts should be worn.
+Use a heat resistant silicone pad when changing tips and cool the iron down. 
+
+What is Solder?
+Solder is a metal alloy that is melted to create a permanent bond between electrical parts. Inside the solder core is a material known as flux which aids in the soldering process by removing oxide films on the surface of the metals being soldered, causing the solder to flow more uniformly over surfaces (solder flow is known as ‘wetting’). 
+Metal alloy
+Flux
+Solder construction
+
+Solder Types
+For electronics work, the most commonly used type of solder is lead-free rosin core solder. This type of solder is usually made up of a SnAgCu (tin-silver-copper) or SnCu (tin-copper) alloy. You can also use leaded rosin core solders but they are less popular due to health concerns.
+Wire diameter - Solder wire diameters of around 0.8 mm can be used to solder most through-hole parts and around 0.3 mm dia. for smaller SMD parts (small than 0805 size). 
+Wire Diameter
+0.81mm
+Melting Point
+228°C
+Percent Tin
+99.5%
+Flux Type
+Rosin Based
+Percent Flux
+3.3%
+Percent Copper
+0.5%
+RS lead free solder
+
+Soldering Iron Tip Types
+The soldering iron tip transfers heat to the parts to be soldered. There are many variations of soldering iron tip but the most common tips for electronics work are the conical and chisel tips. 
+Chisel tip - This tip is well-suited to soldering leads, wires and larger SMD components because of its broad flat tip which maximises heat transfer.
+Conical tip - Used in precision electronics soldering because of the fine tip, able to deliver heat to smaller areas without affecting its surroundings.
+Chisel tip   Conical tip
+
+First, visually inspect the unit to check for safety issues including: 
+Loose panels and missing parts 
+Damaged parts 
+Damaged cabling, including melted insulation 
+Damaged / overheated plugs. 
+Faults should be reported with the Trouble Ticket form (on the Equipment page). Dangerous faults should be reported to the group and Management and the item labelled ‘Faulty: Do not use’. 
+
+Preparation Before Equipment Use 
+
+Thermaltronics Iron - Control
+Press the button on the safety timer behind the unit to activate the mains supply. 
+Activate the ON / OFF switch on the top of the unit. 
+The tip should warm up in around 10 seconds. Tips are induction heated and have set temperature points. 
+Replace the handpiece in the holder after each operation and switch the unit off after use.
+
+ON / OFF switch
+Timer
+Handpiece
+Output port selector
+Holder
+
+Thermaltronics Iron - Tips
+The Thermaltronics iron tips are heated using induction and have a colour band to indicate the operating temperature (set by the Curie point of the metal). 
+Thermaltronics tip color coding
+Colour band
+Range
+Blue
+325°C - 358°C
+Yellow
+350°C  - 398 °C
+Red
+420 °C - 475 °C
+Colour band
+Thermaltronics tips 
+
+Thermaltronics Iron - Changing Tips
+Pull the old tip out using the silicone pad. 
+Push the new tip in until it locks into place.
+IMPORTANT: Cool the iron down and use the silicone pad when handling the tip to prevent burns. 
+Pull tip to release
+Silicone pad
+
+936D Soldering Iron - Control
+Switch the unit on using the power switch on the side of the unit. 
+Depress the two controls on the front of the unit to set the temperature. The unit can take a minute or two to fully heat up.  
+Replace the handpiece in the holder after each operation and switch the unit off after use. 
+
+Temperature controls
+Handpiece
+Temperature display
+ON / OFF switch
+
+936D Iron - Tips
+The 936D iron tips are electrically heated to the set temperature point. Note, the temperature reading on the unit is unlikely to be very accurate!
+Spare tips are stored in the blue consumables cabinet.  
+936D iron tips
+
+936D Iron - Changing Tips
+Unscrew the collet and remove the steel casing.
+The old tip should drop out.
+Push the new tip into the steel casing.
+Screw the casing and tip into place. 
+IMPORTANT: Cool the iron down and use the silicone pad when handling to prevent burns. 
+
+Collet (unscrew)
+Tip (slots into casing)
+Steel casing (remove)
+Handpiece
+
+BOFA Fume Extractor Control
+Power using the ON / OFF switch on the remote control unit shown.  
+Adjust the airflow using the two controls, if needed. 
+Place the suction nozzle close to the working area (<10 cm away to be effective). 
+The suction tube can be rotated to tighten or slacken it, as needed. 
+Switch the unit off after use. 
+
+ON / OFF switch
+Airflow controls
+Fume extractor remote control unit
+
+Soldering Procedure – Tinning the Tip
+The soldering iron tip should be tinned (coated) with a thin layer of solder before use to improve heat transfer, prevent oxidation and corrosion of the tip.
+Wipe the tip on brass wool to clean it. 
+Briefly touch the solder to the tip (on both sides), making sure the solder flows evenly around the tip. 
+Wipe the tip again. 
+Periodically clean or re-tin the tip if it looks dull while you are working. Do not file or scrape the tip, as this will damage it. 
+
+
+Tinned tip
+Tinning
+Cleaning
+
+Soldering Procedure – Soldering the Joint
+Mount the component on the PCB. 
+Touch the tip of the iron to the lead and metal PCB pad, in order to heat both at the same time for 3 - 4 seconds.
+Continue heating and touch the solder to the joint. Do not melt the solder directly on the tip of the iron. You want the joint to be hot enough to melt the solder when it’s touched, or a bad / dry joint can form. 
+Snip the leads with wire cutters - careful they might fly!
+
+Lead bent to hold component
+Iron tip heating parts
+Solder applied to parts
+
+Soldering Procedure - SMD parts 
+Most SMD passive components can be soldered quite easily. 
+Heat and apply solder to one pad. 
+Place the component on the tinned pad using tweezers and remelt the solder around the component using the iron. 
+With the component fixed, solder the other pad. 
+The same approach can be used for leaded ICs, with the component initially tacked using one leg. 
+Pics from: store.curiousinventor.com/product/smd-soldering-practice-kit/
+
+Soldering Procedure - Using Flux
+Flux is acidic and is used to remove the oxide layer that forms on metal surfaces, allowing the solder to wet / flow much better. 
+Flux is present in most solder but the use of additional flux can help in some circumstances. 
+A thin layer of flux can be applied to PCB pads or parts using a flux pen, syringe, or a miniature spatula.  
+IPA or flux remover should be used to clean off flux left behind after the soldering process, as the residue can cause corrosion. 
+Apply the cleaning agent to the PCB using a stiff brush or cleaning pad. 
+
+Flux pen
+Wear nitrile gloves when handling solvents. 
+Work over a sink or a bowl. 
+Activate the fume extraction.
+
+Cleaning the PCB before Soldering
+The parts should be clean and free of oxidisation to improve the quality of the solder joint. 
+Most PCBs from the factory should not need cleaning before soldering, as they have a thin protective layer of lacquer which prevents oxidization of pads (layer removed during soldering).
+Uncoated / oxidised PCB pads may need to be cleaned with a cleaning pad or fibreglass pen.
+Pads could also be cleaned which a cleaning solvent such as IPA. The board must be thoroughly dry before soldering - fire risk! 
+RS PCB Cleaning Pad
+RS Fibreglass Cleaning Brush
+
+Desoldering Procedure - Solder Sucker 
+A solder sucker can be used to suck up melted solder from a joint. 
+Prime the solder sucker by depressing the plunger. 
+Melt the solder around the joint using the iron. 
+Remove the iron and quickly cover the joint with the solder sucker and release the plunger to suck up the solder. Repeat if needed. Do not burn the sucker by direct contact with the iron. 
+The solder sucker may need to be cleaned at intervals by unscrewing the nozzle.
+
+Trigger release
+PCB
+Solder sucker
+Plunger
+
+Desoldering Procedure - Solder wick / braid 
+Heated copper braid can act as a sponge or “wick” to remove solder from around a joint. 
+Place the end of the wick over the solder you want to remove.
+Place the heated iron tip over it. When it starts to work, you will be able to see the solder being pulled up into the solder wick.
+Some flux may need adding between the joint and solder wick, especially if the solder wick is oxidised. 
+Solder wick
+Iron tip
+Solder joint
+PCB
+Warning - Hot copper braid can burn! 
+
+Cleaning Up
+Remove any components etc. from the bench. 
+Use the brush to sweep the bench.
+Use cleaning agent to remove any residue on the bench. 
+Switch off equipment and return any borrowed items. 
+Remember, the bench owners are volunteers not paid cleaners!

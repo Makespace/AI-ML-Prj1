@@ -1,0 +1,30 @@
+Thicknesser
+Introduction
+
+Equipment Details
+The Metabo DH330 is a thicknesser, which is used to trim boards to a consistent thickness along their length on both surfaces, with the surfaces parallel to each other.
+Has rotating blades that plane the wood and takes off thin layers on each pass.
+Great for getting new seasoned wood ready for working.
+
+
+Equipment Overview
+Infeed table
+On/Off buttons
+Crank for height adjustment
+Lock lever for height adjustment
+Final thickness stop
+Carrying handles
+Depth of cut indicator
+Planning thickness indicator
+
+Equipment Overview
+Power cord
+Outfeed table
+Dust extraction connector
+
+Where Does It Live ?
+It lives to the right of the storage bench near where the Compressor, the Shop-VAC and the Bandsaw are.
+It’s on a wheeled trolley and pulls out easily.  Lifting it onto the workbench needs two people, do not try lift it on your own
+Use of extraction with the thicknesser is mandatory.  The 100mm extraction pipe is suspended over the workbench.
+The Thicknesser Manual is on the wiki and linked off this course.
+

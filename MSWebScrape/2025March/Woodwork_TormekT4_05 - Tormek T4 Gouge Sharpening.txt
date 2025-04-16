@@ -1,0 +1,53 @@
+Tormek T4
+Sharpening System
+Sharpening Gouges
+
+SVD-185 Gouge Sharpening Video
+
+The TTS-100 Gouge Setter
+The TTS-100 Gouge Setter determines the settings required to sharpen your gouge.
+There are four crucial settings…
+α: The bevel angle of your tool.
+JS: Jig Setting, the length of the gouge edge.
+P: The length of the Gouge Protrusion
+Hole: The reference hole using the TTS-100.
+
+α: The bevel angle of your tool.
+The bevel angle of your tool determines the three other settings, this value should be measured first and then the guide on the side of the TTS-100 should be referenced in order to set JS, P and Hole.
+The TTS-100 includes three angles measurement guides on one edge, 30, 45 and 55 degrees. If these angles do not match an angle you require, then you can use the Angle Master from the Chisel Sharpening guide instead.
+Insert your gouge edge into the angle measurer to determine the required angle, alternatively choose a new angle if you want to adjust the angle of your gouge.
+
+JS: Jig Setting, the length of the gouge edge.
+JS, Jig Setting will adjust the depth/length of the gouge edge, this number ranges from 0 to 6. The larger the number, the deeper the gouge will be.
+Take the SVD-185 Gouge Jig and locate the pivot locking nut halfway down the jig, this can be loosened and used to adjust the jig to a JS setting that can be found embossed into the pivot inself.
+
+P: The Length of the Gouge Protrusion
+On the other side of the TTS-100 guide is the Protrusion stop.
+Insert you gouge into the SVD-185 gouge holder, the holder should detach from the main body and the curved shape of the gouge fits nicely into the “V” shape of the holder.
+Place the edge of the holder against the edge of the protrusion stop, such that the metal wheels are at the furthest side, then slide the gouge to the middle wall and use the clamping wheel on the holder to lock everything in place.
+
+Hole: The Reference Hole of the TTS-100
+The TTS-100 has two reference holes, A and B.
+Attach the metal, F-shaped, tool rest to the front of the Tormek, such that the longest part of the rest passes in front of the grindstone.
+Insert the tool rest into the reference hole required and place both metal wheels onto the grindstone. If you cannot place both wheels onto the stone, then adjust the position of the rest until this is possible and lock into place.
+
+Sharpening the Gouge - Part 1
+With the settings determined from the TTS-100 and the gouge inserted into the SVD-185 Gouge Holder, we can now start sharpening.
+Attach the holder to the tool rest so that the edge of the gouge is pointing towards the grindstone, ensure the jig is not extended as shown in the first image on the right.
+To extend the jig, loosen the black wheel at the base of the Gouge holder. The holder can be extended if you want to remove the heel of the gouge after you’ve finished sharpening, as shown in the 2nd and 3rd images on the right. 
+
+Sharpening the Gouge - Part 2
+Turn on the Tormek and gently lower the gouge towards the grindstone, start sharpening the side of the gouge first, keeping as much of the gouge in contact with the stone as possible, then slowly rotate the gouge over to the other side.
+Ensure that the tip of the gouge is not dug into the stone as this will cause damage and potentially ruin the stone, when sharpening the tip, ensure a light pressure is applied.
+Make sure the the full width of the stone is used, in order to wear the stone evenly. Sharpen right side of the gouge on the right side of the stone, and then when rotating to the left side, slowly side the gouge over to the left side of the stone. 
+
+Deburring the Gouge
+Once the gouge is completely sharpened, remove the SVD-185 gouge holder from the tool rest and flip the tool rest over so that the longest section of the rest is in front of the leather strop wheel.
+The leather wheel requires preparation and continual maintenance, light machine oil should be applied and allowed to soak in before applying a burnishing paste.
+
+Deburring the gouge is exactly the same as sharpening it on the grindstone. Once you have deburred the outside of the tool, remove it from the holder and manually deburr the inside using the narrow strop wheel on the outside of the Tormek.
+
+Makespace Gouges
+The Makespace gouges should only ever be sharpened with the same angle:
+Bowl gouge: 45° Hole A/JS 2/P 65
+Spindle gouge: 45° Hole A/JS 2/P 65

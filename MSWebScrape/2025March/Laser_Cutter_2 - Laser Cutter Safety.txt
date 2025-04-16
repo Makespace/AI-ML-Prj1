@@ -1,0 +1,80 @@
+Laser Cutter Safety
+2020-08-29
+
+In this session
+How to stay safe when using the laser cutters
+How to avoid damage to the machines
+
+Primary Hazards
+Fire
+The laser cuts by burning materials. This represents a fire hazard
+Fumes
+Burning materials can release toxic chemicals into the air
+Mechanical
+The moving parts of the machine represent a trapping hazard
+Laser
+Your eyes can be easily damaged by laser radiation
+
+Machine Safety
+
+Safety - General
+The laser cutter is a potentially dangerous piece of equipment which must only be operated by members who have received appropriate training and who take due care. The top things to always remember when using the laser cutter are:
+ONLY USE THE LASER CUTTER IF YOU ARE ON THE LIST OF TRAINED USERS
+NEVER LEAVE THE LASER CUTTER RUNNING UNATTENDED
+KNOW WHAT TO DO IF A FIRE BREAKS OUT
+NEVER CUT MATERIALS THAT YOU DON'T KNOW ARE SAFE
+As a trained user, you should be very aware of the following risks and how to deal with them:
+
+
+Safety - Fire	
+FIRE (under normal operation) - Cutting at the wrong speed or the wrong power can result in the material igniting
+You must watch the cutter at all times and be prepared to abort the job if problems occur
+Small flashes of flame that don't hang around for more than a fraction of a second are acceptable, but any more is rare and not acceptable
+If a fire does take, this is the process you should follow (from minor to major):
+Press "pause" (the same button you started the job with) - This will turn the laser off so no more heat enters, and assuming the flame goes out, you can press "start" for the job to continue where it left off
+Open the lid - With the job paused, you can open the lid to blow out the flame. Again, it is possible to re-close the lid and continue where you left off
+Move the material from under the laser head assuming safe to do so (so it doesn't damage the optics; alternatively send the laser to home/datum), and smother with a spare sheet of material or blow out
+Use the workshop CO2 extinguisher to extinguish the flame
+You should also notify lasercutter@makespace.org if any of this happens with associated materials and settings so we can keep track of any particular materials/settings we should look at
+
+
+Safety - Fumes
+FUMES - The laser cutting process will release different smoke and fumes depending on the material.
+Never cut PVC or a material you are not sure is safe. When PVC is heated it releases chlorine gas, this mixes with the moisture in the air and the result is hydrochloric acid which is toxic to humans and corrosive to machines.
+Ensure the filter is on and the cutter lid stays closed for a while after a job to allow the fumes to clear.
+If you are feeling strange, think the fume build up is too much, or for any other reason you are unsure, stop the job.
+
+
+Safety - Mechanical
+TRAPPING - The head and bed of the cutter can be moved by the front panel menu or programs in the machine’s memory.
+Be careful when working inside the cutting area or with the lid open not to trap hands, hair, clothing or anything else.
+Always check the machine for unexpected items that may have fallen in before closing the lid.
+Do not attempt to climb into the machine!
+
+
+
+Safety - The Laser
+LASER BURNS/LIGHT - A 60 W laser can do real damage.
+The laser should be safe within the confines of the machine, and cut-off automatically when the lid is open (although this should not be relied upon). The top window is safe to look through during a job, but do not attempt to interfere with these windows or the laser or in any way invent some way to look at the laser.
+Do not tamper with the laser cutter, or any interlocks. All side panels of the laser should always be closed and locked whilst the machine is plugged in.
+The red dot laser visible when the lid is open is not the cutting laser. It is low-power and only there for positioning.
+
+
+
+Materials Safety
+
+Air Extraction System
+The Makespace laser cutters have air extractors to pull smoke and fumes out of the machine
+The extractors do not capture toxic fumes
+All air/gas extracted from the machine is vented into the trove
+To keep everyone safe, materials which produce harmful chemicals must not be laser cut in Makespace
+Specific materials which are approved/banned are covered in the next course
+
+Materials Safety Data Sheet (MSDS)
+Material suppliers should also be able to provide an MSDS
+This describes the properties of the material
+What it’s made of
+Any safety recommendations for working with it
+Combustion products
+An MSDS is required for the Owners to determine if a material is safe to cut
+If you want to cut a new material, you must have an MSDS for it, and it must be approved for use by the Owners

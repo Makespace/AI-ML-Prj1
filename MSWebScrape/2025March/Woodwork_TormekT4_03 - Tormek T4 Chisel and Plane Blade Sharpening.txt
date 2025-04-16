@@ -1,0 +1,32 @@
+Tormek T4
+Sharpening System
+Sharpening Chisels and Plane Blades
+
+Chisel and Plane Blade Sharpening Video
+
+The Straight Edge Jig - Part 1
+Once you have read and followed the training section for “Basic Setup”, you can continue from here in order to sharpen chisels and plane blades using the Straight Edge jig.
+Take the Square Edge Jig, loosen the two black dials on top of the jig and insert the chisel such that the face is pointing upwards towards the dials and the tip protrudes from the jig by a couple of inches. Keep the side of the chisel pressed firmly against the indexed edge at all times and evenly tighten the two dials back down to lock the chisel in place. Ensure the chisel is at 90 degrees with an engineer’s square and then use the circular guides at the base to slide the jig onto the tool rest.
+
+The Straight Edge Jig - Part 2
+Use the metal ring stops to stop the jig from falling off the tool rest whilst the machine is operational. These ring stops can be angled such that the chisel can rest backwards on them without hitting the stone. Never allow the chisel and jig to fall backwards into the stone, this will cause unnecessary damage.
+Before turning on the Tormek, lift the chisel slightly from the wheel, or ensure the chisel is resting against the ring stops as mentioned earlier. Move the jig from side to side, your chisel should be able to cover the full width of the stone’s edge without ever falling off the side, the chisel will damage the stone if this happens. Adjust the ring stops so that the chisel has the full range of movement required.
+
+The Angle Master - Part 1
+Now that your Tormek is ready for use, take the “WM-200 Angle Master”. This grey plastic card has two black adjusters on it that are used to adjust the angle of your chisel.
+First, observe the front of the Tormek, towards the right side is a series of numbers. These numbers relate to the current size of the Grinding stone, over time the stone will diminish in size and the reading will change. Determine the point at which the stone’s face intersects the number grid and read off the corresponding number. Change the left-hand adjuster on the Angle Master to match this number.
+
+The Angle Master - Part 2 (Video included)
+Second, determine what angle you require your tool to be ground to, this will vary for chisels and plane blades. If you’re not sure, you can use the edge guides to measure the current angle of your tool’s primary bevel. Once you have decided this angle, use the right-hand adjuster and select the number required.
+Place the round dial on the stone and the flat dial on the tool, adjust the height of the chisel so the flat edge is parallel to the tool face. Your tool is now ready for sharpening
+
+Sharpening Your Chisel or Plane Blade
+Turn on the Tormek and gently lower the chisel onto the stone, as a reference one hand should grip above the jig, near the handle and the other close to the edge of the chisel. Your grip can vary so long as even pressure is applied to the chisel.
+The chisel should be held firmly against the stone, but not hard enough to damage it. The chisel should also be slowly moved from left to right using the jig and ring stops to keep the chisel on the stone at all times, this allows for even wear of the stone and the prevention of damage.
+Observe the grinding face of the chisel to ensure the bevel is level, if it is not, then consider adjusting the tool rest and referencing the engineer’s square once more.
+Once your chisel is visibly and evenly sharpened, you may use the Dressing Stone to adjust the stone to a higher grit and improve the sharpness of the edge further.
+
+Deburring
+On the other side of the Tormek is a smaller leather wheel used to deburr your tools after sharpening and honing. This leather wheel can be used with or without the tools rest.
+The leather wheel requires preparation and continual maintenance, light machine oil should be applied and allowed to soak in before applying a burnishing paste.
+The tool should be placed flat against the edge of the wheel whilst running and then slowly pulled backwards and slowly angled tip down whilst the tip is in contact with the leather, repeat this process a couple of time and then flip the tool over and repeat until you can no longer feel the burr on the edge of the tool. Deburring methods can vary and many people will find alternative solutions to be just as effective.

@@ -1,0 +1,432 @@
+Warco Metal Lathe
+Online Training
+
+Table of contents
+Overview, or what you will get from this training
+Safety
+Preparation, Set-up and Operation
+
+Warco Metal Lathe
+What you will get from this training
+
+Scope of the training
+These online materials are designed to get you ready to operate the Makespace Warco Lathe.
+No prior knowledge of how to use a metal lathe is assumed.
+If you already know how to use metal lathes, this material has been designed to get you up to speed with our particular Warco quickly. Please be patient with the process and if you have any tips to improve this guide, let us know!
+This guide covers what all the metal lathe users need to know in Makespace.
+
+Learning objectives
+How the Warco lathe works
+How to inspect the equipment before use
+How to use it safely
+How to machine metal using the metal lathe
+Cleaning-up up after use
+
+This training material gives you a complete overview of the knowledge we expect all users to be familiar with.
+It also gives tips and suggestions on how to get good results.
+You need to complete the final quiz, and the MakeSpace general safety quiz when ready.
+Once you have passed the quizzes, you can arrange to have in-person assessment. Only once you have been shown person-to-person can you use the equipment.
+What you need to do 
+
+Warco Metal Lathe
+Safety 
+
+How to use the Warco metal lathe safely
+A lathe is potentially one of the most dangerous machines in a workshop, however if correctly used it is extremely safe.
+
+It is you that makes the difference.
+
+
+
+Operator safety rules
+Always wear eye protection - Sharp edged chips can be thrown off the workpiece at high speed;
+
+Make sure to not use anything that can get stuck in the machine. This includes:
+Ties and scarves;
+Bracelets, necklaces and rings;
+Long sleeves;
+Gloves;
+Wired headphones;
+Long hair must be tied up or securely held back.
+
+Warco Metal Lathe safety features
+Tailstock support
+E-stop
+Yellow safety cover
+Emergency brake pedal
+
+Warco Metal Lathe safety: Setup
+The safe operation of a metal lathe is all down to the preparation and setup of the machine.
+Do not adjust the machine if it is capable of starting to move, or already moving.
+Rigidity, rigidity, rigidity: The limitations of the lathe will always be due to unwanted movement of the work or the cutting tool.
+Always be prepared to abandon an operation if it is becoming difficult to setup with rigidity, or the lathe starts making strange noises.
+
+Warco Metal Lathe safety: Operation
+Inspect the lathe for cleanliness and damage
+Set up the chuck and verify that it is secure
+Install your work into the chuck
+Check your cutting tools and set the correct tool height
+Verify that no part of the lathe, carriage, or tools will interfere with the chuck
+Use the lathe!
+Shutdown
+Clean up the lathe
+
+The most common problem is the possibility of crashing the cutting tool, or some other part, into the lathe chuck. This can destroy the machine instantly.
+You can always check for problems by powering off, lifting the yellow guard, putting the gears in neutral, and rotating the chuck by hand.
+
+Warco Lathe safety: Additional checks & tips
+
+The Six absolute No-Nos of machining
+Never let your chuck come loose, always check it is on tight before use, also check the rest of your lathe as you don’t know how competent the previous user was
+Never start your lathe whilst your stock material is loose in the chuck, always check
+Never leave your chuck key in the chuck
+Never allow your cutting tool to hit the chuck jaws – always check your dead-stop setting after making adjustments
+Never allow the carriage to hit the dead-stop whilst cutting using the power-drive – keep your hand on the power-drive lever and your eye on the dead-stop gap
+Never retract the tailstock shaft beyond the 0 mark or you might eject the tool whilst in contact with the job and shatter either the tool or the job.
+
+
+
+Warco Metal Lathe
+Preparation, Set-up, and Operation
+
+
+Getting to know your lathe
+Metal lathes have a lot of levers, buttons, and dials! It can be a bit overwhelming at first, so it’s good to spend some time getting to know the machine
+
+Getting to know your lathe
+Headstock (contains motor, gears, chuck and spindle)
+Carriage (moves along the lathe bed)
+Tailstock (for drilling or supporting your work)
+
+Getting to know your lathe: Gearboxes
+Head gearbox controls the chuck speed and torque
+Lower gearbox controls the automatic powerfeeds that move the tool:
+The power drive
+The threading drive (also called the “leadscrew”)
+There is also a shaft connecting the run lever on the carriage to the gearbox
+
+Getting to know your lathe: Carriage
+Crossfeed (moves across the lathe bed
+Endfeed (moves along the lathe bed)
+Power drive lever, has three positions
+Safe
+Carriage drive
+Cross drive
+Threading lever
+Run lever:
+Stop
+Forwards
+Reverse
+
+Getting to know your lathe: Safety cover
+The yellow safety cover performs several functions:
+It is safety-interlocked to prevent the motor running if it is not in place.
+It helps protect the user for debris, or if the chuck comes loose.
+It makes it harder to leave the chuck key in the chuck by accident.
+It reduces cutting fluid, coolant, and oil splashes.
+The only time it is safe to put your fingers or anything else near the chuck or toolpost is when the yellow safety is fully upwards and the chuck has stopped moving.
+
+Personal Protective Equipment (PPE)
+Goggles are required.
+Other people working in the workshop space should also have eye protection if you are using this equipment because razor sharp metal chips will be flung across the room.
+Do not use hearing protection.
+Gloves are not advised when operating the machine because if your hand catches on a moving part, gloves will catch and drag you in.
+Tie back any loose clothing, and especially long hair or long sleeves, etc. because these cause fatal accidents when they are caught/entangled.
+
+Inspecting the Lathe before work
+Never skip a thorough inspection of the Lathe before switching its power on:
+
+Check the general area is clean and clear
+Check that the chuck is clear of any entanglement
+Make sure the lathe bed is clear, and that nothing is in the way of the moving carriage
+Inspect the oil level indicators are OK.
+Keep the equipment owners informed if you do find a problem, as this helps Makespace keep an eye on whether the equipment is working optimally. Please email maintenance@makespace.org with any concerns.
+
+Inspecting the Lathe before work
+Lubrication/oil checks
+There are three oil windows which should have oil halfway up the glass.  If they do not this is a major panic but report it to management.  There are sight glasses for the headstock, lower gear box (lead screw), and carriage.
+
+Setting up your lathe
+To get power to the machine:
+
+Switch on at the wall
+Release the E stop
+1
+2
+
+Setting the spindle speed for optimal cutting 
+The spindle MUST be stopped before changing gears.
+
+They are crash gears with no concept of synchromesh: To get them to engage, keep nudging the chuck by hand until meshing happens.
+
+
+
+Preparing your work: The 3-jaw chuck
+The first step in preparing your work is to have the right chuck. We have a 3-jaw chuck and a 4-jaw chuck.
+
+The 3-jaw scroll chuck is a simple and fast way to hold round, or hexagon-shaped material, with reasonable accuracy.
+
+The 4-jaw independent chuck can hold any shape of material, even unbalanced and off-centre pieces, with high accuracy. We will cover this in part 2 of the training.
+
+Always leave the 3-jaw chuck on the lathe when done, some people cannot mount and de-mount the 4-jaw safely as it is very heavy. Part 2 of the training covers changing chucks.
+
+
+
+Safety: Check the chuck is secure!
+You must always check the chuck is secure before running the lathe.
+There are three “cam-locks” on the back of the chuck, as shown on the right
+There is a notch that shows the position of the cam-lock
+The cam-lock is only secure if this notch is between the two “V” marks, as shown in the picture.
+ALL THREE MUST BE SECURE BEFORE THE LATHE IS RUN. Use the chuck key to secure them.
+
+Safety first: The chuck key
+This key is used to loosen and tighten the chuck.
+It is spring-loaded to make it difficult to accidentally leave the key in the chuck.
+One of the most dangerous things that you can do on a lathe is to leave the chuck key in the chuck.
+It is good practice to put the chuck key somewhere easy to see, and to look for it regularly when using the lathe.
+It is dangerous because it can either be thrown by the chuck, or jam between the chuck and something else and with the large forces involved cause a lot of damage
+
+
+Place your work in the chuck
+Insert the chuck key into the spigot on the side of the chuck as shown on the right.
+Turning the handle clockwise will move the jaws towards the centre.
+You can grip the work with either the inside of the jaws, or the outside, but you must always check it is very securely held.
+Put as much of the workpiece in contact with the jaws as you can while leaving enough room to comfortably get the cutting tool in position while being clear of the chuck.
+Tighten the chuck and always remove the chuck key
+
+
+Cutting tools
+May be right and left-hand (approach from right/left).  If cutting back into a shoulder you'll want a left-hand.  Parting off tools, carbide and steel.  Feed in gently so it doesn't dig.  Various other tools are available including those used for boring.  The faces of the quick-change tool are at right angles, so you can bore.  
+Top: High speed steel (HSS) tools give a finer finish but generally require more maintenance. Can make custom shaped cutters!
+Middle: Brazed Carbide tipped tools cannot have the cutting edges changed but are more durable if looked after.
+Bottom: Carbide Insert tools are designed for toughness, and not surface finish. Easy to replace damaged insert.
+
+
+
+
+
+Cutting tools - Makespace’s collection
+We have a selection of lathe tools that cover most typical lathe work
+
+
+
+
+
+Cutting tools - Makespace’s collection
+Indicator
+External
+threading
+Parting/
+grooving
+Knurling
+Internal
+threading
+Boring bar
+Boring
+chamfer
+Boring bar
+Chamfer
+Right-hand turning
+Left-hand turning
+
+The quick-change toolpost
+This toolpost holds the cutting tool and allows you to quickly and easily change between tools.
+
+Tool holder
+Tool release handle
+Toolholder hold-down nut (for setting tool angle)
+
+Quick-change tool, setting tool angle
+The big spanner is used to loosen the quick-change tool and rotate it.  You can re-align it by bringing it up to the chuck and checking it is square to it and tighten it again.  
+The tool holders are “drop in and tighten type” and normally give you the correct height, but it's best to check 
+Being square is absolutely vital with parting-off tools.  Again, make sure all is tight here
+Usually, you would only displace/swing the head for taper turning
+
+Setting the tool height
+
+
+Use the height reference post to check the cutting edge height. The tip of the tool should be level with the top of the gauge.
+To adjust the tool height:
+Loosen tool release handle
+Loosen the silver locknut
+Rotate the black knurled height adjuster
+Re-tighten the locknut
+Re-tighten tool release handle
+
+Safety before Starting – each and every time
+Always make sure of two things when using a lathe:
+1. That the work area is safe, there is nothing lying on the lathe that shouldn’t be, especially the chuck key, more on that later. Also check before starting the lathe drives are not engaged that the chuck will not collide with anything.
+2. You have nothing on you that can get caught in the mechanism of the lathe. Beware of loose clothing, long sleeves, jewellery and especially long hair. All of these are a total no-no. Whilst eye protection is mandatory do not wear anything that will impair your hearing – if you listen to the lathe while it cuts the lathe will tell you how well you are doing. Do not use gloves as they impair the physical feed-back from the lathe.
+You are also responsible for the safety of all others around you, check them every time before you start the lathe and ensure that they know you are starting. 
+
+
+
+
+Starting the lathe spindle
+The guard must be closed to start system.
+Use the run lever to activate the lathe motor, this will start the chuck running. Downwards turns the top of the chuck towards you and up away from you.
+Knock it to the centre position to coast to a stop. 
+
+
+
+Stopping the lathe spindle in a hurry
+Slight touch switches the motor off and further push engages brake drum and stops it dead.
+The emergency brake should not be used for normal stops as it wears the brake.
+
+
+
+Dead stop
+Is used to prevent you driving the cutting tool and its mounting into the rotating chuck: This is the most common accident and a big No-No in lathe working and it will send you back to retraining, if the lathe is still working that is. You must check this setting every time you move the compound slide or rotate the tool post.
+Adjustable with dial.  It is used whilst hand-feeding only.
+
+
+
+The Digital Read-Out (DRO)
+The DRO is used for measuring the position of the tool so allowing the user to make the next adjustment without having to stop the lathe and use callipers of micrometers.
+
+However it is always necessary to establish the correct initial measurement using a hand-held measuring tool after the first cut, after this the DRO can be used.
+
+
+
+Cutting notes
+
+Square inserts are for heavy rough cuts and don't go right up to a shoulder.  
+Chamfer bits exist, and so do thread cutting bits, as do internal/external cutting bits  (more on part 2 of the course).  
+Chamfer bits are better when re-angling end of your work.  
+The tools that are along the back of the lathe should be kept there.
+Replacing tools means you will have to adjust the height nut on each cutting tool.  Lock and then re-test.  Spring washer stops the nut vibrating.  Tighten a little beyond humans doing finger tight.
+All tools have a tiny radius at the end, so if you are cutting up to a shoulder you can either undercut a little and sink the radius in, or you can undercut the shank.  A lot of times it doesn't matter, until you need to fit a bearing.
+Plan to cut slightly larger than your final cut and measure prior to cutting the last cut and do a very fine cut.
+
+Types of lathe machining operations
+This part of the training covers the following operations:
+Facing / cross-cut
+Turning / long-cut
+Cutting at an angle
+Chamfering
+
+Further operations will be covered in the next part.
+
+Facing / cross-cut
+Face Cutting is done by cutting across the end of the metal. This movement is known as “feeding in” or “infeed”.
+
+The Cross feed is marked in DIAMETER: For example .5 mm on the dial moves the cutter by .25mm. This is called a “direct” dial.
+
+Your instructor will demonstrate a cut to you then you can do one, try both a manual cut and then a power feed one.
+
+
+
+Turning / long-cut
+Turning is done by cutting down the rounded side of the metal and using the longitudinal wheel.
+
+Your instructor will demonstrate a cut to you then you can do one, try both a manual cut and then a power feed one.
+
+Always be careful that you do not drive the cutting tool into the moving chuck, particularly when using the power feed.
+
+
+
+Cutting at an angle / “turning a taper”
+The top slide on a lathe, also referred to as a “compound”, can be rotated and used to cut at a precise angle.
+
+The top slide is not monitored by the DRO and is manual feed only.
+
+Keep track of any movements using the dial, or by attaching a dial indicator.
+
+Chamfering
+Turning is done by cutting down the rounded side of the metal and using the longitudinal wheel.
+
+Your instructor will demonstrate a cut to you then you can do one, try both a manual cut and then a power feed one.
+
+Always be careful that you do not drive the cutting tool into the moving chuck, particularly when using the power feed.
+
+
+
+Tailstock
+The tailstock can be locked in place with its lever.
+
+The tool can be moved along the axis of the lathe with the wheel at the back.
+
+To remove the tool, retract the tool beyond the zero position and it will be ejected. Be careful not to do this when the lathe is running!
+
+
+Standard chuck in the tailstock
+The tailstock can be used to drill concentric holes in your work, or to support your work using a tool called a centre.
+
+
+Tool movement
+
+Tailstock for drilling
+To fit the chuck wind the tailstock quill inwards past zero and insert the taper of the chuck by pushing it in sharply, and then check it is secure by trying to pull it out again. Remember it will eject if you wind out past zero
+
+Standard chuck in the tailstock
+
+Tailstock for drilling
+Centring Drill
+
+To ensure that you are commencing the hole dead centre, and to stop the drill bit wandering,use the centering tool
+Choose the appropriate size bit for the hole you are drilling
+
+
+
+Tailstock for support
+You can use the tailstock for supporting your work.
+To do this you first centre drill your work, then you replace the chuck with either a “live centre” or a “dead centre”.
+Most people prefer a live centre, which rotates with the work.
+A dead centre does not rotate and requires lubrication
+Slide the tailstock close to your work and engage and put pressure on with the tailstock handle.
+
+
+
+Powerfeed
+Take the tool well clear of the work and make sure the lathe is working correctly before you start to cut, you can even practice away from the chuck
+Check you have set the correct direction – make sure you know which way the lever goes for transverse and longitudinal drive
+It’s always better to run the drive (not the chuck) slower and a better surface usually results
+Cross feed or transverse-feed drive is selectable, but only one at a time
+Never remove your hand from the feed lever – in an emergency using it is quick and can avoid a situation from becoming worse extremely fast
+NEVER allow the carriage to hit the dead stop whilst under power.
+
+Tapping pt.1
+Always drill deeper than the required to allow for the fact that the tap does not completely reach the bottom of the hole
+Use through-holes for threads wherever you can in your design
+Hold the tap as straight as you can
+Start with the first tap and turn 180° then back 90° when you will feel the right spot where the swarf comes loose
+The more oil you use the better
+
+Tapping pt.2
+Be ready for the moment that the tap reaches the bottom of the hole, it will suddenly become much tighter.
+Forcing it further in will most likely break the tap in the hole with no chance of removing it
+Then use the second tap (don’t forget the oil) and repeat the process.
+When you get to the bottom, carefully remove the tap
+Clean out any swarf and JOB DONE!
+
+Shutdown at end of work
+Hit e-stop and then turn off at wall.
+Check the lathe is in neutral and the jaws are inside the outer diameter, the safety cover is up and the run switch is in the off position.
+
+Cleaning the lathe: keep it clean!
+Take work out, replace all the bits you may have changed/removed, brush stuff off the swarf from slides and other surfaces with the paintbrush and swarf.  
+Brush it down to the collecting tray below, which can then be pulled out and emptied.  
+For cleaning up gloves are mandatory.  
+Swarf is razor sharp and can go septic if it gets under your skin.
+
+The six absolute No-Nos of machining
+Never let you chuck come loose, always check it is on tight before use, also check the rest of your lathe as you don’t know how competent the previous user was
+Never start your lathe whilst your stock material is loose in the chuck, always check
+Never leave your chuck key in the chuck
+Never allow your cutting tool to hit the chuck jaws – always check your dead-stop setting after making adjustments
+Never allow the carriage to hit the dead stop whilst cutting using the power-drive – keep your hand on the power-drive lever and your eye on the dead-stop gap
+Never wind out the tailstock quill past the zero mark whilst the is running
+
+Summary
+Introduction of the Warco Metal Lathe
+How to inspect and start the lathe
+Setting up your work and tools
+Different types of tooling
+The fundamental lathe operations:
+Facing
+Turning
+Chamfering
+Cutting at angle, “turning a taper”
+Tapping threads
+Switching off
+Cleaning up after finishing

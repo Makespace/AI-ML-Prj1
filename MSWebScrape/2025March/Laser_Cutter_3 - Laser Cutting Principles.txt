@@ -1,0 +1,126 @@
+Laser Cutting Principles
+02/07/20
+
+In this session
+How the laser cutter works
+The different parts of the laser cutter
+Theory of operation of the laser cutter
+
+Specification of our lasers
+Makespace has two lasers (Jaws and Betsy) and they are both Laserscript LS6090 PRO’s (manufacturers website)
+The cutting bed is 900x600 mm, with an optional infeed to allow longer material to be mounted.
+They use a 60 W, water cooled, CO2 laser tube capable of cutting and engraving wood and plastics up to 15 mm thick.
+The bed is height adjustable to accommodate materials up to 230 mm tall.
+
+The Laser Cutters and their Support Systems
+Block diagram of the laser cutter, chiller, extraction, PC etc
+Air Extractor
+(in trove)
+Water Chiller
+20.1
+*Note: The laser beam is invisible
+Compressor
+(in trove)
+
+A laser tube is a sealed tube which uses high AC voltages to excite CO2 gas to higher energy levels, in turn creating light which can be used by the laser.
+The amplification occurs due to two mirrors (one reflective and one partially reflective). The light bounces off these mirrors until the light has enough intensity to pass through the partially reflective mirror as the laser output.
+
+
+How the Laser Tube Works
+C
+CO2
+Cold Water In
+Hot Water Out
+Fully Reflective Mirror
+Partially Reflective Mirror
+Laser Output
+AC PSU
+One of the products of creating the laser light is heat. This needs to be dealt with and, in our case, the tube is water cooled. Cold water enters a glass water cooling “jacket” and leaves as hot water where is is taken to the chiller to be cooled down again.
+Cooling is very important to maintain the lifetime of the laser tube.
+Water Cooling “Jacket”
+
+The Laser Motion System
+The reason the laser can be so fast is the fact that the laser “head” is very lightweight.
+Unlike a 3D printer, which has all the hot end mass to move around, the laser cutter only moves a focus lens (1) and a reflecting mirror (2).
+The laser light itself is routed from the tube (5) to the “head” via 2 reflecting mirrors (3) & (4).
+
+Mechanics of Laser CuttingFocus
+Material
+Reflecting Mirror
+Focus Lens
+Focus Point
+Focal Length(41mm)
+LaserOutput
+Up until now the laser output has been collimated (i.e. all going in the same direction); but this won’t cut wood or plastic.
+To do this the laser is focused to a point using a focus lens, which brings all the laser light to one point at what is called the focal length.
+In our lasers this focal length is 41mm and this is where the top surface of the material to be cut should be placed.
+
+Mechanics of Laser CuttingMaterial Removal & Kerf
+During laser cutting, material is physically removed to create the cut.
+Despite doing our best to focus the laser, it is not possible to have the focal point as an infinitesimally small point.
+Instead the focal point will be circular, which results in what is called kerf. This is a gap caused by the cutting itself.
+If the intention is for the laser cut parts to join together for a tight fit (e.g. a jigsaw, laser cut box), kerf will need to be compensated for within the design.
+LaserOutput
+Focus Point
+Material
+Material
+Kerf
+
+Mechanics of Laser CuttingEffect of Focus on Cut Quality
+Even if the focus is perfectly aligned with the top of the material, the thicker it is, the more likely the edges will be sloped due to the defocussing of the laser below the focal point.
+Also it is only possible to set one focal length. So if the material is not flat at the cutting surface, the focus (and therefore cut quality) will vary across the material.
+After setting the focus, if it is way too close or too far away, the laser will likely fail to cut the material at all.
+If, however, it is only slightly wrong, you can get a wide, shallow kerf with issues in the corners of the vectors.
+Focus set way too close or too far awayLaser won’t cut or engrave
+Focus set just too close or too far awayWide, shallow kerf
+Sloped Cut
+Material
+Good Cut Quality
+Focus
+Poor Cut Quality
+
+Mechanics of Laser CuttingCutting Vs. Engraving
+There are 3 primary types of operation the lasers can do
+Full Cut - used to cut all the way through the material. Often used at the end of a job to cut the outline.
+Partial Cut - Similar to full cut but only cuts a percentage of the way through. Gives a fine line which can be good for fonts.
+Engraving - The laser “head” quickly raster scans across the material while turning the laser on and off to engrave the top surface of the material with a pattern. Great for putting graphics or photographs onto material. Depth of etch can be varied but not the same extent as full or partial cut. Multiple passes can be used to generate grayscale images.
+Material
+Material
+Material
+Material
+Full Cut
+Partial Cut
+Engraving
+
+Vector files
+The laser cuts vectors
+
+“Normal” raster images are made ofpixels
+
+You will usually want to cut vector file formats on the laser.
+Inkscape, Adobe Illustrator, LibreCAD are vector drawing programs
+.dxf, .ai, .svg are vector file formats
+DXF is the most commonly used format for the Makespace laser cutters
+
+Raster files
+The laser cutter software can import raster files
+It will convert to black/white, and allow a raster engrave
+You will get more control by converting to vector in other software (e.g. Inkscape) first.
+
+Laser mode: “Cut”
+Line traced by the laser
+Control parameters:
+Speed
+Power
+Less speed and/or more power gives a deeper cut
+Can mark the surface, or cut right through
+
+Laser mode: “Engrave”
+Closed shape, “filled” by laser by scanning back and forth
+Control parameters:
+Speed, Power
+Scan Gap
+Less speed and/or more power gives a deeper cut
+Smaller scan gap makes a more dense fill
+Deep engraves can make “pockets”
+In wood, engraved areas tend to become darker

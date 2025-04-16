@@ -1,0 +1,42 @@
+Wood Lathe
+Example Projects – for ideas and inspiration
+
+Spindle turned items
+Honey dipper in beech
+Replacement finial for garage roof in oak
+Napkin rings in zebrawood
+Xmas decoration
+
+Spindle turned items
+Birch vase finished in beeswax
+Small lidded vase in zebrawood
+Pen holder in maple and beech
+Pepper pot in bubinga
+
+Faceplate turned items
+Lidded jar in Yew
+Spalted hornbeam bowl finished in food safe oil
+Yarn bowl in oak – oiled and waxed
+Large platter in ash
+
+Faceplate turned items
+Mortar and Pestle in Oak
+Natural edged bowl in spalted hornbeam
+Platter in walnut.  Edge engraved using CNC router and V router bit
+Bowl in yew showing ogee curved sides
+
+Other items
+Light pull in ash
+Pens in (from the left) lilacwood, rosewood, birds eye maple, resin, Corian, resin with embedded bark and another Corian
+Carved jar in Yew
+Tulip
+
+Other items
+Mug tree in oak
+Image
+Candle sticks
+Ring box in beech
+Ringed and lidded goblet in Yew
+
+Other items
+Bowl coloured and with gold gold leaf on outside.  Illuminated inside by ring of leds connected to Arduino nano in base and controlled using Bluetooth by Android app. 

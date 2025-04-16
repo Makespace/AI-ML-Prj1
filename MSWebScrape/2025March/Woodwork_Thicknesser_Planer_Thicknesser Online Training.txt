@@ -1,0 +1,278 @@
+Planer/Thicknesser
+Online Training
+
+Scope of the training
+These online materials are designed to get you ready to operate the Makespace planer/thicknesser.
+No prior knowledge of how to use a planer/thicknesser is assumed.
+If you already know how to use a planer/thicknesser, this material has been designed to get you up to speed with this machine quickly. Please be patient with the process and if you have any tips to improve this guide, let us know!
+This guide covers what all planer/thicknesser users need to know in Makespace.
+Note: Somewhat confusing a planer/thicknesser is called jointer/planer in north America. This means that planing can refer to 2 different operations being performed depending where the author is located. Keep this in mind if you are watching youtube videos on its use.  
+
+Learning objectives
+How the planer/thicknesser works
+How to use it safely
+How to check the condition of the machine so it is safe and cuts well
+What Personal Protective Equipment (PPE) is needed and why
+How to inspect the planer/thicknesser before use
+How to set up the planer/thicknesser to achieve a square board on all 4 sides
+How to operate the planer/thicknesser
+Cleaning-up up after use
+
+This training material gives you a complete overview of the knowledge we expect all users to be familiar with.
+It also gives tips and suggestions on how to get good results.
+You need to complete the planer/thicknesser quiz, and the MakeSpace general safety quiz when ready.
+Once you have passed the quizzes, you can arrange to have in-person assessment. Only once you have been shown person-to-person can you use the planer/thicknesser.
+What you need to do 
+
+planer/thicknesser
+Safety 
+
+Personal Protective Equipment
+Risk of flying debris; Eye protection REQUIRED
+Loud noise; Ear protection REQUIRED
+Dust hazard; Dust dust mask recommended at all times and REQUIRED when cutting Irritant Wood 
+Tangle hazard; Long hair MUST be tied back
+Do not wear gloves. Tie back long hair.
+No long sleeves, jewelry or dangling items
+
+Safety Precautions
+Caution: Sharp blade
+Inform others in the workshop that they should also use PPE
+
+planer/thicknesser safety: Setup
+Before commencing any work with the machine, inspect it to ensure that it is complete and in technically good condition
+Ensure the electrical isolation switch is turned off at all times except when cutting
+Ensure that there is sufficient space to work around the machine;
+Keep the work area orderly and clean. Components and tools that are not put in their correct place or put away may be the cause of accidents!
+Do not use for workpieces that might contain foreign matter (nails, screws) 
+Keep tools for handling short and narrow workpieces close at hand (e.g.: pushing stick, push blocks)
+
+Planer safety: Permitted Operations
+Only the following working techniques are permitted with the planer unit:
+Planing the wide side of a single workpiece
+Jointing the narrow side of a single workpiece    
+All other working techniques, including the following, are absolutely forbidden:
+Thicknessing several workpieces of varying thicknesses simultaneously 
+Down-cut planing (direction of cutterblock rotation is the same as feed direction)
+Insertion cuts (the workpiece is not worked over its entire length)
+Planing workpieces that are very warped and cannot be balanced safely on planer tables      
+Rabbet planing at the end of the cutterblock
+Bevelling the narrow side of a single workpiece    
+Chamfering the edges of a workpiece
+
+Planer safety: Permitted Materials
+
+Only solid timber can be used with this machine
+Do not use boards shorter than 250mm
+When surface planing do not use boards thicker than 75mm
+Pieces longer than 1500mm aren’t safely supported by the tables alone and therefore can only be used with additional infeed and outfeed supports
+The width of the board should not be over 310mm
+The board should be no thinner than 10mm when using the machine as a planer as there is a risk for it to break/split while planing if depth of cut is too large 
+The board should be no thinner than 4mm when the machine is used as a thicknesser
+The workpiece should be no thicker than 250mm when the machine is used as a thicknesser
+Man made boards such as plywood, MDF, chipboard must never be used
+No metal or plastics are to be used with this machine 
+
+Additional resources:
+
+planer/thicknesser
+Preparation, Set-up, and Operation
+
+
+Power Connection
+This machine uses 3 phase current, it is connected by the large red plug on the right hand end of the machine, which should be left connected.
+There is a round red isolator switch which should be set to OFF except when running the machine.
+There is a pair of red and green buttons on the front of the machine which stop and start the machine.
+
+Preparing to use the planer - summary
+Before powering the machine up ensure that:
+There is sufficient unobstructed space to work around the machine.
+The tables are empty. 
+Check that the chip extraction system is connected, that the gates for the planer are open, that all other gates are closed and turn it on. 
+Check that the overhead dust extractors are on, the remote controller lives in a pocket on the power sockets hanging over the workbench.
+Check the combination fence is at 90 degrees, is set to the workpiece width and is locked.
+Adjust the bridge guard approx. 2 mm above the workpiece;
+Place the workpiece against the planer fence and push it slightly under the guard rail (not over the cutterblock!).
+Loosen the clamping screw.
+Move the guard rail right up to the planer fence.
+Tighten the clamping screw.
+Adjust the depth of cut to no more than 1mm.
+
+
+Chip Extraction
+Use of the chip extraction system is required for this equipment.
+Make sure the blast shutter for all equipment being used is open and that all other blast shutters are closed.
+Switch on the extraction system by pressing the green button, if the machine does not start check that the red stop button is not latched, twist ¼ turn to release it if necessary.
+Remember to switch off when you are finished and if the bag is full please empty it.
+There is no one to clear up after you except other members.
+
+
+Overhead Dust Extraction
+When doing anything which generates dust or chips, including any machine tool which requires chip extraction or hand sanding, the overhead dust extractors MUST be used.
+This removes harmful dust from the air which would otherwise be breathed in by anyone in the secure workshop.
+The remote controller for the overhead extractors lives in a pocket on the power sockets hanging over the workbench.
+Press the ON/SPEED button once, check that both extractors start.
+Remember to switch them off when you are finished.
+If the sign on the extractors indicates that the filters need changing, please change them and update the sign. There is no one to do this for you except other members.
+
+Adjusting the combination fence 
+Unscrew the rear cutterblock cover 
+Unscrew the planner fence locking bolt
+Using both hands move the fence back/forth to match the width of your piece 
+Tighten everything securely once finished
+
+Check that fence is at 90 degrees to the table
+Using an engineer square check that fence is at exact 90 degrees to the table
+If an adjustment is needed release the lever at the back and tilt the fence until the desired angle is achieved
+
+Adjust the bridge guard
+Use the setscrew to fix the guard rail approx.  2 mm over the workpiece
+Place the workpiece against the planer fence and push it slightly under the guard rail (not over the cutterblock!)
+Move the guard rail right up to the planer fence
+Tighten the clamping screw
+
+Correctly adjusted bridge guard
+
+Adjust the depth of cut
+The depth of cut is adjusted with the adjustment lever on the feeder side of the planner table
+Take firm hold of the lever and move it up/down until the desired value has been achieved on the scale
+The picture shows a depth of 0.5mm
+Note: The maximum depth of cut is directly related to the following factors:
+Panel width 
+Type of wood (hardwood or softwood)
+Wood dampness
+Feed rate     
+For safety reasons never set this at more than 1mm (the first long line on the scale) at Makespace. 
+
+
+Grain direction
+When surface planing, you have to read the grain for the correct direction to feed the stock to avoid tear-out. 
+As shown opposite feeding stock with the grain running "downhill" from the outfeed table and away from the knife's rotation produces the best results. 
+If grain runs in several directions, position the board so that most of it runs in that direction. 
+End grain should never be planed because the knives will shatter any unsupported portion of it.
+
+Surface planing 
+Once the above steps are completed you are ready to start surface planing
+Surface planing evens out irregular workpiece surfaces
+The workpieces are guided over the cutterblock and only their underside is machined
+The direction of the cutter block rotation is opposite to the feed direction of the workpiece
+Ensure the chip extractor and overhead dust extractors are on
+Switch the isolator to ON and start the machine, do NOT switch the isolator to ON until you are ready to begin cutting.
+Take the position shown in the opposite picture when working with the machine
+
+
+Machining the workpiece
+Use the push pads provided to hold the workpiece on infeed table
+Push the workpiece straight over the feeder-side of the planer table.
+As soon as possible, move one hand then the other to push on the workpiece on the receiver side of the planer table, without touching the bridge guard.
+Repeat the process until you achieve a clean and flat wooden surface
+Turn the machine off
+
+Correct hands positioning. Fingers are place safely away from rotating cutters
+
+Preparation for edge jointing 
+Once you have achieved a clean and flat surface your next step will be to obtain a 90 flat edge in relation to it;
+Check the planer fence is at 90 degrees if you haven’t done so
+Adjust the bridge guard
+Loosen the clamping screw.
+Pull out the guard rail. (somewhat more than the width of the workpiece)
+Place the workpiece against the planer fence and push it to the front edge of the feeder planer table (not over the cutterblock)
+Bring the guard rail right up to the workpiece
+Tighten the clamping screw.
+Use the setscrew to lower the guard rail to the planer table
+Clean and flat wood surface ready for edge jointing
+
+Machining an edge 
+Switch the machine on
+Take up work position
+With your left hand (using a push pad), press the previously machined surface against the combination fence and the receiver-side of the planer table
+With your right hand (using a push pad), push the workpiece smoothly over the cutterblock
+Continue the process until a perfectly 90 degree joint is achieved
+Switch off the machine once you are done
+Note: When edge jointing pressure should be placed so that the piece lays flat against the fence not the bed of the planer. Place fingers safely away from the planer table.
+
+Preparation for thicknessing
+Workpieces that already have a planed surface can be made thinner by being thicknessed. 
+The workpiece lies with its planed surface on the thicknessing table, and only the upper side is machined.
+Before being able to thickness pieces on the planer/thicknesser the machine needs to be retooled from a planer to a thicknesser 
+Isolate the machine from the power supply
+The machine needs to be pulled away from the workbenches behind to ensure there is enough clearance for the rear cutterblock cover to rotate 
+
+Retooling from planer to thicknesser 
+Ensure the power isolator is in the OFF position.
+Move bridge guard out of the way and push the planer fence to the front of the table. 
+Loosen and pull out the clamping levers
+Open the planer table
+Ensure that the fall lock engages correctly.
+3
+4
+5
+2
+1
+
+Retooling from planer to thicknesser 
+Tilt up the vacuum hood taking hold of the extractor connector to avoid damage to the extraction pipe
+Ensure the extraction hood slots into place correctly
+Ensure the vacuum hose remains connected and it isn’t blocking the outfeed
+Check the kick back guards are clean and are moving freely
+
+
+Preparing to use the thicknesser
+Once the previous steps have been completed the machine can now be used as a thicknesser;
+Measure your piece at several points and take note of the highest value
+Release the clamping lever by turning it anticlockwise
+Adjust the thicknessing height to be <1mm below your highest measurement.    
+Use the system handwheel to set the desired measurement, 1 full turn is equivalent to 2mm. 
+Clamp the clamping lever by rotating it clockwise
+Switch the machine on (and ensure dust extraction is on)
+Lift and then release the gear lever
+
+1
+1
+2
+3/4
+5
+7
+
+Machining the workpiece to final thickness
+Take up work position for thicknessing
+Place the workpiece so it lies with its planed surface on the thicknessing table;
+Note the woodgrain and orient it so it is climbing away from the bed;
+Push the workpiece into the machine until it is pulled in by the feed rollers;
+When the workpiece exits on the other side, support it if needed so it does not tip down
+Repeat adjustment steps 2-5 from the previous slide until you reach your desired final thickness, taking note not to remove more than 1mm with each pass
+Switch off the machine
+Set the gear lever to the “0” setting
+
+2
+3/4
+5
+7
+
+Retooling from thicknesser to planer
+Ensure the power isolator is OFF
+Loosen the clamping lever by turning it anticlockwise
+Using the system handwheel, position the thicknessing table at least 200 mm below the cutterblock
+Tighten the clamping lever by turning it clockwise
+Tilt the vacuum hood downwards to the the left  side until it rests in place.
+Release the fall lock and tilt the planer tables to you
+Once table is down and engaged press the clamping levers inwards and lock it in place
+
+Cleaning up after use 
+Makespace is a shared community space with no paid staff, that means it is your responsibility to keep the space clean 
+Ensure that machine is left in a safe state with all guards in place and the mains isolator OFF
+Turn off the chip and dust extractors.
+Vacuum any wood chips that may have escaped the extraction system on the planer tables, thicknessing bed
+Move the machine back so it is tight against the workbench behind and out of the way of other users 
+Vacuum any chips that were previously covered by the machine 
+
+Recap
+We have covered:
+Required PPE when using the machine
+Permitted operations and materials when using the machine 
+How to safely setup the workspace before using the machine 
+How to setup and use the machine in planer mode to machine a reference surface and reference edge
+How to retool the machine from planer to thicknesser
+How to setup and safely use the thicknesser 
+How to retool the machine from thicknesser to planer 
+How to clean the workspace once you have finished using the machine 

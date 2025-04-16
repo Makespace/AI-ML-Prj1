@@ -1,0 +1,123 @@
+Chemical safety
+
+Chemical safety at BioMakespace
+Responsibility for chemical safety
+Procedure and practices to ensure safe working with Chemicals
+What is prohibited in BioMakespace
+Storage of chemicals in BioMakespace
+Disposal of chemicals and chemical waste
+
+
+Contents of this section
+
+Biomakespace recognises the risks of buying, storing, using, reacting and disposing of chemicals.  This training covers our ethos and responsibilities and sets out procedures to minimise the health and environmental risks related to use, storage and discarding chemicals.
+
+All chemicals have some degree of risk attached to their use and it is important before any work is started that a careful investigation is made into the nature and the reaction of the chemicals in use in order to determine whether a hazardous situation could develop.  The aim is to protect people against the risks to their health, that of others and the environment whether immediate or delayed. If the risk assessment indicates a risk then the hazard must be prevented or controlled and the necessary controls must be properly used and adequately maintained.
+
+Preventing exposure to chemicals in the laboratory can be achieved by using good laboratory technique, sound equipment and also by paying careful attention to personal hygiene. 
+
+Chemicals may only be used by individuals with a sufficient level of training and competence and/or with an appropriate level of supervision for the chemicals being used and the tasks being undertaken.
+
+Chemical safety at BioMakespace
+
+
+Responsibilities
+
+The Directors of Biomakespace Ltd are ultimately responsible for Safety; they appoint the Safety Officer who will oversee matters of Chemical Safety. 
+
+If the Safety Officer is unsure they will seek further consultation and advice from the biochemical safety officer of the clinical school, the chemical safety committee at the University of Cambridge or other those experienced in the risk they are assessing.
+
+The directors and safety officer will be assessing the chemical safety of your project proposal. You can seek their advice and guidance when preparing your project proposal, COSHH and risk assessments.
+Responsibilities for BioMakespace
+
+Each individual in the laboratory is responsible for his or her own safety and for the safety of others affected by their work.
+
+The BioMakespace committee cannot oversee or supervise operations all the time. Under these conditions, any inconsiderate user can endanger his or her own as well as other’s safety. A majority of problems, incidents and violations in the laboratory are the result of haste. Therefore, individuals should not complete lab work if they do not have time to do things correctly and safely.
+Biomakespace members should observe the behaviour of others and call out the violations of the safety guidelines to the offender and report to the Biomakespace directors. Our ability to provide lab facilities depends on maintaining a safe working environment.
+Chemical safety responsibilities for individuals
+
+
+Procedure to ensure safe working with Chemicals
+
+Before working with chemicals in BioMakespace, you need to: 
+Obtain the Safety Data Sheet (SDS) from the Manufacturers and suppliers to identify the potential hazards - this will help with COSHH and Risk assessments.
+Provide a COSHH assessment - highlighting hazards and risks of all chemicals you use in the labs (for specific chemical information, see BMS15). 
+Submit a risk assessment including the chemical safety of the procedures in your project.
+These documents need to be submitted together with your project proposal to the safety officer for approval, via bio-committee@makespace.org.
+The purpose of the COSHH and risk assessments is to enable a decision to be made about what measures need to be taken to prevent, control or reduce exposure to hazardous substances, or to prevent dangerous situations from occurring or arising from the activity.
+If you’re not sure about any chemical you plan to use, please consult the Chemical Safety Officer.
+Before commencing work, make sure you understand the information and instructions arising from the risk assessment and the implications of any Workplace Exposure Limits (WELs). 
+
+
+
+
+Preparation for safe working with chemicals
+
+Do not attempt to use an unfamiliar experimental technique without having first gained further information, and if necessary, have it demonstrated to you. If in doubt, ask. 
+
+Follow the protocols approved by the Safety Officer at the start of your project.
+
+Substitution with safer substances should always be considered – always use the least toxic, least flammable chemical compatible with the procedure.
+Biomakespace has a re-circulating air Fumehood. Verify that the chemicals you plan to use are compatible with the filters in the fumehood (HEPA filter and basic Carbon for acids filter)
+
+The scale of any experimental procedure should be as small as is reasonably practicable. Scaling-up should not be undertaken without reassessing the risks. 
+
+Emergency instructions should be displayed adjacent to any unattended work. Work that requires personal control should never be left unattended. 
+
+Work that is to continue unattended overnight must be authorised by the Safety Officer.
+General safe working practices
+
+Clean, fastened laboratory coats (fastened) must be worn in laboratories. Laboratory coats must not be worn outside the labs
+
+Wear closed toe shoes 
+
+Eye protection (safety glasses) must be worn in the laboratory where the risk assessment indicates their use or in areas where the handling of chemicals is the predominant work  Safety glasses to British Standard (BS166) must be worn whenever handling hazardous chemical liquids. 
+
+Ordinary spectacles do not provide adequate protection! Safety glasses can be found in the stations located by the door of each lab.
+
+Long hair should be tied back at all times in the laboratory. 
+
+Appropriate gloves should be worn when handling substances that may be absorbed through the skin or that are corrosive, harmful, irritant or otherwise damaging to the skin. 
+
+Gloves should be checked before use for punctures, tears etc. and should be replaced periodically. Do not wear gloves outside the laboratory. Disposable single-use gloves are must not be reused. 
+
+Personal Protection Equipment (PPE)
+
+
+Any substance or activity requiring total enclosure of the process, i.e. isolation of the hazardous substance from the user, e.g. the use of glove boxes, cytotoxic isolator etc. is prohibited
+
+Any chemical that is so toxic that the SDS suggests provision of an antidote in the workplace is prohibited in the Biomakespace. 
+
+Biomakespace will not approve experiments using radioactivity, and therefore radioactive reagents and equipment should not be brought on to the premises
+
+Bringing or synthesising highly reactive or explosive materials in the lab is prohibited. 
+
+What chemicals are prohibited?
+
+
+Storage and disposal of chemicals and chemical waste
+
+No chemical can be stored or used in Biomakespace without an SDS being obtained and filled in:
+the Google Drive Chemicals Register, which is accessible to all members;
+the physical SDS folder in the lab, ordered alphabetically by chemical;
+The Biomakespace Safety Committee periodically updates the ChemInventory online system which is used for inventory checks and printing barcode labels.
+Only keep the minimum stock of substances necessary for the work at hand in the laboratory (must be <50L). Work with minimal volumes required on the bench.
+Chemicals not in use should be returned promptly to their correct storage enclosures/cabinets.
+Light sensitive substances (e.g. chlorinated solvents) should be stored in amber-coloured bottles away from the light.
+Liquids or heavy containers/equipment should not be stored above average chest height if in frequent use. This is acceptable for occasionally used equipment or long term storage and users should follow good manual handling practice in retrieving the item. 
+Do not store chemically incompatible substances together, e.g. acids and cyanides; oxidising agents (e.g. nitric acid) and organic chemicals (e.g. solvents or acetic acid). 
+Surplus chemicals that you no longer want must not accumulate in the labs - please either dispose of it, explicitly donate it to general members, or take it away (safely)! 
+
+Storage of chemicals in BioMakespace
+
+Flammable substances and solvents such as ethanol, acetic acid, ether must be stored in sealed containers in the designated grey cabinet in the main biology lab
+
+Flammable substances
+
+All your chemical waste must be adequately contained, clearly labelled and disposed of at the earliest opportunity. The appropriate waste route must be identified before work starts and agreed with the BioMakespace Safety Officer. 
+Where waste gives off vapours or fumes, the waste receptacle should be adequately ventilated.
+
+Chemical waste disposal should be requested by emailing bio-committee@makespace.org and record the name of the chemical(s) being disposed, the approximate quantity and ideally citing the relevant COSHH and MSDS sheets. Safety Data  can be found in the Yellow folders on back shelf of main lab
+
+Chemical waste (including out of date chemicals, any chemicals withdrawn from use, unwanted materials etc) are disposed of in accordance with the University of Cambridge’s “Disposal of Chemical Waste Policy and Guidance”. Please contact bio-committee if you have queries about disposing of chemicals
+Disposal of chemical waste

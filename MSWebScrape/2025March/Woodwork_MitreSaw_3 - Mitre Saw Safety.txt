@@ -1,0 +1,61 @@
+Mitre Saw
+Safety 
+
+How to use a mitre saw safely
+
+Personal Protective Equipment
+Safety glasses are mandatory
+Hearing protection is mandatory
+Dust mask recommended. Mandatory if cutting irritant woods and MDF
+Do not wear gloves when operating the mitre saw
+
+Mitre saw safety features
+Blade Guard
+Power trigger
+Blade arm release trigger
+Fence
+Built-in clamps
+
+Mitre saw safety: Setup
+Unplug machine before making adjustments to the saw.
+Check to make sure the saw table and surrounding area is clean and free of debris. 
+Particularly if cutting metal, make sure area is free of sawdust buildup.
+No loose clothing, no ties, no lanyards, no gloves. Tie back long hair.
+Plan your cut to minimize chances of kickback or offcuts being thrown by the blade. (Consider cutting with a handsaw if you cannot cut safely with the mitre saw.)
+When cutting mitres or bevels, ensure fence is clear of the blade (Do a “test run” without power to check where the blade will pass.)
+Check the correct blade is installed for your material.
+Check dust bag is not full. Remove and empty bag if necessary.
+Check that the overhead dust extractors are on, the remote controller lives in a pocket on the power sockets hanging over the workbench.
+
+
+Overhead Dust Extraction
+When doing anything which generates dust or chips, including any machine tool which requires chip extraction or hand sanding, the overhead dust extractors MUST be used.
+This removes harmful dust from the air which would otherwise be breathed in by anyone in the secure workshop.
+The remote controller for the overhead extractors lives in a pocket on the power sockets hanging over the workbench.
+Press the ON/SPEED button once, check that both extractors start.
+Remember to switch them off when you are finished.
+If the sign on the extractors indicates that the filters need changing, please change them and update the sign. There is no one to do this for you except other members.
+
+Mitre saw safety: Operation
+Check that both mitre handle and bevel lever are tightened, locking machine in position.
+Plug in machine.
+Without lowering arm, press power trigger to check blade is rotating freely. (Any abnormal noise or wobbling?)
+Stand with legs apart, close to the machine. Can use left or right hand to operate saw, free hand to stabilize workpiece. 
+Keep hands away from cutting area. Use clamps when appropriate.
+Wait for the blade to stop spinning before lifting it out of workpiece.
+Unplug machine when done cutting.
+Leave workspace clean & clear.
+If the blade breaks or teeth come off, turn off the machine, make a notice informing others it is out of action and contact workshop@makespace.org
+
+
+Ensure long pieces of timber are supported so they do not fall off table after being cut.
+When cutting small offcuts, consider using a backer board to prevent offcuts from bouncing around and potentially being thrown by blade. (example video)
+When cutting a small or irregularly shaped workpiece, use a jig to secure the piece. This will keep your fingers away from the blade and ensure the blade doesn’t throw loose pieces through the workshop. Consider using a handsaw if power mitre saw not necessary.
+
+Mitre saw safety: Additional checks & tips
+Use a safety jig to hold small or irregularly shaped workpieces
+
+Resources:
+For more safety details read the Mitre Saw Risk Assessment
+Evolution Rage3 DB user manual
+Makespace wiki pages

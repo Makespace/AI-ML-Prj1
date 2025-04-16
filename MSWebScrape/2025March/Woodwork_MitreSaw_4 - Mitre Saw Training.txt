@@ -1,0 +1,119 @@
+Mitre Saw
+Preparation, Set-up, and Operation
+
+
+Personal Protective Equipment (PPE)
+Goggles are required.
+Non safety glasses are usually made from brittle material and may not protect you from flying shrapnel.
+Other people working in the workshop space should also have eye protection if you are using this equipment.
+Hearing protection is required.
+Dust is hazardous so it is a good idea to wear a face mask, particularly for MDF and other especially toxic dusts.
+
+Prepare space to use the mitre saw
+Once you’ve got your PPE ready, and let others in the workshop know what you’re doing, follow these steps to set up the work area.
+Check that the mitre saw is unplugged at the wall socket: we’ll turn it on when ready to make a cut.
+Check that the mitre saw table and surrounding workbench are clean and clear of debris or previous offcuts.
+Ensure saw table and surrounding work area are clear.
+
+Inspect the mitre saw blade
+All trained users can set up the saw for straight, mitre, bevel, and compound cuts. Changing of the blade should be left to the owners.
+With power off, check the blade is securely installed and is the correct blade for your material. (The standard blade installed at makespace is multipurpose for cutting wood, plastics, aluminum, and steel up to 6mm thickness.)Visually inspect the blade for missing teeth or other defects. The arrow showing the direction of blade rotation should match the arrow on the blade housing.
+Keep the owners informed if you do find a problem, as this helps Makespace keep an eye on whether the saw is working optimally.
+With power off, check blade is securely installed & correct for material. Pull back blade cover to check for missing teeth or other defects.
+
+Mitre and bevel angles for different cuts
+For all cuts, you need to make sure the mitre and bevel angles are set how you want them.
+For straight cuts, both mitre and bevel angles are set at 0°.
+For mitre cuts, the bevel angle remains at 0° while the mitre angle is changed.
+For bevel cuts, the mitre angle remains at 0° while the bevel angle is changed.
+For compound cuts, both mitre and bevel angles are set as desired.
+
+straight cut			     mitre cut			bevel cut			compound cut
+
+Mitre and bevel angle adjustment controls 
+Mitre lock handle 
+Mitre angle stop locking lever
+Mitre angle scale
+Bevel angle scale
+Bevel lock lever
+Bevel angle locking pin
+
+Setting up a straight cut
+Check the bevel and mitre angles are both set at 0°. This should be the default setting the saw is left in.
+Ensure the the mitre lock handle and bevel lock lever are tightened.
+
+
+
+
+Adjusting the mitre angle
+Loosen the mitre lock handle (turn anticlockwise). 
+Squeeze the mitre angle stopping lever
+Move arm to desired angle. You can move the arm in either direction (L or R) depending on how you want to make your cut. 
+Check the angle on the mitre angle scale.
+Release the stopping lever and tighten the lock handle.
+When done, return the arm to the 0° position. 
+1
+2
+3
+4
+5
+
+Adjusting the bevel angle
+Loosen the bevel lock lever. 
+Pull out and rotate the bevel angle locking pin to hold it open.
+Tilt saw to desired angle.You can move the saw head in either direction (L or R) depending on how you want to make your cut. 
+Check angle on bevel angle scale.
+Return the locking pin to its normal position.
+Tighten the bevel lock lever.
+When done, return the saw to the 0° position. 
+1, 6
+3
+4
+2, 5
+
+Aligning your cut
+After setting your angles up as wanted, you are ready to align your cut:
+Place your workpiece against the fence and secure with clamps if needed.
+Pressing the arm release trigger, lower the saw blade to check it aligns with your mark.
+Check the fence will be clear of the blade and reposition if needed. This is particularly important to check when you have changed the bevel or mitre angle.
+If cutting a small or irregularly shaped workpiece, use a jig to hold it in place.
+If using a stopping block, ensure you will not have any material that could become jammed between the blade and stopping block, causing the saw to kick back.
+
+Cutting with the mitre saw
+Now you can turn the saw on!
+Turn on the power socket or plug in saw. 
+Pressing the arm release trigger (but not the power trigger), lower the saw blade and use the laser guide to check your alignment.
+When ready to cut, take secure stance. Ensure your hands are well away from the cutting area.
+Pull saw back along slides to its full extension.
+Press power trigger and let blade come up to full speed before lowering. 
+Pull release trigger to lower arm and plunge blade all the way down.
+Push saw *away* from you at a consistent speed through the workpiece.
+Allow blade to stop spinning completely before lifting out of workpiece.
+When done cutting, clean the saw table and work area of any offcuts or debris. Reset the saw to the 0° position for both mitre and bevel angles. 
+
+
+Cut basics: what is kerf?
+“Kerf” is the width of the cut
+What is kerf and how wide it really is, is a little bit more subtle than first meets the eye.
+Understanding kerf lets you properly predict the sizes of your cuts. 
+The kerf of a mitre saw blade is significantly wider than that of the bandsaw blade. You will need to account for this and make sure to align your cut with the blade on the waste edge of your mark.
+This is not required information for using the mitre saw but it will improve the quality of your work.
+FENCE
+SAW BLADE
+Cutting action
+KERF
+
+Anatomy of a saw blade
+The kerf is determined by two things: The width of the blade teeth, and their “set” or “tooth set”.
+The “set” is where the teeth are angled outwards, usually on both sides in a special pattern.
+This means the cut width, the kerf, is wider than the blade which is good because the cut needs to be wide enough for the blade to pass through!
+Narrow set makes for a finer cut but a less efficient sawing action.
+
+Recap of the training
+We have covered:
+How to set-up and inspect the mitre saw
+Cleaning and resetting the mitre saw after use
+Safety while operating the saw
+Setting the mitre and bevel angles
+Aligning your cut
+Cutting with the mitre saw

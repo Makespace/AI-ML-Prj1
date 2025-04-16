@@ -1,0 +1,26 @@
+Scope and Objectives of the training
+Scope:
+This training covers basic safe use of the Roland MDX 40 Model Mill, which is RED LABEL equipment (induction required) situated in the Makespace Main Room.
+Objectives:
+How to use the MDX 40 safely
+How to set up the MDX 40 
+Selecting Milling Bits and fitting them to the Spindle
+Attaching work piece to the base plate and setting X, Y and Z co-ordinates
+Levelling the work piece
+How to perform simple 2D engraving
+Introduction to Feed Rates and Spindle Speeds (“Feeds and Speeds”)
+Simple engraving in foam using Vectric V-Carve Pro
+How to clean the MDX 40 after use
+
+
+
+Training: What is expected of you
+The Roland MDX 40 Model Mill is designed to be easy to use, and is an excellent introduction to CNC machining. However, it requires an understanding of milling principles and safety, as well as familiarity with several software packages and the hardware platform itself. 
+You are expected to:
+Have a project in mind BEFORE you start the training
+READ this document, including ALL of the linked videos and documents, AND read the Model Mill page on the Makespace Wiki – expect to commit ~ 4 hours to this if you new to CNC machining
+COMPLETE the online safety assessment BEFORE you book a live Induction session
+BOOK a live Induction session at which you will:
+Demonstrate basic knowledge learnt in 1) and 2) above – IF THE INSTRUCTOR FEELS YOU HAVEN’T , YOU WILL BE ASKED TO RETURN TO STAGE (1) ABOVE
+Complete a practical induction to the Model Mill, including safety, machine set-up and simple 2D engraving
+PRACTICE on the machine as soon as possible after you have finished the training – ideally within a week - expect to commit ~ 4 hours to this if you are new to CNC machining

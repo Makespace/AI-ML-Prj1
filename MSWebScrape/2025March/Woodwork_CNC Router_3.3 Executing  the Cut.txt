@@ -1,0 +1,41 @@
+CNC Router Operation
+Executing  the Cut   
+Set up the CNC
+Create the Tool path 
+Cut the workpiece  
+Clean up   
+https://equipment.makespace.org/cnc-router
+
+Execute the cut 
+Load G Code (tap file)
+Insert USB stick in extension socket on the pendant 
+Press <Menu>, white button in upper left 
+8 or 2 (Up or down) to select file then <OK> button to confirm and load file
+Confirm file name at top of screen 
+Press origin, then <OK>  to Confirm spindle is at origin 
+
+Ensure the are no loose objects on the bed. Start the Dust Extractor  
+Press the green button on the dust extractor on the opposite wall of the workshop (Ensure the Emergency cut off is pulled out) 
+Open the baffle for the CNC Router,  close other baffles not in use 
+
+ 
+
+Run the cut 
+Ensure you are wearing your safety glasses and hearing protection.
+
+Start spindle 
+Close door on hood
+Confirm the CNC router emergency  stop is out (On front of CNC)
+Set spindle frequency using the up or down arrows on controller 
+Press run (green button)
+
+Press the <Run> button. 
+
+Keep finger near the <Pause> button and be prepared to hit the emergency stop.
+
+Monitor the cut at all times.
+Watch for the tools coming close to the screws.
+Ensure the workpiece remains secure on the bed.
+Press <Pause> If the cut needs to be stopped temporarily in order to remove loose material.    
+
+

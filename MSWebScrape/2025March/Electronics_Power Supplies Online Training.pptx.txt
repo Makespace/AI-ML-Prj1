@@ -1,0 +1,119 @@
+Power Supplies
+Online Training
+
+Scope
+These online materials are designed to get you ready to operate the Makespace power supplies and familarise yourself with the basic operating procedure.
+No prior knowledge of how to use the power supplies are assumed.
+If you already know how to use a power supply, this material has been designed to get you up to speed use of the Makespace units quickly. 
+This guide covers what all power supply users need to know in Makespace. For those who need it, some adhoc inperson training may be available. 
+Contact: electronics-owners@makespace.org 
+
+
+Learning Objectives
+What a lab power supply is used for
+Safe use of the MS power supplies
+
+Power Supply Uses
+A lab power supply is used to power electrical / electrical circuits at a constant voltage or current. 
+It has adjustable current / voltage controls and a readout to display the current and voltage, so you can see what is happening.
+
+Safety Risks & Mitigation
+Risks
+Mitigation
+Electrical Shock / Fire / Burns - Due to damaged cabling, faulty equipment, poor earthing etc.
+
+
+
+
+
+Equipment should be visually inspected before use to check for faults including: loose / missing / damaged parts on the unit and, damaged cabling and plugs. 
+Faults should be reported with the Trouble Ticket form (on the Equipment page). Dangerous faults should be reported to the group and Management and the item labelled ‘Faulty: Do not use’. 
+All electrical items should be switched off after use.
+Emergency stop isolation switches (on the wall) can be used to isolate the electrical power in an emergency. 
+
+Power Supply Operation
+The basic operating procedure for the TTI EL302RT power supply is covered on the next slides. The other power supplies are operated in a similar manner but there are some variations in operation which have been highlighted. 
+It is advisable to disable the power supply output and set the current & voltage limits before connecting the load to reduce the risk of damaging parts. 
+
+First, visually inspect the unit and cabling to check for faults before switching on. 
+Connect the load to be powered using test leads to the output. 
+Disable the output (enable buttons). 
+Depress the power switch on the front left hand side of the unit to power on.
+ 
+EL302RT - Power On
+Power switch 
+Output enable
+Output 1
+Output 2
+
+Voltage limit
+Current limit
+Voltage limit
+Current limit
+Set the voltage limit using the course and fine controls (30 V, 2 A max). 
+Set the current limit using the current limit control. 
+Enable the output by depressing the enable switch. 
+The display will show the measured current and voltage and LEDs will indicate if the constant current limit has been reached.
+EL302RT - Limit Setting
+Output 2
+Output 1
+Output enable
+Voltage
+Current
+Voltage
+Current
+
+Disable the output (push button on lower right).
+Connect the load to the aux output. 
+Display the voltage by pressing the push switch (bottom right of the output terminals). 
+Set the voltage (1.5 V - 5 V) using the voltage level control (top right of the output terminals). 
+Enable the output. 
+EL302RT - Auxiliary (Aux) Output
+Voltage level
+Aux Output
+Display
+Enable
+Voltage
+Current
+
+Tenma 72-8695 Operation
+
+Triple output (32V, 3 A max). 
+5 V, 2 A auxiliary supply. 
+Current & voltage limits set using rotary controls.  
+The MEASURE button is used to display the measured current or voltage. 
+The current limit can only be set  when the unit is loaded.  
+No separate enable buttons for the outputs. 
+5V fixed
+IV measure
+Voltage limit
+Current limits
+Power
+Output 1
+Output 2
+Voltage limit
+Current / voltage display
+
+CS1530S Operation
+Single output (30V, 4 A max). 
+Current & voltage limits set using rotary controls.  
+Single power switch (no separate output enable). 
+The current limit can only be set  when the unit is loaded.  
+Current limits
+Voltage limits
+Power switch
+Current display
+Voltage display
+Output & ground
+
+M Unit Operation
+Single output (20 V, 5 A max).
+Current & voltage limits set using rotary controls.  
+Main power switch on the back of the unit. Separate output enable button on the front. 
+The current limit can only be set  when the unit is loaded.  
+Current limit
+Voltage limit
+Output enable
+Output & ground
+Voltage display
+Current display

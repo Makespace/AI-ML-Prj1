@@ -1,0 +1,45 @@
+Consumables, reagents and storage
+
+BioMakespace is a shared space, and we work to allocate space fairly across our different projects. We can keep objects at the following temperatures:
+Room temperature in named project boxes (shelving in biolab, tissue culture lab, maker lab)
+4°C fridge, -20°C, and - 80°C freezers
+If you’re new to the space and have not yet been allocated a project box, please use the shelving areas, fridge space and freezer boxes labelled ‘For New Members’.
+We recommend not buying in large quantities of consumables (e.g. pipette tips, falcon tubes, plates) that can otherwise be purchased from BioMakespace communal stocks, unless you are prepared to store the bulk of these away from the lab.
+Please speak to a committee member or contact bio-committee@makespace.org if you have specific storage needs, and make sure to fill out any storage requirements in your project proposal.
+Storage
+
+All commonly-used facilities and equipment are included with Makespace membership, along with lab coats, disposable gloves, use of safety glasses and common cleaning products.
+Makespace has a range of communal stocks, and members can purchase these.  We have an on-site (in the labs) paying system - using our iZettle card machine. You can find various items on the system  like tips, LB etc  If the system is down -  can biolab users please keep a record of what and how many items of the communal stock you are using and send a monthly update to .bio-committee@makespace.org
+This is based on a trust and honesty based approach and is important way the community operates. If members don’t pay and/or don’t notify when stocks are low - this negatively affects other lab users. Please do your part for the community
+If you have questions about accessing specific stocks or want to suggest that we stock something new, contact orders@biomake.space  cc-ing bio-committee@makespace.org  
+
+
+Purchasing communal stocks
+
+Communal stocks
+
+Some projects may require specialist consumables (e.g. CO2 gas canisters), which are communally funded by sharing the cost across users. The cost of this will be discussed during your project application.
+Arrangements between multiple members
+If you need a small amount of materials that you cannot buy except in bulk, let people know in our Lab chat channel on Mattermost, as you may find other projects need the same item and you can split the cost.
+
+
+Purchasing- cnt’d
+
+For Makespace members who belong to a registered Company
+Please set up a company account with the supplier and order directly. 
+This does take some time, so please make sure that you do this in a timely manner. There may be a situation where you need a product while the process of setting an account has not yet been completed - in this situation, Makespace can help you out and order the item(s). Please be aware that this is not a service that Makespace offers. 
+For individual members, it may be difficult to buy biological and chemical supplies from major manufacturers. We  have accounts with several suppliers that you can ask us to use on your behalf.  See next slide
+Before you place an order - check that it is listed in your approved project plan - if not, you need to submit COSHH, and new RA, updated project plan for approval to the safety committee. 
+For all orders made by members - you need to forward the order to bio-safety@makespace.org as soon as it is ordered. This is so the Safety team can check that everything has been risk assessed.  Unapproved items will have to be cancelled or the member has to receive/pick it up and store off site until approval has been obtained. Failing to do so will result in sanctions - which include removing access to the labs of the member
+Don’t forget to add the new chemical/reagent to the Biomakespace chemicals register https://docs.google.com/spreadsheets/d/1BCUkbVzMoet0-VnuZtkh0Zqksk9Q1kEwFyt0I9ubVpU/edit#gid=0 
+Ordering supplies
+
+If ordering through us, please keep in mind that:
+All requests for reagents need to be submitted clearly in writing, with a link to the item to be purchased, to orders@biomake.space  cc-ing bio-committee@makespace.org along with a cut-off date by which you need the items to be ordered. Please note that we’re not  able to ensure orders are made  at short notice because we’re all volunteers with day jobs.
+There is a £300 cap on the total value ordered, except by special arrangement and pre-payment to BMS. £300 includes postage and VAT payable.
+Payment needs to be made to the Biomakespace bank account before supplies are handed over.
+We charge an admin fee that varies with order volume and volunteer time taken, which will be confirmed with you before an order is placed.
+It may be possible to order from a supplier outside our list, however there will be an extra admin fee to get set up with the supplier.
+If you are storing your new supplies in the space, please make sure you log any chemicals, biological materials in our inventory systems after they arrive, and store them in your project storage space.
+(Note: We are not part of the University of Cambridge procurement system.)
+Ordering supplies

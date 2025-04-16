@@ -1,0 +1,55 @@
+CNC Router Operation
+Creating the Tool Path 
+Set up the CNC
+Create the Tool path 
+Cut the workpiece  
+Clean up   
+https://equipment.makespace.org/cnc-router
+
+CNC Model Mill Prerequisite 
+The CNC Router and the CNC Model Mill use the same tool path creation software. In order to ensure a complete understanding and safe operation of both items of equipment, you must complete the CNC Model Mill course prior to completing this course.  
+The CNC Model Mill course can be found here: 
+https://classroom.google.com/u/2/c/MTIxMzI2MTc5ODY0
+Once you have completed that course, both the online and practical portions,  please return here and complete this course. 
+
+CNC Specification 
+Capacity: 1200 x 1200 x 120mm
+Rate (X,Y):	 6000mm/min (Max) 5000mm/min (Working)
+Rate (Z):	 30mm/sec
+Spindle Speed:	4500 to 24000rpm
+Mechanical Precision:	0.01mm
+Spindle Power: 1.5KW Variable Speed, Water-cooled
+Tool Diameter: 3-12mm collets and 1/8", 1/4" and 1/2" collets available..
+Order Format:  G code		
+Control System: DSP with USB memory stick connection
+Recommended feed rates and tool speeds for specific materials can be found in Slide set 3.1.1 in this course.
+
+
+Preparing the Toolpath
+Links to the V-Carve manual and tutorial are below
+Vectric Manual for V-Carve Pro is available at:
+ https://docs.vectric.com/docs/
+Vectric V-Carve Pro online video tutorials are available at:
+https://www.vectric.com/support/tutorials/vcarve-pro?category=TutorialCategories&playlist
+In particular, “Getting Started > Avalon Nameplate” video
+Watching other Vectric videos is not mandatory (there are many of them), but is highly recommended – select the ones that apply to the job you have in mind
+
+
+VCarvePro
+VCarve Pro provides a powerful but intuitive software solution for 2D design and calculation of 2D and 2.5D toolpaths for cutting parts on a CNC Router.
+The software can import 2D designs from other programs but also includes a full set of drawing and editing tools with advanced layout options such as True-Shape Nesting. The toolpath options cover all typical 2D routing operations such as Profiling, Pocketing, Auto-Inlays and Drilling as well as 2.5D strategies such as V-Carving, Prism carving, Fluting and even a decorative Texturing strategy. Each toolpath includes appropriate options to customize the settings and provide a high level of control for different types of operation. In addition all toolpaths can be previewed to show just how the part will look when it is actually cut, this allows instant feedback to allow toolpaths to be further optimized.
+Details: http://www.vectric.com/products/vcarve-pro.htm
+Training Resources: http://support.vectric.com/training-material/vcarve-pro
+
+ Cut3D
+
+Cut3D is a dedicated toolpath engine for CNC machining 3D models that have been designed using a 3D CAD or Graphics design product such as AutoCAD, Rhino3D, 3D Studio etc. or scanned using a laser or touch probe device. Cut3D's exceptionally easy to use interface leads you step-by-step through the process of loading a model, setting the size, interactively placing tabs to hold the job in place, calculating single, double or four sided roughing and finishing toolpaths, previewing the results and finally saving the CNC code to run on your machine.
+3D Models that are too large / thick to machine because of gantry height, cutter length or limited material thickness can be 'Sliced' into separate pieces. Each slice can then be machined and the complete job assembled.
+Details: http://www.vectric.com/products/cut3d.html
+Training Resources: http://support.vectric.com/training-material/cut3d
+
+
+Creating the Tool Path
+Save your tool path file (.tap) to the USB drive. 
+If you are using software other than the Vcarve or 3D cut the tool path must be created with a compatible format such as LinuxCNC.  Other Gcode formats may not be interpreted correctly by the CNC router handset. 
+The next step is to mount your wok piece on the the bed and mount the tools indicated in your tool path. See slide set 3.2 for these instructions. 

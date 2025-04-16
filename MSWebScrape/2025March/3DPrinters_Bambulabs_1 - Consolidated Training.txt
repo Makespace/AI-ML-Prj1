@@ -1,0 +1,84 @@
+Markforged Mark 2
+Preparation, Set-up, and Operation
+
+
+Safety Precautions
+No PPE Required
+Removal Tool is sharp
+Machine moves autonomously, Pinch Hazard
+Burn Hazard, Nozzles at 200°C
+
+Printer Overview
+Hotend/Nozzles
+Buildplate
+Touch Screen
+Bed leveling knobs
+Do not adjust! Owners only!
+Fibre Spool
+print volume is 320 x 132 x 154 mm 
+
+Printer Overview
+Hotend/Nozzle
+Plastic Extruder
+Fibre Extruder
+
+Printer Overview
+Power Switch
+5
+Plastic storage box
+
+Not damaging the printer
+
+Don’t drop the bed
+Don’t use any tools on the bed other than the removal tool
+
+
+Don’t touch the fibre spool, it can unravel!!!
+Limit exposure of the filament to air as it is moisture sensitive.  
+Removal tool
+
+Not damaging the printer
+
+Don’t level the bed
+Notify the owners (via email) instead
+leave a note on machine
+Avoid touching the build plate
+Residue reduces adhesion for first layer
+Only use the purple gluestick
+super thin layer where print will happen is sufficient
+Only clean bed with water
+Only damp/dry paper towels
+do not use solvents or wonder wipes
+Glue turns purple when wet
+Use paper towel to clean nozzles
+use metal brush to clean printer nozzles if paper towel is not enough
+The only gluesticks permitted.
+
+Limits of the BETA training
+Plastic and fibre only to be changed by maintainersLoading and unloading is proving to be more tricky than with the Ultimakers and we need to determine how to best do it.
+Until training is in place for filament change, there is no need to ever open the filament box. Please keep it shut to keep the filament quality high for all of us.
+
+Starting Your Print
+Log into eiger.io with your account
+Upload and slice your model
+Send to print queue
+Go to printer and check bed is free
+Select your print job from the queue with the touch screen
+Note: If you create an eiger.io account before your practical you won’t be able to use that e-mail address for the eiger.io account with access to the Makespace printer. You need to be invited into the Makespace organisation. This will happen during the practical. See the slides about the practical for more information.
+
+Finishing Your Print
+To remove print
+Let the print cool, so it is cool enough to touch and won’t deform during removal.
+Lift out the bed
+Use dedicated tool for removal
+Return bed
+Mark bed as free by pressing “Clear Bed” on the touchscreen
+Pay for your print
+Caution: The removal tool has a sharp edge, always scrape away from yourself.
+
+Paying for your print
+Read the volume of material used from Eiger
+Plastic and Fibre are paid for separately
+Payment is via the pay stations, the MF materials are listed under the 3D Printers tab
+The material cost also covers wear on the nozzles and tubes as the materials are abrasive so these parts wear more quickly and are considered a consumable 
+Cost estimate on eiger.io will be lower than MS as it doesn’t take consumables into account!

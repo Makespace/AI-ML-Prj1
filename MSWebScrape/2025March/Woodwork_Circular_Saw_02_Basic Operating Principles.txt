@@ -1,0 +1,75 @@
+Circular Saw Induction Training
+
+
+Circular Saw
+Training 2: Basic Operating Principles
+
+Or any of the above in combination!Note the two techniques on the right are advanced techniques that must not be used at makespace without discussion/ extra training from the owners, even if you are experienced at them, due to the extra precautions required
+Types of Cut Possible with a Circular Saw
+Crosscut
+Rip Cut
+Plunge Cut
+(Starting in the middle of a board)
+Mitre Cut
+Bevel Cut
+Partial-Depth Cut
+
+For making a few, light cuts, a hand saw can often be faster than setting up + fully packing away the circular saw
+
+Is The Circular Saw the Best Tool?
+Although a circular saw can be used for all the cuts listed on the last slide, it is often not the best choice with the other equipment available at makespace:
+Crosscuts, mitres and bevel cuts across thin strip material (up to around 300mm wide) are usually quicker, safer and more accurate on the mitre saw
+Long rip cuts on medium-sized material (up to around 500mm wide and 1200mm long) are usually quicker, safer and more accurate on the band saw
+
+
+Then Why Use the Circular Saw?
+Apart from a few specialised types of cut, the biggest job for the circular saw at makespace is cutting items too large to fit through the stationary machines
+These can be up to full 2440x1200mm sheets of plywood or MDF, or even larger 
+
+Circular Saw Cutting Direction
+With a handheld circular saw, the blade rotation is always aligned so that teeth on the forward, cutting side exit the work upwards, towards the user. 
+This may seem counter-intuitive, but ensures that the cutting action tends to pulls the saw down against the work, rather than throwing it upwards if it catches
+
+Kerf
+Like all saws, a circular saw does not simply cut the wood apart like a knife, but instead scrapes out material to form a narrow slot
+The width of this slot is known as the kerf, typically about 3mm with a circular saw 
+Not accounting for kerf width when marking out material can result in significant errors
+Kerf
+
+Recommended Marking-Out Procedure
+Measure the width you require and draw the cut line on your workpiece
+2) Opposite the side you just measured, add short ‘waste marks’ to remind you which side you need to align the saw kerf to
+3) Cut the material, keeping one side of the blade lined up with your marked-out line (with the excess removed material on the ‘waste’ side)
+
+Sightline Notch
+To help align the saw for cutting the base plate of the saw has two notches, as shown left
+The notches roughly show the kerf that will be removed by the saw as it is pushed forward, so align this slot with your pencil marks before you cut
+The two notches are the kerf that will be removed when cutting at 0° (regular) and 45° (bevel), the two most commonly used angles
+
+
+Depth of Cut
+Handheld circular saws are depth adjustable
+It is important to set the depth just lower than the material you are cutting, to reduce the risk of hitting another surface with the exposed blade underneath
+A blade protrusion of around 5mm is recommended (no need to measure, by eye is enough)
+On the Makespace saw, simply loosen the depth screw at the back of the saw, pull the main body up by the handle, then re-tighten in place
+
+Around 5mm lower than the wood
+
+The Blade Guard
+The blade guard protects the user from accidental contact when the blade is not engaged in the wood. Due to its rotating mechanism, the blade guard is automatically retracted when pushed into a piece of work and springs back after exiting
+Note that there are some circumstances where automatic retraction doesn’t work, and the guard must be manually retracted. Discuss these cuts with an owner/ trainer before attempting
+Watch the blue circle:
+
+Tearout
+Where blade teeth exit the workpiece, they can sometimes catch small fragments either side of the cut, often called ‘tearout’
+This is not dangerous but can make a mess of your work
+Since the teeth of a circular saw blade always exit the work upwards, this tearout will be worst on the top surface of a board. So if your material has a ‘nice’ side, always position this on the bottom. 
+Tearout can be further controlled by slowing down the rate you push the saw through the wood (feed rate) or by placing a sacrificial board or masking tape along the cut line
+
+
+Always make sure that the workpiece is resting on sturdy, level surfaces. It is important that the support is maintained to the pieces after they have been cut through. Small workpieces should also be clamped.
+Supporting Workpieces
+NEVER rest a plank on 2 saw horses and saw down the middle, as once you have cut far enough through the two cut pieces will not be supported and will fall, potentially catching the saw and kicking back at the user
+At Makespace, the best cutting support is usually offered by the two split workbenches - position these with a slight gap down the middle for the blade to run in, and you have an excellent support both before and after the cut
+
+Alternatively when cutting off very small pieces, you can hang the offcut edge over the side of the workbench into free space, where it will easily fall away once the cut is finished

@@ -1,0 +1,58 @@
+What Makespace has
+Makespace has 2 Bowens Esprit Gemini GM300 flash units in the studio. These are also known as Mono-bloc flashes or strobes.  They produce a very short, very intense flash of light and must be synchronised with your camera.
+
+
+
+
+
+To use these, your camera will need a “Hot-Shoe” and have a Manual (M) exposure mode. It is NOT possible to use the studio flashes with a mobile phone.
+They cannot be used with a mobile phone camera and effective usage requires practice.
+
+Preparation – before you get to the studio
+Before trying to use the studio flashes
+Determine the “flash sync speed” of your camera
+Google “{camera model} Flash Sync Speed”. It will be something like 1/160, 1/200, 1/250ths. For the Makespace Panasonic GH5 this is 1/250ths
+Familiarise yourself with Manual (“M”) exposure mode and how to adjust exposure using the histogram.
+See: https://www.youtube.com/watch?v=NDrcoZHB-xc
+
+Preparing the flash
+Mount the flash units where you want them with any required modifiers (umbrellas, softboxes etc.) attached.
+The Flash unit needs mains power - plug it in! 
+The Neewer CT-16 flash trigger receiver needs to be plugged into the “sync” socket on the back of ONE flash then switch it on (switch on side).
+Only now do you turn on the flash unit. DO NOT plug the trigger in when the flash is powered up
+You may see a light – this is the “modelling lamp” and is NOT the photographic flash – it merely enables you to orient the flash at your subject. Adjust using the “Lamp” controls.
+
+
+Check it works
+Take the trigger (without putting it on your camera) and press the “Test” button on the top
+If all is well the Flash will fire
+If not, check
+Dip switches on trigger and receiver are in the same positions
+Power to the flash (display should be illuminated)
+Receiver is plugged in
+Receiver is turned on
+
+If all this still fails, batteries are probably flat (someone left to receiver ON). So, change the AAAs in  the receiver and retest. 
+If it still fails – raise a Trouble ticket.
+
+
+Set up your camera
+Mount the trigger on the hot-shoe of your camera – DO NOT over tighten the thumb wheel – it doesn’t need to be tight.
+Turn on and set Manual (M) mode, ISO ca. 100-200, flash sync speed and mid range aperture f6-8.
+Set the power on the flash unit at 3-4
+Take a test shot to make sure everything works.
+
+Adding a second Flash unit (if required)
+To add the second flash unit simply plug in and turn on the “cell” switch to put it into “Slave” mode (triggered by the flash from the first unit) – no receiver is required.
+Make sure the flash from the first unit falls on the second
+Take a test shot and ensure both units fire.
+If the second unit does not fire check power and cell settings.
+
+
+Adjust your exposure
+Takes a test shot and review the histogram
+Adjust either flash power or aperture until your have a correctly exposed image depending on what you are shooting.
+
+Good luck
+
+Any questions ask Photo_Video-owners@makespace.org

@@ -1,0 +1,126 @@
+Using the Autoclave
+
+What this section covers
+We’re going to take you through how to use the autoclave.
+References to help you: there’s always a quick guide available near the autoclave.
+What autoclave validation testing is for, and what you need to do each time.
+What to check for before using the autoclave, to ensure it’s in good working order.
+How to switch it on!
+How to open and close the door.
+How to start a run.
+How to end a run.
+How to decontaminate and dispose of waste.
+What to do if there’s an accident or emergency.
+There is also a supplementary training video that you can watch that demonstrates the key points of using the autoclave, in the lab. (VIDEO NOT AVAILABLE YET)
+
+
+References to help you
+Please only use the autoclave if you are trained! 
+Instructions for use are covered in this training, and you can also revisit them yourself whenever needed using the following documents:
+Standard Operating Procedure for the autoclave
+Quick guide to using the autoclave (intended as a reference after training)
+Risk assessment for autoclave use
+
+Note: Solvents, corrosives, bleach and other harmful chemical materials (incl teratogens, mutagens, carcinogens) MUST NOT BE AUTOCLAVED. Disposal of these items is through the chemical hazardous waste streams. 
+
+
+Autoclave validation testing
+Validation testing helps us know that autoclaving is working effectively - i.e. that your materials really are sterile when they come out of it!
+Your responsibilities:
+Each item should have autoclave indicator tape to show it has been autoclaved. This indicates that the autoclave has reached temperature by turning brown/black but it doesn’t indicate for how long the load was at temperature and is not a validation test.
+A TST (temperature, steam, time) validation strip should be added to the centre of each load. These are Class 6, conforming with ISO 11140 and validate that the load reached 121°C for a minimum of 15 mins. 
+TST validation strips should be stapled into the autoclave log book after the completed run.
+
+BioMakespace volunteers also carry out weekly, monthly and annual tests to ensure this equipment is running as advertised. If you see anything unusual during your run, please report it.
+
+What to check before using the autoclave
+Check the autoclave for faults or signs of damage each time you use it.
+Visually check door seals, ensuring it is closing properly. 
+Check for signs of leakage or damp around the seals and the machine itself, wipe around the door and seals before using the machine to remove any moisture.
+Check for loosening door bolts caused by the vibrations from the machines and retighten. 
+Check that your autoclave load can be placed correctly within the chamber to avoid spillage or breakage during the cycle. 
+Check that the waste line is directing into the tray on the floor and not onto the floor.
+Ensure that there is sufficient water in the reservoir and filling with 50% tap water, 50% deionised where possible.
+Spillage prevention 
+All containers should be secured if possible and all bags should be supported before the cycle starts, to prevent spillage. Use the polypropylene (cream) tray to hold items to be autoclaved.
+
+
+
+
+
+
+Check the autoclave bags
+Be careful if people have incorrectly disposed of points e.g. pipette tips in the bag - double bag!
+Think about the amount of molten liquid in the bag - if it is ⅔ full of petri dishes, split these across more loads. We would recommend having no more than ~10 petri dishes per load, always double bag and ensure the load is correctly positioned in the containment pan, be mindful of leakage when removing after the autoclave run.
+
+Check the autoclave bags
+
+How to switch on the autoclave
+Switch on the power at the wall (if not already on.)
+The “Power On” button will illuminate
+Press the “Control On” button
+The “Fault” red light should switch on and the temperature and time displays will illuminate.
+Press the “Fault” reset button and the red light will go out.
+
+
+Temp
+Time
+
+How to open and close the door
+Opening the door
+Rotate the door nut ANTI-CLOCKWISE until you are able to lift the latch.
+Lift the latch fully and open the door.
+
+Closing the door
+Lift the latch bar on the right of the autoclave fully up.
+Rotate the door bolt ANTI-CLOCKWISE as far as you can.
+Close the door and the bolt head will come to a stop.
+Lower the latch fully - it should fit behind the bolt head but you may need to rotate the door bolt CLOCKWISE a little until it’s in the right position.
+Once the latch is in place, rotate the door nut CLOCKWISE until tight and the “Door Closed” light illuminates on the panel. 
+
+
+
+
+Door nut/bolt
+Latch
+
+How to start an autoclave run
+
+Fill in the log book with the date, time, load contents and operator name.
+Insert load. Any bottles should have LOOSE LIDS to avoid pressure build up!
+Add a TST test strip to the centre of the load (you do not need to put them inside the bags/BioBins), these are located in the folder to the left of the autoclave.
+Ensure this probe is sitting in the load  - NOT in the water reservoir as shown here (you do not need to put it inside the bags/BioBins).
+Close the door 
+Press the “Start” button
+The following lights should illuminate: “Thermal Lock”, “Heat On” and the display panels should show temperature increasing. 
+The duration of an autoclave run is about 2 hrs
+probe
+
+How to end an autoclave run
+The thermal lock does not disengage until the load reaches 80°C.
+Open the door (see below) being careful of escaping steam and any broken glass. 
+Carefully remove load using the silicon safety gloves (kept near the autoclave) and tighten any bottle tops to avoid spillage.
+Complete log book and staple in the TST test strip.
+
+
+Wear safety goggles
+
+Decontamination & waste disposal
+Biological waste once autoclaved can be collected in a thick black bag.
+This should be then be placed in a yellow and black “tiger stripe” bag (under sink in middle lab) and tied with a cable tie (under sink in middle lab).
+The bag can be disposed of in the yellow bins in the bin store marked “yellow bags”. Do not dispose of in “Clinical Waste” or “Sharps” bins.
+
+
+
+FOLLOW the general emergency procedures from BioMakespace Safety Training Part II (briefly: look after your own safety; call the emergency services;  organise and take care of the injured; inform the directors.)
+
+If there’s a Pressure Vessel Breach (fire, explosion, health-threatening hazardous material spill or release, valve failure, etc.), activate the warning system by shouting for help and breaking the fire alarm point glass, then follow the fire evacuation procedure.
+
+If there’s a Microbiological Spillage (e.g. when inserting waste to be autoclaved or following unsuccessful autoclave run)
+
+Alert other lab members of spillage.
+If you or another member are exposed to the spillage, immediately remove contaminated clothing and other protective equipment and wash affected areas with soap and water.  
+If medical follow-up is warranted it should be sought immediately.	
+Where practicable, the person responsible should then clean it up and decontaminate the area, following the usual spillage procedures.
+Important: Never dispose of materials that contain living organisms or genetically modified organisms via sink/drains. Instead, follow the BMS11 Waste Disposal Policy: explanatory signs are available in the lab.
+What to do if there’s an emergency

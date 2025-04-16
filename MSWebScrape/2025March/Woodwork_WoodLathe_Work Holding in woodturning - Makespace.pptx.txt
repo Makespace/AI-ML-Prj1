@@ -1,0 +1,286 @@
+Work-holding on the Woodturning Lathe
+1
+
+Aims of this presentation
+Explore different methods by which wood can be secured in a lathe.
+Consider combinations of holding methods that allow pieces to be turned and finished from both sides.
+Consider advantages and disadvantages of each
+Look at some Case Studies
+2
+
+Types of holding techniques
+
+
+Between centres
+
+3
+
+Between Centres or Spindle Turning
+Blank held firmly between drive centre and ‘live’ tailstock
+Generally grain runs parallel to lathe bed
+
+4
+
+Types of holding techniques
+
+
+Faceplates
+
+5
+
+Faceplates
+Good solid and secure
+Things not to do
+Forget how long the screws are !
+Use ‘dry wall’ screws that can snap
+May need to flatten area on natural surface  or remove bark
+6
+
+Types of holding techniques
+
+
+Chucks 
+
+7
+
+Chuck and jaws example
+A commonly used chuck has four replaceable jaws
+Example shown has dovetail shaped jaws, others have internal jaws straight with lip or grooves – check your own jaws
+Most jaws can be expanded into a mortise or compressed onto a tenon
+Unlike between centres, piece can be held by the drive end only (but often tailstock is brought up for safety)
+Four jaws can hold small square stock directly
+Watch out when running in reverse as chuck can unscrew
+Adapters or Inserts are available to allow chucks to be used on different spindle threads
+There are quick change jaws now but expensive
+
+
+Chucks modern ideas – adopted following the use of chucks in metalwork.  Don’t actually need chucks (but you do) 
+Need to get dovetail right – make an old scraper to suit dovetail shape
+Adapters to allow chuck to fit into larger spindle size means you extend the workpiece further from the drive centre so no ideal.
+can mean 
+If you are in habit of turning larger pieces be aware that the mass of the workpiece and jaws can mean they continue to turn as lathe stops and can trun off.  Even more so if you are reverse turning them think of using a lockscrew.
+
+Get right size of the tenon and mortise for max contact – if you are bowl turning with greenwood though you might want to bear in mind that as you do the second turn after blank has dried and warped you will be reducing the tenon as you get it back to round.
+
+
+Contact with shoulder important 
+
+Chucks are relatively modern – taken from metaal working but 4 rather than 3 jaws.
+Scrolling chucks as all 4 move together
+
+8
+
+Mortise or Tenon? 
+Depends on how you want to finish off the bottom and also on the grain direction
+Attaching an end-grain bowl to the lathe works well  with a tenon because the tenon is compressing wood fibres. 
+Expanding into a mortise can push apart and break the wood fibres on an end-grain bowl and potentially fly off the lathe.
+Side walls of mortise need to be strong
+Working with thin or expensive blanks can mean you don’t want to waste depth on forming a tenon or reduce internal depth with a mortise – see later
+
+9
+Mentioned earlier to avoid using mortise on end grain – as it splits apart easily but large bowls it can be better as lot of mass at the side of the crecess.  Especially if you are using a fairly small set iof jaws meaning you would only have a small tenon
+
+
+9
+
+Mortise or Tenon
+Note dovetail
+10
+Note – not all jaws are dovetail shape.  Many have straight internal faces with lip 
+Mentioned earlier to avoid using mortise on end grain – as it splits apart easily 
+10
+
+Size and shape of recess / tenon
+11
+
+Types of holding techniques
+Screwchucks
+
+12
+
+Screwchucks
+These can be secured in a normal chuck or held directly in lathe spindle
+
+
+
+Quick and easy for small’ish pieces
+Not very suitable for soft wood endgrain
+For same size screwchuck need slightly smaller drill hole for softwood rather than hardwood.
+Can be home made
+13
+
+Screwchucks 
+14
+
+Types of holding techniques
+Wider variety of jaws for Chucks
+Custom jaws
+Deep jaws
+Pin jaws
+
+Cole Jaws/Longworth style chuck
+
+15
+Whole idea is to avoid the workpicece leaping out and flying off
+
+15
+
+Chucks and Different types of Jaws
+16
+Soft Jaws – for custom designs
+
+Chucks and Different types of Jaws
+17
+Jaw plates - again to make customised jaws
+Soft Jaws – for custom designs
+
+Chucks and Different types of Jaws
+18
+Deep Gripper jaws 
+Jaw plates again to make customised jaws
+Soft Jaws – for custom designs
+
+Chucks and Different types of Jaws
+19
+Standard? Default jaws
+Deep Gripper jaws 
+Jaw plates again to make customised jaws
+Soft Jaws – for custom designs
+
+Chucks and Different types of Jaws
+20
+Small stepped jaws
+Standard? Default jaws
+Deep Gripper jaws 
+Jaw plates again to make customised jaws
+Soft Jaws – for custom designs
+
+Chucks and Different types of Jaws
+21
+Pin jaws
+Small stepped jaws
+Standard? Default jaws
+Deep Gripper jaws 
+Jaw plates again to make customised jaws
+Soft Jaws – for custom designs
+
+Cole (Button) Jaws and Longworth chucks
+22
+Neither Cole jaws and Longworth style are not as secure as other jaws – keep tailstock up and keep all force directed towards the head stock
+Stacking Turn Studs to give extra height to the rubber buttons. These can also be used on their own without the rubber buttons. 
+Cole Jaws
+Longworth
+
+Types of holding techniques
+
+Jam chucks
+23
+
+Jam Chucks
+24
+Jam chucks made with scrap wood and turned to size needed. Often made as a one-off single-purpose unit, it is mounted in the lathe headstock and provides a friction-fit cavity or surface that the turning can “jam” against. The tailstock is usually brought into play at the same time for safety
+
+Types of holding techniques
+
+
+Pressure Pads
+25
+
+Pressure pads
+26
+Like a jam chuck but the surface is flat with a non-slip coating.  The tailstock pressure keeps the blank in place.  Not a very secure technique – slow speeds and light cuts needed.
+
+Types of holding techniques
+
+
+Vacuum Chucks
+27
+
+Vacuum Chucks
+Most vacuum chucks require an expensive specialised pump, If you are mostly concerned with reversing a bowl to finish the bottom or remounting a bowl to finish the inside, the suction provided by a vacuum cleaner or shop vacuum will be sufficient. 
+A rubber hose links the cleaner to a piece of brass tube which is a sliding fit in the headstock spindle. The chuck itself is mounted on a face plate and can take the form of a flat rubber disc glued on a wooden disc or a ring made of rubber tubing glued in a groove turned in a wooden disc. There is, of course a hole through the centre. 
+The force holding the work against the chuck is given by the product of the vacuum (pounds per square inch or Kg/sq. m) and the area of contact (square inches or square metres). So, for a bowl 10 inches diameter the area is 78.5 sq in. and with just 2 pounds per sq in. there will be some 150 pounds force to hold the work in place. Since a vacuum cleaner shifts a large volume of air, the system does not need to be very leak-proof. 
+
+28
+
+Specialist mandrels
+Pen Mandrel most common example.
+Mandrel held between headstock and tailstock as in spindle turning
+Wood blanks held between spacers in compression
+29
+
+Case Study 1 ‘Normal’ Bowl turning
+Approach
+Turn outside of bowl first and form a tenon or mortise (recess) to allow later reversal of bowl to turn inside.
+First mount can be either using screwchuck or faceplate.  Faceplate good for larger blanks. 
+Exterior formed first
+Mortise (recess) or tenon formed on bottom of bowl
+When outside finished bowl reversed and held by tenon or mortise 
+Inside turned
+If tenon used then this will need removing. 
+30
+30
+
+Case Study 1 Bowl turning using Faceplate
+Surface flattened
+Rough cut to shape
+Faceplate screwed on centrally
+Tenon turned
+A bowl reversed, held in tenon and hollowed.  The tenon will need removing using either Cole Jaws, Longworth chuck or jam chuck. 
+31
+
+Case Study - Thin platter – using screwchuck
+Approach
+Thin platters do not allow same approach as bowl because we cannot afford either to waste wood by creating tenon or to limit depth of inside of platter using recess
+One solution - use sacrificial glued on tenon
+Process
+Use screwchuck to initially mount - reduce need for deep hole using spacers
+Turn and shape tenon round and shape/finish outside and base of platter
+Glue on scrap wood to use as tenon
+Reverse platter and hold with tenon
+Turn and shape inside
+Reverse again and hold in Longworth jaws – remove sacrificial tenon
+
+
+32
+Can use serious and strong glue as this will be removed at end by gouge 
+32
+
+Thin platter
+Check depth against thickness of blank 
+Glue waste block as centrally as possible
+33
+
+Plywood Spacers
+Thin platter
+Nearly minimum diameter for best grip
+Turn bottom of bowl and turn sacrificial tenon round
+34
+
+Thin platter
+Unscrew and reverse to hold platter in chuck using ‘sacrificial’ tenon and form inside.
+Reverse again into Longworth style (or Cole Jaws) (tailstock up for security). Remove tenon and finish
+35
+
+Thin Platter – complete
+36
+
+Case Study 3 Holding small blanks
+Directly into normal jaws
+Pin jaws
+Special home made jig
+
+37
+
+Links
+Different types of chuck
+	https://www.youtube.com/watch?v=qHNzZ4_yBIs
+	https://www.youtube.com/watch?v=qO9xi5xd5NE 
+Using customisable plate jaws
+https://www.youtube.com/watch?v=bl74JOZSyUc 
+Getting right size mortice and tenon
+https://www.youtube.com/watch?v=zCKaDSCe3Ew
+
+
+
+38

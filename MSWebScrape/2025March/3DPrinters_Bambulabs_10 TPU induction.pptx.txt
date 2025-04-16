@@ -1,0 +1,77 @@
+Printing with flexible filament (TPU)
+
+What this training will offer
+Purpose: allow you to print TPU on the Makespace PLA Ultimakers
+Scope: Safe use, challenges with flexible materials, how to slice and print
+Learning objectives: You are aware of limitations and how to address them
+
+
+This is an extra training for those who have completed the Ultimaker induction and gathered some experience with them.
+There is no practical exam/session.
+Take your time to experiment and reach out on the mailing lists if you run into issues.
+
+TPU can only be printed on the PLA printers.
+TPU has its own storage and costs more than the other filaments.
+
+TPU material properties
+TPU has a lower shore hardness than ABS and PLA.
+Depending on how thick you make walls and infill you can achieve different degrees of flexibility.
+Great layer adhesion and high abrasion resistance.
+
+TPU
+PLA & ABS
+ABS
+PLA
+Examples of shore hardness
+Taken from here
+
+TPU at Makespace
+Our printers have a bowden tube extruder
+Images by Daniel Ahlers
+The printers at makespace can only print semi-flexible material due to their use of bowden extruders.
+
+TPU used in makespace must have hardness of 95A or higher!
+
+Most TPU filaments are softer, but they will fail to print and jam up the extruder.
+
+General TPU printing challenges
+Filament is soft
+Slow to respond, will not extrude straight way and continue extruding after feeding stops.
+More likely to jam.
+Same melt temperature as PLA
+More hydrophilic than PLA/ABS
+Hardness/flexibility highly dependant on design, infill, wall thickness.
+
+Printing with TPU in makespace
+Different payment categoryas it costs 10p/gram
+Only use PLA printers (left three)
+
+
+Please be considerate of other users. TPU prints are slow, so it might be nice not to start a super long print if all other PLA printers are already in use.
+Loading filament
+Be patient. The semi-flexible filament is harder to load and unload.
+
+When loading it might miss the extruder wheel. Keep trying until in catches.
+It might not load all the way to the nozzle. Wait a few minutes. It usually makes it in the end.
+It usually doesn’t unload in one go. Either lift the release lever or cancel and restart the material change.
+
+Preparing TPU prints with Cura in makespace
+After using Cura in makespace switch back to PLA or ABS and the regular profiles to avoid others accidentally using it.
+On the makespace 3D printer PC
+Select TPU 95A as material
+Select a TPU profile instead of a regular one
+
+
+Preparing TPU prints with Cura on your PC/Laptop
+download the TPU profile provided by makespace
+Install the profile in Cura(official guide)
+
+Tips for TPU slicing settings
+Print slowly, makes up for the slow response of the material to the feeder.
+In particular the infill speed on the generic TPU 95A Cura profile seems too fast.
+Either have more retraction than normal or no retraction, this is due again to the slow feed response. No retraction reduces the chance of the filament jamming in the feeder.
+Not as good at bridging as ABS/PLA
+Brim – the material sticks well at a lower bed temp to PLA but a brim can help stabilise tall thin prints.
+Raft – seems to work fine, removing the raft was easy but the surface finish on the bottom of the print is even worse than you'd normally expect with a raft.
+Support – needs to be printed more slowly than the default in cura. Reducing the support speed to 10 mm/s seems to do the trick. Depending on the geometry of what you're printing support may be less effective than you'd expect as the print may "flex" away from the support during printing.
+

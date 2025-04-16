@@ -1,0 +1,56 @@
+Makespace Training: Introduction
+Roland MDX 40 Model Mill
+
+Introduction 1
+The MDX-40A Model Mill is a versatile 3D CNC mill that can create high precision parts from 3D CAD data. It can also operate as a CNC engraving machine, using 2D shape files.
+Milling is a subtractive manufacturing process where material is removed layer by layer from a solid block to obtain a 3D shape (unlike additive fabrication, ie 3D printing, which builds shapes up in layers).
+One benefit of subtractive manufacturing is that it uses production materials. The MDX 40A Model Mill is  primarily intended for prototyping, so it’s designed for cutting foams, plastic, wax, and other soft materials.
+    
+
+ 
+
+
+Introduction 2
+CNC stands for Computerised Numerical Control, and CNC milling defines a computer controlled process in which you model your object in specialised software and send it to a milling machine that cuts material according to automated toolpaths.
+Basic production stages are:
+Designing a 3D CAD model (in CAD software eg Solidworks, Autocad Inventor)
+Converting the CAD model into a CNC program (eg SRP Player, Vectric V-Carve Pro)
+Setting up the CNC milling machine (mount tools & work piece, define X,Y,Z co-ordinates)
+Executing the milling operation (send the G-code toolpath instructions from PC to Model Mill)
+Clean machine thoroughly after use
+
+    
+
+ 
+
+
+Introduction 3
+The MDX-40A Model Mill specifications:
+Capacity: 305 x 305 x 105mm
+Resolution: 0.01mm
+Materials: Plastics (ABS, Delrin/Acetal, Nylon, Acrylic), tooling board, wood, and modelling wax, PCBs
+This induction only covers safety, set-up and basic 2D engraving – a further advanced course is available for 3D CNC milling with the Model Mill
+
+    
+
+ 
+
+
+What you can make: 2D Engraving 
+Engraving is a “2D” milling operation useful for producing a wide variety of objects such as signs, machine jigs and simple parts.
+Several software packages are available :
+ClickMILL - performs simple milling operations (drilling holes, creating pockets or channels) without requiring any drawings. 
+Vectric V-Carve Pro or Cut2D - performs more complex engraving, including text, from 2D vector drawings created in-package or imported (eg from Inkscape).
+This induction ONLY covers 2D engraving – but the principles are the same for 3D milling
+Engraved sign
+
+What you can make: 3D Milling (1-sided or 2-sided)
+
+
+3D Milling requires a pre-existing 3D CAD model (usually in the form of an STL file)
+Several 3D milling software packages are available in Makespace. All import a model (3D data in IGES, DXF [3D], and STL), and output a tool path that cuts the actual shape:
+SRP Player – simpler to use but less capable than Vectric Cut3D. 
+Vectric Cut3D – very capable but more demanding software package
+2-sided 3D milling is possible, but requires advanced techniques
+
+Milled 3D shape : one-sided

@@ -1,0 +1,65 @@
+Introduction to 
+Makespace Laser Cutters
+2020-08-29
+
+The Makespace laser cutters can be used to engrave the surface, or cut shapes out of, a variety of materials.
+The most commonly used materials are plastic (acrylic), wood (laser ply), paper and card.
+The lasers do not have enough power to cut metals.
+Laser cutting is a very fast process, making it convenient for prototyping and rapid development of designs. Laser cut pieces are generally 2D, but they can be combined in various ways to make 3D structures.
+
+
+This training:
+Purpose: allow you to use the laser cutters safely
+Scope: Safe use, materials, use of the control software, cutting settings, machine set-up, cleaning
+Learning objectives: You can draw and cut a simple shape safely by yourself
+
+
+This won’t teach you much about 2D CAD which is used to make designs for the laser cutter. There are many great options for this, which this training will refer to but not cover in detail. You can try them for yourself, and build a workflow which suits your personal projects.
+
+
+Makespace Laser Cutters
+Makespace has two lasers (Jaws and Betsy) and they are both Laserscript LS6090 PRO’s (manufacturers website)
+The cutting bed is 900x600 mm, with an optional infeed to allow longer material to be mounted.
+They use a 60 W, water cooled, CO2 laser tube capable of cutting and engraving wood and plastics up to around 15 mm thick.
+The bed is height adjustable to accommodate materials up to 230 mm tall.
+Each laser has its own PC, water chiller and air extractor
+
+
+Laser Cutting Workflow
+CADDesign your own parts
+Download existing design
+E.g. Thingiverse
+DXF file
+Vector representation of the shapes/designs to be cut
+LaserCut 5.3
+Speed, power, engraving, cutting order
+.MOL File
+Instructions for machine
+Execute with laser cutter
+
+Download via USB
+
+Inspirational Examples
+
+Inspirational Examples
+
+Introductory Reading
+Laser Cutting Overview: https://www.instructables.com/id/Laser-Cutting-Basics/
+Note: Steps 6 and 7 aren’t directly applicable to Makespace laser cutters
+Drawing Software:
+Inkscape - https://inkscape.org/
+LibreCad - https://librecad.org/
+Adobe Illustrator - https://www.adobe.com/uk/products/illustrator.html
+Laser Software:
+Using LaserCut 5.3 is covered in more detail later in the training!
+LaserCut 5.3, 2 minute view - https://www.youtube.com/watch?v=wa2sONLyONY
+Nottinghack Wiki: https://wiki.nottinghack.org.uk/wiki/Laser_cutter/LaserCut/Usage
+
+Inkscape quick tips
+Inkscape is a free vector graphics program for Windows, Mac and Linux
+Save as .dxf for the laser cutter: “Desktop Cutting Plotter (AutoCAD DXF R14) (*.dxf)”
+Set “Base unit” to “mm”!
+For text, select it and then “Path -> Object to Path (Shift+Ctrl+C)”
+This will make the font cuttable, but the text will not be editable in Inkscape any more, so only do this just prior to export.
+“Extensions -> Render -> Hershey Text” for nice vector fonts
+You can convert bitmap to vector with “Path -> Trace Bitmap”

@@ -1,0 +1,219 @@
+Woodworking Hand Tools 
+Preparation, Set-up, and Operation
+
+
+
+Woodworking hand planes
+
+A handplane is a tool for shaping wood 
+Generally, one would use a hand plane to flatten or reduce the thickness of wood.
+In addition to the above, they are also used to impart a smooth surface onto the wood. A sharp hand plane and some knowledge about the grain of the wood could help you achieve an extremely smooth finish which may not require any sanding.
+There are various types of hand planes, some of which are: 
+Bench plane
+Plough plane
+Router plane
+Skew rabbet plane
+Shoulder plane 
+
+Hand planes - Components
+
+A hand plane is made of 
+Blade / Iron – The steel blade which cuts the wood.
+Chip breaker – Supports the blade and cuts wood chips as they pass through the mouth.
+Lever cap – Secures the chip breaker and the blade firmly to the frog.
+Sole – The bottom face of the plane.
+Frog – An adjustable iron wedge that holds the plane iron at the proper angle and allows it to be varied in depth relative to the sole.
+Adjustment knob - Used to advance and retract the blade in order to control the depth of cut.
+
+1
+2
+5
+4
+It may be hard to spot the chip breaker in a picture like this one. Here, it is the flat, silver/grey piece sandwiched between the blade and brass lever cap on top.
+3
+
+Woodworking hand planes
+We’ll now look at each of the hand planes in depth –
+Bench plane
+Plough plane
+Router plane
+Skew rabbet plane
+
+
+Bench planes
+The “standard” type of hand plane. They are characterized by having their cutting bevel facing down and attached to a chipbreaker. They are primarily used to flatten and smoothen wood surfaces.
+As a woodworker, you will find that these planes are indispensable for any kind of joinery you may want to do.
+No. 7 Jointer plane
+Has a long sole. Used for jointing and final flattening out of boards.
+No. 5½ Jack plane
+Flattening rough surfaces with more finesse and accuracy than a scrub plane.
+No. 4 Smoothing plane
+Smoothens the surface and prepares it for finishing. Notice the very short sole.
+
+Setup and use a handplane 
+
+Plough Plane
+Plough planes are used to make grooves in the wood. They are also known as grooving planes or plow planes.
+The distinctive features of a plough planes is that they have a shoulder and and a very narrow blade.
+The shoulder helps with making a straight groove as it references the nearest, planed edge of the wood that you have prepared.
+
+Shoulder
+
+Router Plane
+Router planes are used to cut a surface parallel to its sole. More simply, you use a planed face (not an edge) of wood as your reference surface, and adjust the depth of the blade to cut a hole/groove/shape such that the bottom face of the recess is parallel to the face of the wood. 
+Besides the uses shown in the pictures below, router planes are used to trim tenon cheeks, create hinge mortises, refine grooves, etc.
+Router plane blades are often difficult to sharpen so they are normally only used to refine the cut left by a different tool 
+
+Skew Rabbet Plane
+Skew Rabbet Plane are a type of Rabbet Planes, typically characterised by having their blade protrude a very tiny bit outside the edge of the plane. This allows for sharp, clean cuts of rabbets and cleaning of shoulders. A Skew Rabbet Plane additionally has the blade placed at an angle (see 1) to make the job easier to do. Optionally, a smaller blade may exist in front of the main blade to score the wood to avoid tear-outs when cutting across the grain (see 2).
+2
+1
+
+How to setup and use the plough and router plane
+
+Woodworking chisels - introduction
+
+A wood chisel is basically a sharp angled piece of steel with a handle. 
+It’s impossible to make fine furniture without at least one good wood chisel.
+Woodworking chisels are used for so many different steps in making wood joints. 
+The main types of woodworking chisels are Bench chisels, Mortise Chisels and Paring Chisels
+Bench chisels are multi-purpose woodworking chisels that are used for chopping and paring the wood. Bench chisels can be shaped as bevel edge, firmer, or registered. 
+Also spelled “mortice chisel”, these chisels are used for heavy chopping of mortises. Common types of mortise chisels include “Sash” Mortise Chisels, “Pig Sticker” Mortise Chisels, and “Registered” Mortise Chisels 
+Paring chisels are more delicate chisels used for paring, or careful slicing of the wood. Paring chisels have thinner steel and are usually sharpened with a low angle to aid in paring end-grain and other difficult grain. Paring chisels should never be struck with a mallet, but only used with the hands. 
+
+Woodworking chisels - makespace chisels
+
+Makespace has a set of 5 Lie Nielsen bevel edge chisels which can be used for paring or light chopping of wood. 
+These are available in 1/4" (~6mm), 3/8" (~9.5mm), 1/2" (~13mm), 3/4" (~19mm) and 1" (~25mm) 
+There is also a couple of Lie Nielsen mortice chisels (Not yet available as they are out of production)
+Available in 1/4" (~6mm) and 3/8" (~9.5mm)
+You are expected to sharpen them as you use them and this will covered on the practical assessment
+Chisels backs have been flattened by Makespace maintainers and you should not redo them 
+
+Woodworking chisels - Bevel chisels
+
+
+Woodworking chisels - Mortice chisels 
+
+
+Woodworking chisels - tips and tricks
+
+
+Woodworking Saws - Saw Types
+
+Panel Saws
+Joinery Saws
+Western Saw
+Japanese Saw
+Coping Saw
+
+
+
+
+Intended Use
+Cutting large boards into smaller components prior to planning
+Trimming lengths of wood and cutting joints
+
+Fine joinery and making flush-cuts
+Cutting curved shapes and commonly used for removing waste material when cutting dovetails
+Design Features
+Handles usually closed. Blades often narrower above the cutting edge to avoid jamming in the kerf. Usually <10 PPI
+Pistol-grip handle. Western saws usually feature a thick spine at the top of the blade to keep the blade strength and add weight to the blade. Usually around 15-25 PPI depending on saw type
+Usually made with thinner blades than Western saws, with finely set teeth resulting in a narrow kerf.  
+Narrow blade and deep frame.Narrow blade held under tension and adjusted with the screw adjuster. Blades often around 15-17 PPI and are replaced when they break or start to blunt. 
+Teeth (more info on next slide)
+Crosscut or Rip 
+Crosscut or Rip
+Crosscut or Rip
+Blade dependent
+Kerf Size
+Wide
+Medium
+Thin
+Thin
+Cutting Direction
+Push Stroke
+Push Stroke
+Pull Stroke
+Blade dependent
+
+GRAIN DIRECTION
+DIRECTION OF CUT
+Woodworking Saws - Crosscut and Ripsaw
+
+Crosscut teeth
+Crosscut teeth are designed to cut across the grain
+Examples:
+sawing a plank to a desired length
+sawing shoulders for a tenon
+making the cuts for a cross halving joint
+
+Cut Direction:
+
+
+
+
+
+Teeth Shape:
+Rip teeth
+Rip teeth designed to cut with or along the grain.
+Examples:
+sawing a plank to a desired width
+sawing down tails and pins for dovetail joints
+sawing down cheeks of a tenon
+
+Cut Direction:
+
+
+
+
+
+
+
+
+
+Teeth Shape:
+
+GRAIN DIRECTION
+DIRECTION OF CUT
+
+Woodworking Saws - Using Handsaws
+
+Woodworking marking tools 
+Woodworking marking tools allow you to measure and mark your work precisely.
+The tools available in the woodshop include:
+Steel rulers
+Squares
+Sliding bevel
+Wheel marking gauges
+Dividers
+Pencils and marking knives; 
+The next few slides introduce some of these tools.
+
+Marking tools - Square and sliding bevel
+Used to make marks square to an edge or check the squareness of different faces.
+Can also be used to mark a 45-degree angle.
+
+
+Also known as a T-bevel or false square.
+The sliding T bevel can set any angle and transfer it onto another piece.
+
+
+
+Marking tools - Wheel marking gauges
+Provides highly accurate lines.
+Can be used with both pull or push strokes. 
+Place the index finger on the stem while the thumb and middle finger remain behind the fence.
+Do multiple passes, increasing the pressure each time.
+
+Marking tools - dividers
+Used to mark out various types of woodworking joints.
+Used for layout, providing consistent distances, and comparing gaps and openings.
+The points can be used to mark wood.
+
+Recap of the training
+We have covered:
+Setting and using handplanes 
+Handsaw selection and use 
+Marking tools selection and use 
+

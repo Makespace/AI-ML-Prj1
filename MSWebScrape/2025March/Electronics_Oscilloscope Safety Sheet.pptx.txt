@@ -1,0 +1,12 @@
+DO
+Visually inspect the unit and cabling before use to check for faults.
+Switch the unit off after use. 
+DO NOT 
+Drop and damage the unit. 
+Power the unit if faulty.
+Exceed the input voltage rating. 
+If in doubt: switch off the unit
+Dangerous faults should be reported to the group and Management and the item labelled ‘Faulty: Do not use’. 
+Electric shock hazard, burns hazard; fire hazard
+GREEN EQUIPMENT: Low risk of personal injury
+Oscilloscope Safety

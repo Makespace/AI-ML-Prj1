@@ -1,0 +1,400 @@
+Warco Metal Mill
+Online Training
+
+Table of contents
+Overview, or what you will get from this training
+Safety
+Preparation, Set-up and Operation
+
+Warco Metal Mill
+What you will get from this training
+
+Scope of the training
+These online materials are designed to get you ready to operate the Makespace Warco Mill.
+No prior knowledge of how to use a metal mill is assumed.
+If you already know how to use metal mills, this material has been designed to get you up to speed with our particular Warco quickly. Please be patient with the process and if you have any tips to improve this guide, let us know!
+This guide covers what all the metal mill users need to know in Makespace.
+
+Learning objectives
+How the Warco mill works
+How to inspect the equipment before use
+How to use it safely
+How to machine metal using the metal lathe
+Cleaning-up up after use
+
+This training material gives you a complete overview of the knowledge we expect all users to be familiar with.
+It also gives tips and suggestions on how to get good results.
+You need to complete the final quiz, and the MakeSpace general safety quiz when ready.
+Once you have passed the quizzes, you can arrange to have in-person assessment. Only once you have been shown person-to-person can you use the equipment.
+What you need to do 
+
+Warco Metal Mill
+Safety 
+
+How to use the Warco metal mill safely
+A mill is potentially one of the most dangerous machines in a workshop, however if correctly used it is extremely safe.
+
+It is you that makes the difference.
+
+
+
+Operator safety rules
+Always wear eye protection - Sharp edged chips can be thrown off the workpiece at high speed;
+
+Make sure to not use anything that can get stuck in the machine. This includes:
+Ties and scarves;
+Bracelets, necklaces and rings;
+Long sleeves;
+Gloves;
+Wired headphones;
+Long hair must be tied up or securely held back.
+
+Warco Metal Mill safety shield
+Interlocked
+safety shield
+must be in place before the machine will start
+
+Warco Metal Mill safety: Setup
+The safe operation of a milling machine is all down to the preparation and setup of the machine.
+Do not adjust the machine if it is capable of starting to move, or already moving.
+Rigidity, rigidity, rigidity: The limitations of the mill will always be due to unwanted movement of the work or the cutting tool.
+Always be prepared to abandon an operation if it is becoming difficult to setup with rigidity, or the mill starts making strange noises.
+
+
+Warco Metal Mill safety: Operation
+Inspect the mill for cleanliness and damage
+Verify that the chuck it is secure and that the draw bar is properly engaged
+Insert a sharp tool into the correct sized collet and secure in the chuck
+Clamp your work to the mill table ensuring all areas to be milled are supported
+Use the mill!
+Shutdown
+Clean up the mill
+
+The safety screen in front of the chuck is essential to protect you from flying chips and metal.  The mill should not start if the screen is not in place.  Check that the safety switch is working and do not use the mill if it is damaged
+The most common problem is trying to remove too much work material in one pass.  This can overheat the mill motor, place stress on its components and possibly break the cutting tool which could fly apart.
+
+
+Warco Mill safety: Additional checks & tips
+
+The Six absolute No-Nos of milling
+Never let your chuck or workpiece come loose, always check everything is tight before use, also check the rest of your mill as you don’t know how competent the previous user was.  
+Never start your mill whilst your tool is loose in the chuck, always check
+Never leave your chuck key in the chuck (drill chuck)
+Never allow your cutting tool to hit the vice jaws or table – always check clearance before starting the mill
+Never try to mill unsupported work.  Stop and improve clamping if vibration becomes excessive
+Never look round behind the safety screen if the mill is running
+
+
+
+Warco Metal Mill
+Preparation, Set-up, and Operation
+
+
+Getting to know your mill
+The Warco mill is a simple machine but your safety and the quality of your work depend on correct setup and adjustment so it’s good to spend some time getting to know the machine
+Belt housing
+Quill feed for drilling
+DRO
+Chuck
+Oil sump for lubrication
+Milling vice
+Milling table (carriage)
+X axis handle
+Y axis handle
+Z axis handle
+Motor control
+1
+2
+3
+4
+5
+6
+7
+8
+8
+9
+10
+11
+
+Getting to know your mill
+Your workpiece must be firmly supported and clamped to the milling table.  You use the X and Y handles to move the table left to right and forwards and back.  The Z handle raises or lowers the table to set the depth of cut.
+Belts are used to change spindle speed
+Quill handle is used like a drill press for drilling
+DRO allows precise X, Y and Z positioning
+Mill chuck for mill cutters, drill chuck for drilling
+Oil sump for lubrication of moving parts
+Milling vice used to hold workpiece if small
+T slots to allow work to be clamped securely
+X axis adjusts position and manual feed rate
+Y axis adjusts position and manual feed rate
+Z axis adjusts depth of cut 
+Motor control (start / stop / emergency stop)
+1
+2
+3
+4
+5
+6
+7
+8
+8
+9
+10
+11
+
+Getting to know your mill: Cutting speed
+The tool rotational speed is set by the position of the belts in the head of the mill
+The belts will not usually need to be adjusted for milling at Makespace.  The speed will need to be reduced if using large drill bits, particularly in steel
+Too much spindle speed will generate excess heat which will soften the tool and blunt it faster 
+Reduce your cut depth and feed rate if the workpiece is getting too hot
+Suggestion: look at the speed table in these slides or the Machinery’s Handbook in the kitchen for more information
+
+Getting to know your mill: Motor control
+Start (clockwise)
+NORMAL STOP
+Anti-clockwise - don’t use unless you have left cutting tools
+
+(Covered with a safety cap - do not remove)
+EMERGENCY STOP
+
+Getting to know your lathe: Safety shield
+The transparent plastic safety shield performs several functions:
+It is safety-interlocked to prevent the motor running if it is not in place.
+It helps protect the user from debris, or if the tool comes loose.
+It makes it harder to leave the chuck key in the chuck by accident (drill chuck).
+It reduces cutting fluid, coolant, and oil splashes.
+Do not look around the shield when the mill is running.  Do not move the shield until the mill has stopped.
+
+Personal Protective Equipment (PPE)
+Do not use hearing protection.  You need to be aware of your machine and people around you.  If the mill is making a lot of noise, investigate the problem - feed rate, depth of cut, lubrication or / and blunt tool.
+Gloves are not advised when operating the machine because if your hand catches on the chuck, gloves will catch and drag you in.
+Tie back any loose clothing, and especially long hair or long sleeves, etc. because these cause fatal accidents when they are caught/entangled.
+Goggles are required.
+Other people working in the workshop space should also have eye protection if you are using this equipment because razor sharp metal chips will be flung across the room.
+Goggles are outside the doors to the secure workshop
+
+Inspecting the Mill before work
+Never skip a thorough inspection of the mill before switching its power on:
+
+Check the general area is clean and clear
+Check that the chuck is clear of any entanglement
+Make sure that no objects are on the mill, and that nothing is in the way of the moving table
+Check the oil level in the lubrication system on the left side of the mill.
+Keep the equipment owners informed if you do find a problem, as this helps Makespace keep an eye on whether the equipment is working optimally. Please email maintenance@makespace.org with any concerns.
+
+Inspecting the Mill before work
+Lubrication/oil checks
+There is one oil sump on the left side of the mill.  It should be more than half-filled before starting work.  Top up with lubricating oil if low.  If oil is not available this is not a major panic but report it to management. 
+The correct lubricant is Slide Oil
+
+Setting up your mill
+To get power to the machine:
+
+Switch on at the wall
+
+
+If you find the mill to be unsafe, unplug it from the mains and place a notice on the mill.  Inform management of the problem.
+
+
+1
+
+Setting the spindle speed for optimal cutting 
+The machine MUST be switched off at the mains before opening the belt box
+
+
+
+
+SFM To RPM Chart (Metric)
+machiningdoctor.com
+SFM - surface feet per minute
+
+Preparing your work: Getting ready
+Your workpiece must be fully supported and clamped to the milling table.  If it comes loose your work will be ruined and it may cause a serious accident
+
+The Warco milling tool holder takes threaded mill cutters in suitable collets.  If the Makespace milling tool in its collet is too large to go through the hole in the chuck, pass the cutter through the tool holder and fit the collet from the rear
+
+The drilling chuck is used for drilling operations and can also be used to align taps.  Only manual tapping is supported on this mill.  Do not engage power when tapping.
+
+
+
+
+
+Preparing your work: Making it secure
+Your workpiece must be fully supported and clamped to the milling table.  If it comes loose, your work will be ruined and it may cause a serious accident
+
+In addition to the clamps shown in the picture you will often have to make spacers to support and clamp your workpiece - take time to do this carefully
+
+The milling vice together with parallels from the red cabinet can be used to secure small parts.  Consider using V blocks to hold round bar.  Before using the vice you will need to check that it is parallel with the table slots.  Use a dial gauge mounted on the mill column if you need precision.  Only adjust with the mill stopped.
+
+
+
+
+Safety: Check the chuck is secure!
+You must always check the chuck is secure by gently tightening the drawbar before running the mill.
+The mill accepts taper chucks.  The chuck should be inserted smartly into the mill to engage the taper.  It should not be possible to remove the chuck by pulling down.
+A safety drawbar accessed from the belt compartment passes through the spindle and screws into the back of the chuck taper.  This should not be overtightened - it is not intended to pull the chuck further into the spindle.  Lock the drawbar with its lower nut
+
+
+Safety first: The chuck key
+A chuck key is required to tighten the drilling chuck used with high-speed drill bits or taps.
+Make sure the cutting tool is properly centred as you tighten the chuck.
+One of the most dangerous things that you can do on the mill is to leave the chuck key in the chuck.
+It is good practice to put the chuck key somewhere easy to see, and to look for it regularly when using the mill.
+It is dangerous because it can either be thrown by the chuck with the large forces involved causing a lot of damage
+
+
+Secure your workpiece to the table
+Large forces are involved in milling.  It is essential that your workpiece is rigidly clamped to the table and that your clamps will not foul the cutter.  
+If the size of your work permits, the easiest way of holding it securely will be in the milling vice.  You must position the vice such that it doesn’t impact the milling machine column when you make the cut nearest the back of the mill 
+If your work extends beyond the jaws of the vice it will need additional support if the mill starts to vibrate or chatter.  The quality of your finish is likely to be poor
+
+
+Table clamps
+If your workpiece is to big to fit in the vice jaws or is of irregular shape, you can clamp it to the table with a range of clamps available at makespace 
+You may need to pack the back of your work to ensure it is fully supported.  You can use materials from the scrap bins if necessary
+However you clamp your work, you must ensure that it is fully rigid and that the clamps won’t be in the way of cutting
+
+
+Milling Cutters - end mills
+  
+End mills are one type of cutting tool used with the milling machine. Similar to drill bits, they are available in a wide range of sizes, types and materials.
+Chips caused by the cutting process will gather in the spaces between the flutes as they are cutting. If you are cutting a material that creates big chips, such as aluminum, it makes sense to use an end mill with fewer flutes, so that there is enough space for the volume of the chips. The two most popular types of fluted mills are 2-flute mills and 4-flute mills.
+
+
+
+
+
+
+Cutting tools - Makespace’s collection
+We have a selection of tools that cover many types of milling work
+Some of the older cutters are blunt - if you find one please put it in the ‘blunt cutter’ box so that we can replace it
+
+
+
+
+
+The table
+The table allows the workpiece to be moved under the cutter in three directions:
+Left - right: the X axis		Front - back: the Y axis			Up - down: the Z axis
+
+
+X
+Y
+Z
+
+Safety before Starting – each and every time
+Always make sure of two things when using the milling machine:
+1. That the work area is safe, there is nothing lying on the mill that shouldn’t be, especially the chuck key. Also check before starting that the milling cutter will not collide with anything.
+2. You have nothing on you that can get caught in the chuck of the mill. Beware of loose clothing, long sleeves, jewellery and especially long hair. All of these are a total no-no. Whilst eye protection is mandatory do not wear anything that will impair your hearing – if you listen to the mill while it cuts the mill will tell you how well you are doing. 
+Do not use gloves as they impair the physical feed-back from the mill.  You must be able to activate the stop switch and emergency stop switch instantly.
+You are also responsible for the safety of all others around you, check them every time before you start the mill and ensure that they know you are starting. 
+
+
+
+
+Starting the mill spindle
+The guard must be closed to start system.
+Push the black button to activate the mill motor, this will start the chuck running.
+Press the red button to stop the mill. 
+
+
+
+There is a safety cap over the reverse button.  Do not remove it unless you know what you are doing.
+
+Stopping the mill spindle in a hurry
+Push the Emergency Stop Button button
+
+
+
+The Digital Read-Out (DRO)
+The DRO is used for measuring the position of the table so allowing the user to make the next adjustment without having to stop the mill and use callipers or micrometers.
+
+However it is always necessary to establish the correct initial reading after the first cut, after this the DRO can be used.
+
+
+
+Cutting notes
+
+Two flute end mills are used for cutting slots and removing material quickly.  
+End mills with more flutes are used for surfacing, particularly with steel.  
+Bullnose mills are used to create semi-circular base slots.  
+Corner rounding end mills are used to create radiused chamfers.
+Both imperial and metric cutters are available at Makespace - use the right collet.
+If the mill shrieks or vibrates when cutting adjust your depth of cut and feed rate.
+Use lubricant to minimize tool and work heating.
+
+Cutting a slot
+End mill cutters can be plunged into the work as they cut on their end
+
+Your instructor will demonstrate a cut to you then you can do one.
+
+Always be careful that you do not drive the cutting tool into the vice or table.
+
+
+Feng, Yixuan & Hsu, Fu-Chuan & Lu, Yu-Ting & Lin, Yu-Fu & Lin, Chorng-Tyan & Lin, Chiu-Feng & Lu, Ying-Cheng & Liang, Steven. (2019). Residual stress prediction in ultrasonic vibration–assisted milling. The International Journal of Advanced Manufacturing Technology. 104. 10.1007/s00170-019-04109-y. 
+
+Making a peripheral cut
+This type of operation involves bringing the tool into the side of the work.
+
+Compared to face milling, peripheral milling is more effective at removing large amounts of material from workpieces. This is because it uses the sides of the milling cutter rather than the tip. 
+
+Typically, you will bring the tool to the edge of the work to zero the DRO.  Use an edge finder if you need precision.
+
+Remove the material in a series of passes.  
+Don’t try to remove too much material in one pass as the finish will be poor and the mill might be overloaded
+
+Radiusing / Chamfering
+Chamfering is performed by using a chamfering mill.
+
+Chamfer tools have a fixed radius.  Makespace has a small selection in the red cabinet.  
+
+Make the chafer cut in several passes if the radius is large.
+
+
+Toms Techniques, Sep 21, 2013
+
+Drilling operations on the mill
+The drill chuck mst be secured in place with the drawbar.  The drawbar should not be overtightened - it is used to retain the chuck, not pull it into the taper.
+
+Use the quill lever like a drill press to plunge the drill into the work
+
+Use lubricant and consider the spindle speed
+
+
+
+The mill is the ideal tool to use if you need to drill accurately positioned holes in metal.  You need to change the milling chuck for a drill chuck
+
+Drilling a hole into an angled workpiece
+If you try to drill into an angled or circular workpiece your drill will wander and may break, potentially causing a hazard.  You need to first mill a flat face and use a centre or slot drill to ensure your drilling operation is safe and accurate.   
+
+
+There is an excellent YouTube by Joe Pie explaining this and showing how to safely drill into angled and round material
+
+
+https://www.youtube.com/watch?v=e3dPUvgKRBU
+
+Tapping 
+Do not tap under power in the Makespace milling machine - it will not work and is unsafe
+
+You can and should use the drill chuck to hold your tap to start the thread manually 
+
+The power must be off
+The tap must be firmly secured in the chuck
+Use the drill quill lever to advance the tap into the correct sized hole
+Gently apply downward pressure on the quill as you rotate the chuck by hand
+Lubricate your thread
+Finish with a tapping tool holder once the thread has started perpendicular to the hole
+
+
+Needs suitable image
+
+Shutdown at end of work
+Hit e-stop and then turn off at wall.
+Check there is not a tool in the chuck, the safety cover is in place and the e-stop switch is pushed in.
+
+
+Cleaning the mill: keep it clean!
+Take work out, replace all the bits you may have changed/removed, brush stuff off the swarf from slides and other surfaces with the paintbrush and swarf.  
+Clean out the sump tray surrounding the mill .  
+For cleaning up gloves are mandatory.  
+Swarf is razor sharp and can go septic if it gets under your skin.
